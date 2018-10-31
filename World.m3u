@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 ,HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 ,NHK
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 ,Japan 24news
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,新唐人电视台
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人电视台
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1 ,新唐人-美东频道
+https://live2.ntdimg.com/live330/playlist.m3u8
+#EXTINF:-1 ,新唐人-美西频道
+http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,加拿大中文电视台
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
+#EXTINF:-1 ,新传媒8频道
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+#EXTINF:-1 ,国家地理中文
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 ,美国中文电视
+rtmp://media3.sinovision.net:1935/live/livestream
+#EXTINF:-1 ,美國創世電視
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_mkz6lwog/sd/10000/t/E_sHOr-u2luCZNl5-f94tw/index-s34.m3u8
+#EXTINF:-1 ,韩国arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,韩国EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,阿聯酋UAE SPORTS HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 ,新加坡Mediacorp Channel 8
+https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index_5.m3u8
+#EXTINF:-1 ,新加坡Mediacorp Channel U
+https://ftachu.akamaized.net/out/v1/71d762324c994b3481cf38f2c24b16bf/index_5.m3u8
+#EXTINF:-1 ,新加坡Mediacorp Channel 5
+https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_5.m3u8
+#EXTINF:-1 ,新加坡Channel News Asia
+https://ftacnas.akamaized.net/out/v1/9ddbc4447c95436baf9bcf61377f7046/index_5.m3u8
+#EXTINF:-1 ,彭博澳洲
+https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 ,CBS News 1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,CBS News 2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 ,Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 ,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 ,Astro Arena HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+#EXTINF:-1 ,英国天空新闻台
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,布鲁内尔音乐台
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 ,半岛电视台
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 ,联合国频道
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8
+#EXTINF:-1 ,韩国佛教
+rtmp://123.108.164.112/etv1/phd553
+#EXTINF:-1 ,ElevenSports 1
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1 ,ElevenSports 2
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1 ,日本HISTORY TV
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 ,NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1 ,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1 ,CBN News
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
+#EXTINF:-1 ,CBN TV
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 ,TeleCadena SBN
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w258668948_b548000_sleng.m3u8
+#EXTINF:-1 ,Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 ,土耳其TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 ,SPORT
+https://str-1.mediabay.tv/SportUz/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,HTM HD TV
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 ,CBN News TV HD
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8
+#EXTINF:-1 ,1HD Music TV (Music)
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,Music Choice TV HD (Teen Beats)
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
+#EXTINF:-1 ,Family Gekijoファミリー劇場
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 ,国外未知频道
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 ,Телеканал 360° TV
+http://85.132.71.6/ru/360/index.m3u8
+#EXTINF:-1 ,Телеканал 360° HD TV
+http://now2.eaglecdn.com/stream_transcoded_720/360tv_360media_hi/index.m3u8
+#EXTINF:-1 ,BigBuckBunny HD TV
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1 ,NR1 4K Ultra HD (Music)
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist_w1408563973.m3u8
+#EXTINF:-1 ,CMC Music TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 ,Sony Movie Channel TV HD (Movies)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1 ,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_256_av-p.m3u8
+#EXTINF:-1 ,Bloomberg TV FHD (News)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 ,CBS-24 NEWS TV HD (News)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:-1 ,Fox Movie TV (Movies)
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+#EXTINF:-1 ,MSNBC TV HD (News)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:-1 ,CNN TV HD (News)
+http://ott-cdn.ucom.am/s27/04.m3u8
+#EXTINF:-1 ,Music Choice TV HD
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 ,Music Choice TV HD (Toddler Tunes)
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/chunklist.m3u8
+#EXTINF:-1 ,Music Choice TV HD (Kidz Only)
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/chunklist.m3u8
+#EXTINF:-1 ,Music Choice TV HD (Y2K)
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/chunklist.m3u8
+#EXTINF:-1 ,MSNBC TV (News)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
+#EXTINF:-1 ,CBN TV NEWS
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8
+#EXTINF:-1 ,CBN TV HD (News)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-b.m3u8
+#EXTINF:-1 ,Byu TV HD
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 ,Bloomberg TV FHD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,Beach TV HD
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1824157812.m3u8
+#EXTINF:-1 ,Panama City TV HD
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w86683521.m3u8
+#EXTINF:-1 ,SONY
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+#EXTINF:-1 ,QVC TV HD USA
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8
+#EXTINF:-1 ,QVC2 TV HD USA
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
+#EXTINF:-1 ,QVC Beauty IQ TV HD USA
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b4192000.m3u8
+#EXTINF:-1 ,QVC TV HD UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 ,QVC Beauty TV HD UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 ,未知日语电影
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 ,BBC One(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 ,BBC Two HD(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1 ,BBC Four HD(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1 ,CBBC HD(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1 ,CBeebies HD(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1 ,BBC News HD(须UK梯子)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1 ,CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,WWE摔跤
+http://59.80.39.50/flv3.quanmin.tv/live/3766_2115620138.flv
+#EXTINF:-1 ,皇马足球台
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
