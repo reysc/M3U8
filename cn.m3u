@@ -27,8 +27,6 @@ http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227400/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 ,CCTV2FHD
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
-#EXTINF:-1 ,CCTV2FHD
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227412/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 ,CCTV3
@@ -401,8 +399,6 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8
 #EXTINF:-1 ,CETV1
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
-#EXTINF:-1 ,广东体育频道
-http://live3.nty.tv189.com/tm-gdsport-800k.m3u8
 #EXTINF:-1 ,上海五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/3.m3u8
 #EXTINF:-1 ,劲爆体育
@@ -435,8 +431,6 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
 #EXTINF:-1 ,NewTV金牌综艺
 http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
-#EXTINF:-1 ,NewTV金牌综艺FHD
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225559/index.m3u8
 #EXTINF:-1 ,NewTV精品大剧
 http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
 #EXTINF:-1 ,NewTV精品大剧FHD
@@ -453,12 +447,8 @@ http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8
 #EXTINF:-1 ,NewTV农业致富
 http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225537/index.m3u8
 #EXTINF:-1 ,NewTV古装剧场
 http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
-http://223.110.245.170/ssott.js.chinamobile.com/PLTV/3/224/3221225527/index.m3u8
 #EXTINF:-1 ,NewTV军旅剧场
 http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
 #EXTINF:-1 ,NewTV欢笑剧场
@@ -477,8 +467,6 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226935/index.m3u8
 #EXTINF:-1 ,IPTV经典电影
 rtsp://119.39.49.116:554/ch00000090990000001054.sdp?vcdnid=001
-#EXTINF:-1 ,未知监控
-http://218.58.74.83/live/qdsjz47/index.m3u8
 #EXTINF:-1 ,江苏城市
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 ,江苏教育
@@ -535,8 +523,6 @@ http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
 #EXTINF:-1 ,战旗影院8
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 ,战旗影院6
-http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
 #EXTINF:-1 ,战旗-火影
 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 #EXTINF:-1 ,战旗影视 10
@@ -571,20 +557,12 @@ http://dlhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 ,战旗-懒猫美食
 http://dlhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-#EXTINF:-1 ,战旗-声优EVENT动漫
-http://dlhls.cdn.zhanqi.tv/zqlive/116067_vYIsj.m3u8
-#EXTINF:-1 ,战旗-科幻HD
-http://dlhls.cdn.zhanqi.tv/zqlive/166623_PXdHI.m3u8
 #EXTINF:-1 ,战旗-拳超人
 http://dlhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
 #EXTINF:-1 ,战旗-动漫
 http://dlhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
-#EXTINF:-1 ,战旗-经典（美）
-http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 #EXTINF:-1 ,战旗-综艺
 http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
-#EXTINF:-1 ,战旗-武林外传
-http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
 #EXTINF:-1 ,VIP电影-悬战
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
 #EXTINF:-1 ,VIP电影-非常营救
