@@ -45,8 +45,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 ,Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 ,Astro Arena HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1 ,英国天空新闻台
@@ -59,8 +57,6 @@ http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 ,联合国频道
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8
-#EXTINF:-1 ,韩国佛教
-rtmp://123.108.164.112/etv1/phd553
 #EXTINF:-1 ,ElevenSports 1
 http://61.58.60.230:9000/live/75.m3u8
 #EXTINF:-1 ,ElevenSports 2
@@ -71,8 +67,6 @@ http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1 ,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 #EXTINF:-1 ,CBN News
 http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
 #EXTINF:-1 ,CBN TV
@@ -109,16 +103,12 @@ http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist_w1408563973.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 ,Sony Movie Channel TV HD (Movies)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:-1 ,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_256_av-p.m3u8
 #EXTINF:-1 ,Bloomberg TV FHD (News)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ,CBS-24 NEWS TV HD (News)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 #EXTINF:-1 ,Fox Movie TV (Movies)
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-#EXTINF:-1 ,MSNBC TV HD (News)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
 #EXTINF:-1 ,CNN TV HD (News)
 http://ott-cdn.ucom.am/s27/04.m3u8
 #EXTINF:-1 ,Music Choice TV HD
@@ -129,8 +119,6 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/chunk
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/chunklist.m3u8
 #EXTINF:-1 ,Music Choice TV HD (Y2K)
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/chunklist.m3u8
-#EXTINF:-1 ,MSNBC TV (News)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
 #EXTINF:-1 ,CBN TV NEWS
 http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8
 #EXTINF:-1 ,CBN TV HD (News)
@@ -157,6 +145,14 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 ,未知日语电影
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 ,CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,WWE摔跤
+http://59.80.39.50/flv3.quanmin.tv/live/3766_2115620138.flv
+#EXTINF:-1 ,皇马足球台
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 ,BBC One(须UK梯子)
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 #EXTINF:-1 ,BBC Two HD(须UK梯子)
@@ -169,11 +165,3 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 #EXTINF:-1 ,BBC News HD(须UK梯子)
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
-#EXTINF:-1 ,CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 ,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,WWE摔跤
-http://59.80.39.50/flv3.quanmin.tv/live/3766_2115620138.flv
-#EXTINF:-1 ,皇马足球台
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
