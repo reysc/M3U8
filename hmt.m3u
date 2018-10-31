@@ -24,8 +24,6 @@ http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 ,凤凰卫视中文HD
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 ,凤凰卫视资讯HD
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,凤凰卫视资讯HD
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,凤凰卫视资讯台
 http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
@@ -171,8 +169,6 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 ,环球电视综合频道
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-#EXTINF:-1 ,华诚影视
-http://ltetp3.tv189.com/live/tm-cridyty-800k.m3u8
 #EXTINF:-1 ,好消息电视台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 ,GOODTV好消息台
@@ -239,19 +235,3 @@ rtmp://mjcao-001.wecast.hk:1935/live/chinese
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 #EXTINF:-1 ,澳广视TDM
 http://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
-#EXTINF:-1 ,亚视A1台1080P(须HK梯子)
-https://b0089da344670decec019f8c7adbbaaa.live.prod.hkatv.com/a1_abr_hi.m3u8
-#EXTINF:-1 ,亚视A1台720P(须HK梯子)
-https://894e4e718bd20702a29a206d1eb990ee.live.prod.hkatv.com/a1_abr_lo.m3u8
-#EXTINF:-1 ,亚视经典台1080P(须HK梯子)
-https://aab436ffe29ffd2ca7779f01f2bd5ff8.live.prod.hkatv.com/a2_abr_hi.m3u8
-#EXTINF:-1 ,亚视经典台720P(须HK梯子)
-https://c0b1d3a8f5c1b7734fb63d037657b5fa.live.prod.hkatv.com/a2_abr_lo.m3u8
-#EXTINF:-1 ,tvN Asia 1080P(须HK梯子)
-https://1e5a0f0a4b117d61e1ae152643cab6ef.live.prod.hkatv.com/t1_abr_hi.m3u8
-#EXTINF:-1 ,tvN Asia720P(须HK梯子)
-https://bcdd2dfa9ea990d54f311237c30cf614.live.prod.hkatv.com/t1_abr_lo.m3u8
-#EXTINF:-1 ,tvN Movies 1080P(须HK梯子)
-https://76bdec8e4e8445b566174e981d3bd381.live.prod.hkatv.com/t2_abr_hi.m3u8
-#EXTINF:-1 ,tvN Movies 720P(须HK梯子)
-https://ab6cfc113c2d98ff5c7eed73bdb67cd5.live.prod.hkatv.com/t2_abr_lo.m3u8
