@@ -37,8 +37,38 @@ http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 #EXTINF:-1 ,CNEX紀實頻道-HD
 http://61.58.60.230:9000/live/257.m3u8
+#EXTINF:-1 ,新唐人电视台
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人-美东频道
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1 ,新唐人-美东频道
+https://live2.ntdimg.com/live330/playlist.m3u8
+#EXTINF:-1 ,新唐人-美西频道
+http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,加拿大中文电视台
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
+#EXTINF:-1 ,加拿大中文电视台
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-p.m3u8
+#EXTINF:-1 ,加拿大国家电视台
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
+#EXTINF:-1 ,加拿大国家电视台
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1 ,新传媒8频道
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+#EXTINF:-1 ,美国中文电视
+http://cdnmedia1.sinovision.net/247A45/live/livestream.m3u8
+#EXTINF:-1 ,美国中文电视
+rtmp://media3.sinovision.net:1935/live/livestream
+#EXTINF:-1 ,美國創世電視
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_mkz6lwog/sd/10000/t/E_sHOr-u2luCZNl5-f94tw/index-s34.m3u8
+#EXTINF:-1 ,美國創世電視
+http://cdnapi.kaltura.com/p/2050161/sp/205016100/playManifest/entryId/1_mkz6lwog/format/applehttp/protocol/http/uiConfId/38397312/a.m3u8
+#EXTINF:-1 ,香港創世電視
+http://cdnapi.kaltura.com/p/2050161/sp/205016100/playManifest/entryId/1_k5i4l96e/format/applehttp/protocol/http/uiConfId/38397302/a.m3u8
 #EXTINF:-1 ,好莱坞中文卫视
 http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+#EXTINF:-1 ,国家地理中文
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 ,ATV A1
 https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo_1.m3u8
 #EXTINF:-1 ,奇妙電視77台
