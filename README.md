@@ -13,7 +13,7 @@ https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
 -------------iOS端APP---------------
 
-GoTV - M3U IPTV Player（推荐，可自动更新订阅）
+GoTV - M3U IPTV Player(推荐，可自动更新订阅)
 https://itunes.apple.com/cn/app/gotv-m3u-iptv-player/id1271283728?mt=8
 
 Flex IPTV
