@@ -13,6 +13,8 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w659662875.m3u8
 #EXTINF:-1 ,Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist_b2592000.m3u8
+#EXTINF:-1 ,Miami TV
+http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 ,MIAMI TV USA | SD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV
