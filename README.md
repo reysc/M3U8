@@ -12,6 +12,8 @@ IPTV
 https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
 -------------iOS端APP---------------
+nPlayer(推荐，可更新订阅)
+https://itunes.apple.com/cn/app/nplayer/id1116905928?mt=8
 
 GoTV - M3U IPTV Player(推荐，可自动更新订阅)
 https://itunes.apple.com/cn/app/gotv-m3u-iptv-player/id1271283728?mt=8
