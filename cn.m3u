@@ -327,6 +327,8 @@ http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 #EXTINF:-1 ,清华大学电视台
 http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
+#EXTINF:-1 ,中华美食
+http://cbn-pb.cbchot.com/live/ch092_1.m3u8
 #EXTINF:-1 ,动漫秀场
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225778/3.m3u8
 #EXTINF:-1 ,MAX急速汽车
@@ -355,6 +357,8 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 #EXTINF:-1 ,中国气象频道
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1 ,中国气象
+http://cbn-pb.cbchot.com/live/ch094_1.m3u8
 #EXTINF:-1 ,CGTN
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 #EXTINF:-1 ,CETV1
@@ -431,6 +435,10 @@ rtsp://119.39.49.116:554/ch00000090990000001054.sdp?vcdnid=001
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 #EXTINF:-1 ,黄冈公共频道
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
+#EXTINF:-1 ,三沙卫视
+http://stream1.hnntv.cn/ssws/playlist.m3u8
+#EXTINF:-1 ,三亚新闻综合
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 #EXTINF:-1 ,江苏城市
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 ,江苏教育
