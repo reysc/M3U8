@@ -47,10 +47,32 @@ http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1 ,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 ,JOJFAMILY
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 ,朝鲜中央电视台
+http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 ,韩国arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,韩国EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,韩版TV-CHOSUN
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1 ,韩-CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 ,韩-PAX
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1 ,韩国GoodTV
+rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp
+#EXTINF:-1 ,gsshop
+http://123.108.164.71/etv2/phd883/playlist.m3u8
+#EXTINF:-1 ,SilvernetNews
+http://123.108.164.71/etv2/phd1181/playlist.m3u8
+#EXTINF:-1 ,BTNHD
+http://123.108.164.71/etv2/phd34/playlist.m3u8
+#EXTINF:-1 ,CHOUXIAN
+rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
 #EXTINF:-1 ,阿聯酋UAE SPORTS HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 ,新加坡Mediacorp Channel 8
@@ -59,6 +81,10 @@ https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index_5.m3u
 https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_5.m3u8
 #EXTINF:-1 ,新加坡Channel News Asia
 https://ftacnas.akamaized.net/out/v1/9ddbc4447c95436baf9bcf61377f7046/index_5.m3u8
+#EXTINF:-1 ,今日俄罗斯记录
+http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1 ,RAI4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 ,布鲁内尔音乐台
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:-1 ,CMC Music TV
@@ -127,6 +153,14 @@ http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1824157812.m3u8
 #EXTINF:-1 ,Panama City TV HD
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w86683521.m3u8
+#EXTINF:-1 ,泰国ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,泰国SUVARNABHUMI
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1 ,泰国DDTV
+rtmp://203.156.63.20:1935/live/ddtv
+#EXTINF:-1 ,越南QBVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 ,国外未知频道
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 ,未知日语电影
