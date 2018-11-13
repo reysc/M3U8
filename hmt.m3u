@@ -91,8 +91,6 @@ http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_5
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 ,HBO中文
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 ,探索频道
-rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 ,ATV A1
 https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo_1.m3u8
 #EXTINF:-1 ,奇妙電視77台
@@ -100,7 +98,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,星空卫视
 http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 #EXTINF:-1 ,中华卫视神州台
-rtmp://pull.kapad.cn:1935/live/livechtv
+http://pull.kapad.cn/live/test/playlist.m3u8
 #EXTINF:-1 ,中天新闻HD
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 ,台视新闻HD
@@ -171,8 +169,6 @@ http://61.216.177.73/sta/ch1865024.m3u8
 http://61.58.60.230:9000/live/254.m3u8
 #EXTINF:-1 ,天下卫视
 http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
-#EXTINF:-1 ,中方音乐台
-http://61.216.177.73/sta/ch1865037.m3u8
 #EXTINF:-1 ,香港佛陀教育協會
 rtmp://hk1.hwadzan.com/liveedge/livetv
 #EXTINF:-1 ,生命电视
@@ -195,10 +191,6 @@ rtmp://61.160.254.37/liveedge/cult
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
 #EXTINF:-1 ,亚洲旅游台
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-#EXTINF:-1 ,亚洲旅游台
-http://61.216.177.73/sta/ch1865009.m3u8
-#EXTINF:-1 ,台藝2台
-http://61.216.177.73/sta/ch1865011.m3u8
 #EXTINF:-1 ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 #EXTINF:-1 ,天良HD
@@ -211,8 +203,6 @@ rtmp://220.130.241.203:1935/sjtv/livestream_720p
 http://61.216.177.73/sta/ch1865003.m3u8
 #EXTINF:-1 ,三宝电视
 http://61.216.177.73/sta/ch1865004.m3u8
-#EXTINF:-1 ,信大HD
-http://61.216.177.73/sta/ch1865005.m3u8
 #EXTINF:-1 ,富立HD
 http://61.216.177.73/sta/ch1865022.m3u8
 #EXTINF:-1 ,幸福空間居家
