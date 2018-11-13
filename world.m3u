@@ -25,12 +25,10 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ,彭博欧洲
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 ,彭博欧洲,
+#EXTINF:-1 ,彭博欧洲
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ,联合国频道
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8
-#EXTINF:-1 ,CBN News
-http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
 #EXTINF:-1 ,CBN News TV HD
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8
 #EXTINF:-1 ,CBN TV
@@ -51,6 +49,94 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 ,JOJFAMILY
 http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 ,LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,УКРАИНА М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,УКРАИНА OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 ,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1 ,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://81.25.234.43:8083/tv/bollywoodHD/playlist.m3u8
+#EXTINF:-1 ,Дон 24 [HD]
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,BigBuckBunny
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1 ,M-1 Global TV HD (English)
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8
+#EXTINF:-1 ,Silence TV World HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 ,NR1 4K (Fake)
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1 ,RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1 ,Правда ТУТ HD
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
+#EXTINF:-1 ,Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 ,Fox HD
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/219/index.m3u8
+#EXTINF:-1 ,Дом Кино HD
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/911/index.m3u8
+#EXTINF:-1 ,Русская Комедия
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/733/index.m3u8
+#EXTINF:-1 ,VIP Premium HD (дубль)
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/202/index.m3u8
+#EXTINF:-1 ,VIP Comedy HD (дубль)
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/200/index.m3u8
+#EXTINF:-1 ,VIP Megahit HD (дубль)
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/201/index.m3u8
+#EXTINF:-1 ,Barbariki TV
+http://wse.planeta-online.tv:1935/live/channel_6/chunks.m3u8
+#EXTINF:-1 ,History HD
+http://71e15546.iptvspy.net/iptv/WMQW5CGQTFV7A3/231/index.m3u8
+#EXTINF:-1 ,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1 ,Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 ,DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 ,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 ,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 ,TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 ,PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 ,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 ,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 ,FOX SPORTS RACING HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 ,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 ,HUNT CHANNEL
+https://nimble.huntchannel.tv:4433/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+#EXTINF:-1 ,MOVEE
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 ,SIDEWALKS HD
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 ,HTM HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ HD
+http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
+#EXTINF:-1 ,СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 ,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1 ,LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 ,Potsdam TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1 ,拳击M1 Global TV HD
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/smil:m1globaltv-rtmp-ru.smil/chunklist_b4628001.m3u8
 #EXTINF:-1 ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 ,韩国arirang
@@ -59,20 +145,18 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩版TV-CHOSUN
 rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1 ,韩版TV-CHOSUN
+rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
 #EXTINF:-1 ,韩-CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 ,韩-PAX
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1 ,韩国GoodTV
 rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp
-#EXTINF:-1 ,gsshop
+#EXTINF:-1 ,Gsshop
 http://123.108.164.71/etv2/phd883/playlist.m3u8
 #EXTINF:-1 ,SilvernetNews
 http://123.108.164.71/etv2/phd1181/playlist.m3u8
-#EXTINF:-1 ,BTNHD
-http://123.108.164.71/etv2/phd34/playlist.m3u8
-#EXTINF:-1 ,CHOUXIAN
-rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
 #EXTINF:-1 ,阿聯酋UAE SPORTS HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 ,新加坡Mediacorp Channel 8
@@ -165,44 +249,6 @@ rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 ,未知日语电影
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 ,MarshWalk Live Cam at Dead Dog Saloon
-https://58f0f58ecd733.streamlock.net:444/DeadDogSaloonCam3/deaddog3/chunklist_w686603260.m3u8
-#EXTINF:-1 ,Dead Dog Saloon Live Bar Cam
-https://58f0f58ecd733.streamlock.net:444/DeadDogSaloonCam2/deaddog2/chunklist_w1538921867.m3u8
-#EXTINF:-1 ,North Beach Plantation Live Cam
-https://58f0f58ecd733.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1333888120.m3u8
-#EXTINF:-1 ,Breakers Sailfish Resort Live Cam
-https://58f0f58ecd733.streamlock.net:444/breakerssailfishcam/breakersmyrcam1/chunklist_w1594796655.m3u8
-#EXTINF:-1 ,Compass Cove Schooner Live Cam
-https://58f0f58ecd733.streamlock.net:444/compassschoonercam/compasscam1/chunklist_w1588863211.m3u8
-#EXTINF:-1 ,Sharky's Deck Cam
-https://58f0f58ecd733.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklist_w1763941545.m3u8
-#EXTINF:-1 ,Pineapple Willy's Beach Pier Live Cam
-https://58f0f58ecd733.streamlock.net:444/pwillys/pwillysbeachcam/chunklist_w937125197.m3u8
-#EXTINF:-1 ,Sharky's Beach Cam
-https://58f0f58ecd733.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w471030286.m3u8
-#EXTINF:-1 ,Live Beach Web Cam from Schooners
-https://58f0f58ecd733.streamlock.net:444/schoonersbeachHDCam830294711349/schbeach/chunklist_w1023320152.m3u8
-#EXTINF:-1 ,Live Hill Bar Web Cam from Schooners
-https://58f0f58ecd733.streamlock.net:444/schoonersbarHDCam485687461365/schbar/chunklist_w481594685.m3u8
-#EXTINF:-1 ,Live Sunset Web Cam from Schooners
-https://58f0f58ecd733.streamlock.net:444/schoonerssunsetHDCam392023487563/schsun/chunklist_w905341024.m3u8
-#EXTINF:-1 ,Live Web Cam from Seahaven Beach Resorts
-https://58f0f58ecd733.streamlock.net:444/seahavenHDCam/seahaven/chunklist_w1249784604.m3u8
-#EXTINF:-1 ,Live Beach Cam from Barefoot On The Beach
-https://58f0f58ecd733.streamlock.net:444/barefootonthebeach/barefootonthebeachcam/chunklist_w1737500376.m3u8
-#EXTINF:-1 ,Barefoot Hide A Way Live Beach Cam
-https://58f0f58ecd733.streamlock.net:444/barefoothideaway/barefoothideawaycam/chunklist_w1266541773.m3u8***
-#EXTINF:-1 ,WonderWorks Live Roof Cam
-https://58f0f58ecd733.streamlock.net:444/wonderworks/wonderworksroofcam/chunklist_w1405543557.m3u8
-#EXTINF:-1 ,Runaway Island Beach Cam
-https://58f0f58ecd733.streamlock.net:444/runawayisland/runawayislandcam/chunklist_w801438681.m3u8
-#EXTINF:-1 ,Grand Panama Beach Resort Cam
-https://58f0f58ecd733.streamlock.net:444/emeraldviewresorts/grandpanamacam/chunklist_w1770896437.m3u8
-#EXTINF:-1 ,Gulf World Stingray Bay Live Cam
-https://58f0f58ecd733.streamlock.net:444/gulfworld/stingraycam/chunklist_w1210036256.m3u8
-#EXTINF:-1 ,Live Beach Cam from St. George Island
-https://58f0f58ecd733.streamlock.net:444/blueparrotHDCam/blueparrot/chunklist_w343082143.m3u8
 #EXTINF:-1 ,BBC One(须UK梯子)
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 #EXTINF:-1 ,BBC Two HD(须UK梯子)
