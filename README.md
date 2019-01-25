@@ -2,13 +2,13 @@
 
 -------------Android端APP---------------
 
-LAZY IPTV（推荐，可自动更新订阅）
+LAZY IPTV（推荐，可自动更新订阅,遥控器非完美支持）
 https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv
 
-Perfect Player IPTV
+Perfect Player IPTV(遥控器完美支持)
 https://play.google.com/store/apps/details?id=com.niklabs.pp
 
-IPTV
+IPTV(遥控器非完美支持，无内置播放器，需加载第三方播放器播放，如MX Player)
 https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
 -------------iOS端APP---------------
