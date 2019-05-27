@@ -1,4 +1,4 @@
-# ***Android端APP***
+## ***Android端APP***
 
 LAZY IPTV（可自动更新订阅,遥控器非完美支持，免费有广告）  
 https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv
@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.niklabs.pp
 IPTV(遥控器非完美支持，无内置播放器，需加载第三方播放器播放，如MX Player)  
 https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
-# ***iOS端APP***
+## ***iOS端APP***
 
 MK播放器 for M3U8(好用，支持订阅链接，有公共订阅源自动维护，操作体验好)  
 https://itunes.apple.com/cn/app/mk%E6%92%AD%E6%94%BE%E5%99%A8-for-m3u8/id1455832781
