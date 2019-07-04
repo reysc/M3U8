@@ -3,6 +3,50 @@
 https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 #EXTINF:-1 ,RTI中央廣播電臺
 https://www.soundvideostar.com/live/_definst_/rti3/chunklist_w1417045116.m3u8
+#EXTINF:-1 ,美国之音VOA 汉语
+https://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11
+#EXTINF:-1 ,自由亚洲RFA中文
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1 ,法国国际广播电台中文
+http://live02.rfi.fr/rfienchinois-64.mp3
+#EXTINF:-1 ,法国国际广播电台中文
+http://live02.rfi.fr/rfichinois-96k.mp3
+#EXTINF:-1 ,俄罗斯之声中文
+http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+#EXTINF:-1 ,香港商业电台雷霆881
+https://do5oq4kz0w1x.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunks.m3u8
+#EXTINF:-1 ,香港商业电台叱咤903
+https://do5oq4kz0w1x.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunks.m3u8
+#EXTINF:-1 ,香港商业电台豁达864
+https://do5oq4kz0w1x.cloudfront.net/radio-HTTP/am864.3gp/chunks.m3u8
+#EXTINF:-1 ,香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1 ,香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+#EXTINF:-1 ,香港电台第二台
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1 ,香港电台第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 ,香港电台第四台·音乐
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1 ,香港电台第五台
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 ,香港电台第六台：香港之声
+http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
+#EXTINF:-1 ,香港电台普通话台
+http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+#EXTINF:-1 ,香港D100 PBS台
+http://68.235.39.19:8000/Channel1-128MP3
+#EXTINF:-1 ,香港D100 PBS台
+http://59.152.232.107:8000/Channel1-128MP3
+#EXTINF:-1 ,新城电台财经台104
+https://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-p.m3u8
+#EXTINF:-1 ,新城电台Metro Plus AM1044
+http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
+#EXTINF:-1 ,新城电台知讯台997
+https://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8
+#EXTINF:-1 ,講台
+http://103.11.102.62:8000/talkonly.mp3
 #EXTINF:-1 ,RTI央廣音樂網Live
 https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 #EXTINF:-1 ,RTI央廣音樂網Live
@@ -15,20 +59,10 @@ https://www.soundvideostar.com/live/_definst_/rti6/chunklist_w1608660724.m3u8
 https://www.soundvideostar.com/live/_definst_/hakkaradio/playlist.m3u8
 #EXTINF:-1 ,RTI講客電台Live
 https://www.soundvideostar.com/live/_definst_/hakkaradio/chunklist_w1887734944.m3u8
-#EXTINF:-1 ,美国之音VOA 汉语
-https://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11
-#EXTINF:-1 ,自由亚洲RFA中文
-http://rfalive1.akacast.akamaistream.net/7/984/433977/v1/ibb.akacast.akamaistream.net/RFALive1.m3u
-#EXTINF:-1 ,法国国际广播电台中文
-http://live02.rfi.fr/rfienchinois-64.mp3
-#EXTINF:-1 ,法国国际广播电台中文
-http://live02.rfi.fr/rfichinois-96k.mp3
-#EXTINF:-1 ,俄罗斯之声中文
-http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+#EXTINF:-1 ,HKJ Radio
+http://listen.hkjradio.com:8009/live
 #EXTINF:-1 ,NHK中文广播
 https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
-#EXTINF:-1 ,VOA English
-http://voa-28.ng.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
 #EXTINF:-1 ,BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 #EXTINF:-1 ,BBC English
@@ -51,14 +85,12 @@ https://opera-stream.wqxr.org/operavore-web
 https://fm939.wnyc.org/wnycfm-web
 #EXTINF:-1 ,纽约公共电台American Standards
 https://tjc.wnyc.org/js-stream-web
-#EXTINF:-1 ,纽约WNYL-FM 92.3(	另类摇滚Alternative)
+#EXTINF:-1 ,纽约WNYL-FM 92.3(另类摇滚Alternative)
 http://18053.live.streamtheworld.com/WNYLFMAAC_SC
 #EXTINF:-1 ,纽约WCBS-FM 101.1(Classic Hits)
 http://20843.live.streamtheworld.com/WCBSFMAAC_SC
 #EXTINF:-1 ,纽约WABH-AM 1380(Country)
 https://ice24.securenetsystems.net/WABH
-#EXTINF:-1 ,纽约WAAL-FM 99.1(	Classic Rock)
-https://prod-34-204-5-106.wostreaming.net/townsquare-waalfmaac-hls3.m3u8
 #EXTINF:-1 ,加州KKJZ-FM 88.1(Jazz)
 https://1.ice1.sslstream.com/kkjz_fm.aac
 #EXTINF:-1 ,加州KSUR-AM 1260(L.A. Oldies)
@@ -70,8 +102,6 @@ https://c8.prod.playlists.ihrhls.com/181/playlist.m3u8
 #EXTINF:-1 ,德州KNCT-FM 91.3(Easy Listening)
 http://ice41.securenetsystems.net/KNCT
 #EXTINF:-1 ,夏威夷KHCM-FM 97.5(Country)
-https://17553.live.streamtheworld.com/KHCMFMAAC_SC
-#EXTINF:-1 ,夏威夷KHCM-FM 97.5(Country)
 https://playerservices.streamtheworld.com/pls/KHCMFMAAC.pls
 #EXTINF:-1 ,哥伦比亚特区WAMU-FM 88.5(Classical)
 http://stream.weta.org:8000/stream
@@ -79,14 +109,12 @@ http://stream.weta.org:8000/stream
 https://18423.live.streamtheworld.com/KIXIAM.mp3
 #EXTINF:-1 ,台湾Lounge Radio音乐电台
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 ,大爱网络电台
+#EXTINF:-1 ,大爱網路電台
+https://streamingv2.shoutcast.com/daai-radio_128.aac
+#EXTINF:-1 ,大爱網路電台
 http://hls.ws.anyrtc.io/live/daaiguangbo/playlist.m3u8
 #EXTINF:-1 ,基督教福音良友电台
 http://listen.txly1.net:8000/ly729_a
-#EXTINF:-1 ,加拿大与神同行福音广播
-http://www.intouchchinese.org/mp3/3210.mp3
-#EXTINF:-1 ,希望福音广播电台
-rtmp://58.177.251.198:5119/live/vohc
 #EXTINF:-1 ,台湾古典音乐台Classical FM 97.7
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 ,佳音台北FM90.9
@@ -115,18 +143,12 @@ http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch05/playlist.m3u8
 http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch05/chunklist.m3u8
 #EXTINF:-1 ,佳音桃园GoGo Radio
 http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch05/chunk_ute09xa1m_ctaudio_cfm4s_ridp0aa0br64079_cinit_mpd.m4s
-#EXTINF:-1 ,台北电台FM 93.1
-https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w1590477067.m3u8
-#EXTINF:-1 ,台北电台FM 93.1
-https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/playlist.m3u8
-#EXTINF:-1 ,台北电台FM 93.1
-https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w1926184045.m3u8
 #EXTINF:-1 ,台湾凤鸣广播电台一台
 https://am1161.ddns.net:9005/stream.ogg
 #EXTINF:-1 ,台湾凤鸣广播电台二台
 https://am981.ddns.net:9005/stream.ogg
 #EXTINF:-1 ,台湾大千电台
-http://stream.superfm99-1.com.tw:8554/
+http://stream.superfm99-1.com.tw:8554
 #EXTINF:-1 ,国立教育广播电台台北总台FM台
 https://cast.ner.gov.tw/1
 #EXTINF:-1 ,国立教育广播电台台北总台AM台
@@ -137,58 +159,10 @@ https://cdn196.ccdntech.com/live-http/_definst_/vod196_Live/live/playlist.m3u8
 https://cdn196.ccdntech.com/live-http/_definst_/vod196_Live/live/chunklist.m3u8
 #EXTINF:-1 ,台湾政大之声广播电台
 http://140.119.169.34:8000/ade.taiwan.ogg
-#EXTINF:-1 ,台湾台艺之声广播电台
-http://120.97.105.18:8000/vota
 #EXTINF:-1 ,台湾辅大之声广播电台
 http://140.136.115.115:8000/fjuvoice885.mp3
 #EXTINF:-1 ,台北九八新闻台
 http://cast.news98.com.tw:8000/news98
-#EXTINF:-1 ,台湾世新广播电台FM 88.1
-https://flv.ccdntech.com/live/_definst_/vod148_Live/fm881/playlist.m3u8
-#EXTINF:-1 ,台湾世新广播电台FM 88.1
-https://flv.ccdntech.com/live/_definst_/vod148_Live/fm881/chunklist_w1664708817.m3u8
-#EXTINF:-1 ,台湾世新广播电台AM 729
-https://flv.ccdntech.com/live/_definst_/vod148_Live/am729/playlist.m3u8
-#EXTINF:-1 ,台湾世新广播电台AM 729
-https://flv.ccdntech.com/live/_definst_/vod148_Live/am729/chunklist_w2043451874.m3u8
-#EXTINF:-1 ,香港商业电台雷霆881
-https://live.881903.com/edge-aac/881hd/playlist.m3u8?r=CCl%2BzKPrHL2Iy76h#eyJDb29raWUiOiJDbG91ZEZyb250LUtleS1QYWlyLUlkPUFQS0FKRDU3TTRXQjJPUkNBTTRROyBDbG91ZEZyb250LVBvbGljeT1leUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXNhWFpsTGpnNE1Ua3dNeTVqYjIwdlpXUm5aUzFoWVdNdktpSXNJa052Ym1ScGRHbHZiaUk2ZXlKSmNFRmtaSEpsYzNNaU9uc2lRVmRUT2xOdmRYSmpaVWx3SWpvaU1qRTJMakU0T1M0eE5TNHlNRGN2TWpRaWZTd2lSR0YwWlV4bGMzTlVhR0Z1SWpwN0lrRlhVenBGY0c5amFGUnBiV1VpT2pFMU5UYzFOVGs1TXpWOWZYMWRmUV9fOyBDbG91ZEZyb250LVNpZ25hdHVyZT1BLWU4cDVEdDNuZU9CNmYlN0VDNWQlN0VHazhKMHkwMHAwZE9EbXNTQ1BDYVhoeGd6QW9uM2RObkZJZmZnSCU3RWJDRTdUMnBKWFlZa0VnUzE5ajFYTUhpenRCRXBIOUxlR3UzTm55dERFYWF1VlJGRjkwbUZEZnRGWDRSeUM1bnJiZHh0ZUdieTZKM2gtckFrc29jbWlReVZpYVJvSEo5SlBwVFZyS05URXY1dWRLS1JqckE5SmtkQW11LWRHcEdqZjR6YU1pd0tjN1B6R1BEQWN4TDJaQldxSEV5TW5Wd2ExblhjWDVVSi1EcFc0amlzajFLayU3RTB0JTdFTUc4SXhrVHVocy1nb3JHUm1xb0lRY0ElN0VVNDhoZDBZZWlCRmJmWWdtbjYlN0VNcGRCdWlaMnJKV1YyY1BuRHNrc0FwYnlSakt3M0d2WFVHMTM2emxSTmc4a3hHT2tYZjhGUEplZ19fIiwiWC1QbGF5YmFjay1TZXNzaW9uLUlkIjoiNThFMEE3MUEtQjJFMC00MTEyLUE1OEQtNTU4RDQxQjI1RTFCIiwiUmVmZXJlciI6Imh0dHBzOlwvXC9ldmVudC44ODE5MDMuY29tXC9oa3RiYXVkaW9wbGF5ZXJcL3BsYXllcl90b2tlbi5waHA/Y2g9aGQ4ODEiLCJIb3N0IjoibGl2ZS44ODE5MDMuY29tIiwiVXNlci1BZ2VudCI6IkFwcGxlQ29yZU1lZGlhXC8xLjAuMC4xNkUyMjcgKGlQaG9uZTsgVTsgQ1BVIE9TIDEyXzIgbGlrZSBNYWMgT1MgWDsgemhfY24pIn0=
-#EXTINF:-1 ,香港商业电台叱咤903
-https://live.881903.com/edge-aac/903hd/playlist.m3u8?r=q0cr4xLIcH0A5v9c#eyJDb29raWUiOiJDbG91ZEZyb250LUtleS1QYWlyLUlkPUFQS0FKRDU3TTRXQjJPUkNBTTRROyBDbG91ZEZyb250LVBvbGljeT1leUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXNhWFpsTGpnNE1Ua3dNeTVqYjIwdlpXUm5aUzFoWVdNdktpSXNJa052Ym1ScGRHbHZiaUk2ZXlKSmNFRmtaSEpsYzNNaU9uc2lRVmRUT2xOdmRYSmpaVWx3SWpvaU1qRTJMakU0T1M0eE5TNHlNRGN2TWpRaWZTd2lSR0YwWlV4bGMzTlVhR0Z1SWpwN0lrRlhVenBGY0c5amFGUnBiV1VpT2pFMU5UYzFOakEyT0RKOWZYMWRmUV9fOyBDbG91ZEZyb250LVNpZ25hdHVyZT12OGFTSmhac0lMS1JWblZ1LUhIQ25xeWJtUzRxLTJOejViZCU3RUxIeTRhR0hKb1FxMFRhSTZDMHBXRlZHN0ZCNmIyeUFsMTRYV1lvcUxmVWVHOEdlZGRFb3hHU0FvUWJ0aUJab1UybTVzYW9yZERHemtzTkExZ1RKbHRBVEdoUUNsVnJnNG94MHglN0U5RHZnMnhpS2p6UWVXS25WVXc0MnNwMHNhU2dJUHhKa2lvNHpmLUU1aEVQWmxmcDhGQzRNd0h4SVNKZWpRay0weSU3RXBOUnR2YUZLTm9wRmlyVTAlN0VYMm0wQzNqRC1adzlYMkVmNUp3YVJTQkQ0NTJUU05ESlkwJTdFZGgtWkZEYmY5VHhyOUE3czJndTFOWXlIUXdFbGJTcDVsYTdBd1gwQWtmNkklN0V0blVnM1J1MzZUTllieUY3bnZVMDNKTy1DZ2dLUW9RYjdmRWdwMDF6WUFfXzsgX2dhPUdBMS4yLjQ1NjM1Mzg0My4xNTU3NDc0MjgxOyBfZ2F0PTE7IF9naWQ9R0ExLjIuODk5MjA2Nzg4LjE1NTc0NzQyODEiLCJYLVBsYXliYWNrLVNlc3Npb24tSWQiOiI3MzIzMEE1RC0xMzM1LTQyMjAtOEYyNi05NjgwM0YwRTREQjkiLCJSZWZlcmVyIjoiaHR0cHM6XC9cL2V2ZW50Ljg4MTkwMy5jb21cL2hrdGJhdWRpb3BsYXllclwvcGxheWVyX3Rva2VuLnBocD9jaD1oZDkwMyIsIkhvc3QiOiJsaXZlLjg4MTkwMy5jb20iLCJVc2VyLUFnZW50IjoiQXBwbGVDb3JlTWVkaWFcLzEuMC4wLjE2RTIyNyAoaVBob25lOyBVOyBDUFUgT1MgMTJfMiBsaWtlIE1hYyBPUyBYOyB6aF9jbikifQ==
-#EXTINF:-1 ,香港商业电台豁达864
-https://live.881903.com/edge-aac/864sd/playlist.m3u8?r=d5EgCG1oQz4Lob13#eyJDb29raWUiOiJfZ2F0PTE7IENsb3VkRnJvbnQtS2V5LVBhaXItSWQ9QVBLQUpENTdNNFdCMk9SQ0FNNFE7IENsb3VkRnJvbnQtUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjSE02THk5c2FYWmxMamc0TVRrd015NWpiMjB2WldSblpTMWhZV012S2lJc0lrTnZibVJwZEdsdmJpSTZleUpKY0VGa1pISmxjM01pT25zaVFWZFRPbE52ZFhKalpVbHdJam9pTWpFMkxqRTRPUzR4TlM0eU1EY3ZNalFpZlN3aVJHRjBaVXhsYzNOVWFHRnVJanA3SWtGWFV6cEZjRzlqYUZScGJXVWlPakUxTlRjMU5qQTNNemw5ZlgxZGZRX187IENsb3VkRnJvbnQtU2lnbmF0dXJlPXNHcmx3NmlQZEoya2NsZVQ4LXR2LU43eGRHMjl5VHp0Z1ZYWWFFaHRXa3kxY2QzYmU2UzVDdVczMENCRERHJTdFdHFwbk8xZThmVFNHMG9sc1k1eEU2VkdjWEt6RHNKQTczeWNWZGJhcHFIYWNOSzctZGQtaVk3aFVMdmZoblNiNEQ4ZSU3RXM3bm9BSkFqaENsZ01wa2g4WHVDS3RSbGt5UHVSNGU1SVU4TiU3RWpqOCU3RXkwcE5rTW82eXF6WUhkclJEaGtmTyU3RXl0WlV3N0w0Yi1qSnZrTVpNa0hsdnUzRk9JTlh2VVJMUUVtZWxsWnY2ektyWm00OWlpMDBZVE1FUVEwRG1ETW90MEVFNDF6eGhLa250c0wyWEJyWEVLdmoxTUlWYjAtRDVUOUZ0M3B5NFVnbGQlN0U1b2lSSU1YZ0FER0YtRmpHbFBYT29SdWRNRUhTZlNyVUxuajg2Z19fOyBfZ2E9R0ExLjIuNDU2MzUzODQzLjE1NTc0NzQyODE7IF9naWQ9R0ExLjIuODk5MjA2Nzg4LjE1NTc0NzQyODEiLCJYLVBsYXliYWNrLVNlc3Npb24tSWQiOiJBMTFBMzcyNS1BNjlBLTQ3NDktQURBQi1CRTAzMUVGMzMwRTYiLCJSZWZlcmVyIjoiaHR0cHM6XC9cL2V2ZW50Ljg4MTkwMy5jb21cL2hrdGJhdWRpb3BsYXllclwvcGxheWVyX3Rva2VuLnBocD9jaD1hbTg2NCIsIkhvc3QiOiJsaXZlLjg4MTkwMy5jb20iLCJVc2VyLUFnZW50IjoiQXBwbGVDb3JlTWVkaWFcLzEuMC4wLjE2RTIyNyAoaVBob25lOyBVOyBDUFUgT1MgMTJfMiBsaWtlIE1hYyBPUyBYOyB6aF9jbikifQ==
-#EXTINF:-1 ,香港电台第一台
-https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-#EXTINF:-1 ,香港电台第一台
-https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
-#EXTINF:-1 ,香港电台第二台
-https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-#EXTINF:-1 ,香港电台第三台
-https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1 ,香港电台第四台·音乐
-https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1 ,香港电台第五台
-https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1 ,香港电台第六台：香港之声
-http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1 ,香港电台普通话台
-http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 ,民间电台
-http://radio1.citizensradio.org:8000/xstream
-#EXTINF:-1 ,香港D100 PBS台
-http://68.235.39.19:8000/Channel1-128MP3
-#EXTINF:-1 ,香港D100 PBS台
-http://59.152.232.107:8000/Channel1-128MP3
-#EXTINF:-1 ,新城电台财经台104
-https://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-p.m3u8
-#EXTINF:-1 ,新城电台Metro Plus AM1044
-http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
-#EXTINF:-1 ,新城电台知讯台997
-https://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8
-#EXTINF:-1 ,講台
-http://103.11.102.62:8000/talkonly.mp3
-#EXTINF:-1 ,HKJ Radio
-http://listen.hkjradio.com:8009/live
 #EXTINF:-1 ,Billboard Radio China 亞洲金曲館
 http://billboardradio.rastream.com/gfm-asiahitz
 #EXTINF:-1 ,Billboard Radio China 重磅100
@@ -249,8 +223,6 @@ https://ice5.securenetsystems.net/CHMB
 http://s2.voscast.com:9530/;
 #EXTINF:-1 ,新加坡UFM 100.3 FM华语
 http://20663.live.streamtheworld.com/UFM_1003AAC.aac
-#EXTINF:-1 ,新加坡UFM 100.3 FM华语
-http://14923.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1 ,新加坡Capital 958城市频道
 https://19183.live.streamtheworld.com/CAPITAL958FMAAC.aac
 #EXTINF:-1 ,新加坡Capital 958城市频道
@@ -347,8 +319,6 @@ http://lhttp.qingting.fm/live/275/64k.mp3
 http://lhttp.qingting.fm/live/267/64k.mp3
 #EXTINF:-1 ,上海动感101音乐广播
 http://lhttp.qingting.fm/live/274/64k.mp3
-#EXTINF:-1 ,河北音乐广播
-http://audio1.hebradio.com:1935/live/6.m3u8
 #EXTINF:-1 ,石家庄音乐广播
 https://lhttp.qingting.fm/live/1654/64k.mp3
 #EXTINF:-1 ,山西音乐广播
@@ -449,8 +419,6 @@ https://lhttp.qingting.fm/live/4029/64k.mp3
 https://lhttp.qingting.fm/live/1911/64k.mp3
 #EXTINF:-1 ,青苹果音乐电台
 https://lhttp.qingting.fm/live/4576/64k.mp3
-#EXTINF:-1 ,清晨音乐台
-https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 ,AsiaFM亚洲天空台
 https://lhttp.qingting.fm/live/20071/64k.mp3
 #EXTINF:-1 ,中国校园之声
@@ -483,12 +451,6 @@ http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
 http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 ,CCTV-4 中文国际 亚洲
 http://cctv.v.kcdnvip.com/live/cctv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 ,CCTV-5 体育
-http://cctv.v.kcdnvip.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 ,CCTV-5+ 体育赛事
-http://cctv.v.kcdnvip.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 ,CCTV-5+ 体育赛事
-http://cctv5.v.kcdnvip.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 ,CCTV-6 电影
 http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 ,CCTV-7 军事农业
@@ -719,14 +681,6 @@ http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
 http://stream2.ahrtv.cn/xnxw/sd/live.m3u8
 #EXTINF:-1 ,安徽音乐广播
 http://stream.ahrtv.cn/xnyy/sd/live.m3u8
-#EXTINF:-1 ,安阳交通广播 FM89
-http://ls.qingting.fm/live/2138.m3u8
-#EXTINF:-1 ,安阳汽车音乐台 FM100.8
-http://live.xmcdn.com/live/1269/64.m3u8
-#EXTINF:-1 ,安阳汽车音乐台 FM100.8
-http://ls.qingting.fm/live/2123.m3u8
-#EXTINF:-1 ,安阳新闻综合广播 FM94.2
-http://ls.qingting.fm/live/4689560.m3u8
 #EXTINF:-1 ,巴渝之声 FM104.5
 http://live.xmcdn.com/live/1154/64.m3u8
 #EXTINF:-1 ,巴渝之声 FM104.5
@@ -781,8 +735,6 @@ http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
 http://live.xmcdn.com/live/97/64.m3u8
 #EXTINF:-1 ,北京城市广播 FM107.3
 http://ls.qingting.fm/live/345.m3u8
-#EXTINF:-1 ,北京房山广电
-http://live.xmcdn.com/live/108/64.m3u8
 #EXTINF:-1 ,北京房山经典音乐 FM96.9
 http://live.xmcdn.com/live/963/64.m3u8
 #EXTINF:-1 ,北京房山经典音乐 FM96.9
@@ -960,23 +912,13 @@ http://ls.qingting.fm/live/1276.m3u8
 #EXTINF:-1 ,恩平电台 FM97.7
 http://ls.qingting.fm/live/80439.m3u8
 #EXTINF:-1 ,佛山电台飞跃 FM92.4
-http://live.xmcdn.com/live/273/64.m3u8
-#EXTINF:-1 ,佛山电台飞跃 FM92.4
 http://ls.qingting.fm/live/1267.m3u8
-#EXTINF:-1 ,佛山电台高明台 FM88.3
-http://live.xmcdn.com/live/274/64.m3u8
 #EXTINF:-1 ,佛山电台高明台 FM88.3
 http://ls.qingting.fm/live/1269.m3u8
 #EXTINF:-1 ,佛山电台千色 FM98.5
-http://live.xmcdn.com/live/272/64.m3u8
-#EXTINF:-1 ,佛山电台千色 FM98.5
 http://ls.qingting.fm/live/1266.m3u8
 #EXTINF:-1 ,佛山电台三水台 FM90.6
-http://live.xmcdn.com/live/270/64.m3u8
-#EXTINF:-1 ,佛山电台三水台 FM90.6
 http://ls.qingting.fm/live/1264.m3u8
-#EXTINF:-1 ,佛山电台顺德台 FM90.1
-http://live.xmcdn.com/live/271/64.m3u8
 #EXTINF:-1 ,佛山电台顺德台 FM90.1
 http://ls.qingting.fm/live/1268.m3u8
 #EXTINF:-1 ,佛山电台真爱 FM94.6
@@ -1459,10 +1401,6 @@ http://ls.qingting.fm/live/2785094.m3u8
 http://ls.qingting.fm/live/4326443.m3u8
 #EXTINF:-1 ,九江新闻综合广播 FM91.6
 http://ls.qingting.fm/live/4474799.m3u8
-#EXTINF:-1 ,开封旅游广播
-http://ls.qingting.fm/live/4569.m3u8
-#EXTINF:-1 ,开州之声 FM89.0
-http://183.64.174.171:10124/tlgb.m3u8
 #EXTINF:-1 ,昆明都市调频 FM102.8
 http://live.xmcdn.com/live/907/64.m3u8
 #EXTINF:-1 ,昆明都市调频 FM102.8
@@ -1491,8 +1429,6 @@ http://live.xmcdn.com/live/294/64.m3u8
 http://ls.qingting.fm/live/1712.m3u8
 #EXTINF:-1 ,辽宁交通广播 FM97.5
 http://live.xmcdn.com/live/1649/64.m3u8
-#EXTINF:-1 ,辽宁交通广播 FM97.5
-http://live.xmcdn.com/live/325/64.m3u8
 #EXTINF:-1 ,辽宁交通广播 FM97.5
 http://ls.qingting.fm/live/23801.m3u8
 #EXTINF:-1 ,辽宁经济广播 FM88.8
@@ -1642,15 +1578,9 @@ http://live.xmcdn.com/live/658/64.m3u8
 #EXTINF:-1 ,宁波甬江之声 FM100.1
 http://ls.qingting.fm/live/23909.m3u8
 #EXTINF:-1 ,宁夏都市广播 FM103.7
-http://live.xmcdn.com/live/1071/64.m3u8
-#EXTINF:-1 ,宁夏都市广播 FM103.7
 http://ls.qingting.fm/live/1842.m3u8
 #EXTINF:-1 ,宁夏交通广播 FM98.4
 http://ls.qingting.fm/live/1840.m3u8
-#EXTINF:-1 ,宁夏新闻广播 FM106.1
-http://live.xmcdn.com/live/983/64.m3u8
-#EXTINF:-1 ,宁夏新闻广播 FM106.1
-http://ls.qingting.fm/live/1839.m3u8
 #EXTINF:-1 ,宁夏音乐广播 FM104.7
 http://live.xmcdn.com/live/1878/64.m3u8
 #EXTINF:-1 ,盘锦交通文艺广播 FM91.4
@@ -1843,10 +1773,6 @@ http://radio.sxtvs.com/radio/music.mp3
 http://ls.qingting.fm/live/89951.m3u8
 #EXTINF:-1 ,汕尾综合广播
 http://ls.qingting.fm/live/87921.m3u8
-#EXTINF:-1 ,韶关交通旅游广播
-http://live.sgmsw.cn:8134/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
-#EXTINF:-1 ,韶关综合广播
-http://live.sgmsw.cn:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 ,深圳缤纷 FM104.3
 http://live.xmcdn.com/live/267/64.m3u8
 #EXTINF:-1 ,深圳飞扬音乐971
@@ -2006,8 +1932,6 @@ http://ls.qingting.fm/live/2780.m3u8
 #EXTINF:-1 ,无锡经济广播 FM104
 http://ls.qingting.fm/live/2778.m3u8
 #EXTINF:-1 ,无锡梁溪之声广播 FM92.6
-http://live.xmcdn.com/live/558/64.m3u8
-#EXTINF:-1 ,无锡梁溪之声广播 FM92.6
 http://ls.qingting.fm/live/2782.m3u8
 #EXTINF:-1 ,无锡汽车音乐广播 FM91.4
 http://ls.qingting.fm/live/2779.m3u8
@@ -2037,8 +1961,6 @@ http://ls.qingting.fm/live/1612.m3u8
 http://stream3.xiancity.cn/4/sd/live.m3u8
 #EXTINF:-1 ,西安资讯广播 FM106.1
 http://stream3.xiancity.cn/2/sd/live.m3u8
-#EXTINF:-1 ,西安综艺广播 FM102.4
-http://stream3.xiancity.cn/3/sd/live.m3u8
 #EXTINF:-1 ,西藏藏语广播 FM101.6
 http://media.vtibet.com/masvod/HLSLive/11/zangyuRadio.m3u8
 #EXTINF:-1 ,西藏藏语广播 FM106.3
@@ -2079,8 +2001,6 @@ http://ls.qingting.fm/live/3559664.m3u8
 http://ls.qingting.fm/live/1307.m3u8
 #EXTINF:-1 ,襄阳交通广播 FM89.0
 http://ls.qingting.fm/live/1308.m3u8
-#EXTINF:-1 ,襄阳经济广播 FM90.9
-http://ls.qingting.fm/live/1309.m3u8
 #EXTINF:-1 ,襄阳音乐广播
 http://ls.qingting.fm/live/5057.m3u8
 #EXTINF:-1 ,心约之声公益广播
@@ -2156,15 +2076,9 @@ http://ls.qingting.fm/live/3126629.m3u8
 #EXTINF:-1 ,许昌新闻广播 FM102
 http://ls.qingting.fm/live/3125648.m3u8
 #EXTINF:-1 ,烟台交通广播 FM103
-http://live.xmcdn.com/live/832/64.m3u8
-#EXTINF:-1 ,烟台交通广播 FM103
 http://ls.qingting.fm/live/1684.m3u8
 #EXTINF:-1 ,烟台经济广播 FM105.9
-http://live.xmcdn.com/live/837/64.m3u8
-#EXTINF:-1 ,烟台经济广播 FM105.9
 http://ls.qingting.fm/live/1683.m3u8
-#EXTINF:-1 ,烟台新闻广播 FM101
-http://live.xmcdn.com/live/838/64.m3u8
 #EXTINF:-1 ,烟台新闻广播 FM101
 http://ls.qingting.fm/live/1682.m3u8
 #EXTINF:-1 ,扬州江都广播
@@ -2175,8 +2089,6 @@ http://ls.qingting.fm/live/2804.m3u8
 http://ls.qingting.fm/live/2805.m3u8
 #EXTINF:-1 ,扬州新闻广播
 http://ls.qingting.fm/live/5000.m3u8?aac
-#EXTINF:-1 ,阳泉交通广播
-http://live.xmcdn.com/live/1709/64.m3u8?aac
 #EXTINF:-1 ,阳泉交通广播
 http://ls.qingting.fm/live/4592896.m3u8?aac
 #EXTINF:-1 ,阳泉新闻综合广播
