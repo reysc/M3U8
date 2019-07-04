@@ -1,44 +1,106 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1综合
-http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+https://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV1综合(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1 ,CCTV2财经
-http://223.110.241.130:6610/cntv/live1/cctv-2/cctv-2
+https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 ,CCTV2财经
-http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
+http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 ,CCTV2财经
 http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8
+#EXTINF:-1 ,CCTV2财经(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+#EXTINF:-1 ,CCTV3综艺
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2_hd.m3u8
+#EXTINF:-1 ,CCTV3综艺
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 ,CCTV3综艺
+http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 ,CCTV3综艺(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 #EXTINF:-1 ,CCTV4国际
-http://live.italkdd.com/cds160/hls/channel028/channel028.m3u8
-#EXTINF:-1 ,CCTV5+体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
+https://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 ,CCTV4国际
+http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 ,CCTV4国际
+https://cctvcnch5c.v.wscdns.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 ,CCTV4国际(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 ,CCTV-5体育(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 ,CCTV-5+体育赛事(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 ,CCTV6电影
+http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 ,CCTV6电影
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV9纪录片
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ,CCTV6电影(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1 ,CCTV7军事农业
+https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 ,CCTV7军事农业
+http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 ,CCTV7军事农业(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 ,CCTV8电视剧
+http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 ,CCTV8电视剧(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 ,CCTV9记录(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
 #EXTINF:-1 ,CCTV10科教
-http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8#eyJIb3N0IjoiaGxzLW90dC16aGliby53YXN1LnR2IiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
+http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 ,CCTV10科教
+http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
+#EXTINF:-1 ,CCTV10科教(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 ,CCTV11戏曲
+http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 ,CCTV11戏曲(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 ,CCTV12社会与法
+http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 ,CCTV12社会与法(移动线路)
+http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 ,CCTV13新闻
+https://cctvalih5c.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 ,CCTV13新闻
+https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 ,CCTV13新闻
 http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 ,CCTV发现之旅
+#EXTINF:-1 ,CCTV13新闻
+http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 ,CCTV13新闻(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 ,CCTV14少儿
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2_hd.m3u8
+#EXTINF:-1 ,CCTV14少儿
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 ,CCTV14少儿(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 ,CCTV15音乐
+http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 ,CCTV15音乐(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 ,CCTV老故事
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1 ,CCTV发现之旅
-http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8#eyJIb3N0IjoiaGxzLW90dC16aGliby53YXN1LnR2IiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
+#EXTINF:-1 ,CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ,新华网CNC中文台
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
 #EXTINF:-1 ,东方卫视
 http://live-stream.kksmg.com/hls/dtv2a6c2366_f76c11e88eb2f2801f1b9fd0/playlist.m3u8
-#EXTINF:-1 ,东方卫视
-http://3736767492.cloudvdn.com/a.m3u8?_cp=1&_fk=7A06258E7C58E554960AD73E40BC520D7F32B29577CFDDE4F145BC7BA8E7BBF8&_mode=1&ct=7&domain=live-stream.kksmg.com&player=VQ0AAF2ohoip2pkV&se=kankan&streamid=kksmg242%3Akksmg242%2Fdtv2a6c2366_f76c11e88eb2f2801f1b9fd1&v3=1
 #EXTINF:-1 ,上海新闻综合频道
 http://hw-stream.kksmg.com/hls/channel1091/index.m3u8
 #EXTINF:-1 ,上海新闻综合频道
 http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
-#EXTINF:-1 ,上海外语频道
+#EXTINF:-1 ,上海外语频道ICS
 http://hw-stream.kksmg.com/hls/channel1081/index.m3u8
 #EXTINF:-1 ,上海外语频道ICS
 http://live-stream.kksmg.com/hls/wypd6a3b86be_c4eb57c5b5c8573f77a00e49/playlist.m3u8
-#EXTINF:-1 ,上海都市频道
-http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8?se=kankan&ct=2&_mode=1&_cp=1&_fk=0D6660D0888BA3CAEC62FDE868C5468B00C2C1DACBEE89D90E3607BA44C48780
-#EXTINF:-1 ,上海都市频道
-http://3736767491.cloudvdn.com/a.m3u8?_cp=1&_fk=0D6660D0888BA3CAEC62FDE868C5468B00C2C1DACBEE89D90E3607BA44C48780&_mode=1&ct=2&domain=live-stream.kksmg.com&player=1EkAACQ2XYXm2pkV&se=kankan&streamid=kksmg242%3Akksmg242%2Fylpde66e9037_7bf15f94aa8a107352bc28c6&v3=1
 #EXTINF:-1 ,上海都市频道
 http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8
 #EXTINF:-1 ,上海艺术人文频道
@@ -46,193 +108,185 @@ http://hw-stream.kksmg.com/hls/channel1071/index.m3u8
 #EXTINF:-1 ,上海第一财经
 http://hw-stream.kksmg.com/hls/channel1101/index.m3u8
 #EXTINF:-1 ,上海第一财经
-http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
-#EXTINF:-1 ,上海第一财经
 http://live-stream.kksmg.com/hls/dycj7bb5b7cc_93ba5ac780b181c7e0751bd4/playlist.m3u8
 #EXTINF:-1 ,上海纪实频道
 http://hw-stream.kksmg.com/hls/channel1061/index.m3u8
 #EXTINF:-1 ,上海纪实频道
 http://live-stream.kksmg.com/hls/jspdebd790b1_49d251f89fe81aca509e2f64/playlist.m3u8
-#EXTINF:-1 ,上海这一刻：陆家嘴
-http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
-#EXTINF:-1 ,上海这一刻：魔都眼
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 ,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 ,上海教育
 http://live.setv.sh.cn/slive/shedu02_800k.m3u8
 #EXTINF:-1 ,上海奉贤综合
 http://bililive.kksmg.com/qxlive/fx/playlist.m3u8
-#EXTINF:-1 ,华数电影
-http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
-#EXTINF:-1 ,华数电影Guide
-http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 ,Channel V音乐
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/inyuetai
-#EXTINF:-1 ,CETV1
-http://live.italkdd.com/cds160/hls/channel050/channel050.m3u8
-#EXTINF:-1 ,新华网CNC英语台
-http://live.xinhuashixun.com/live/chn02.flv
-#EXTINF:-1 ,新华网CNC中文台
-http://live.xinhuashixun.com/live/chn01/desc.m3u8
-#EXTINF:-1 ,新华网CNC中文台
-http://live.xinhuashixun.com/live/chn01.flv
-#EXTINF:-1 ,北京卫视HD
-http://live.italkdd.com/cds160/hls/channel029/channel029.m3u8
-#EXTINF:-1 ,湖北卫视HD
-http://live.cjyun.org/video/s10008-hbws2018/index.m3u8
-#EXTINF:-1 ,湖北卫视HD
-http://live.italkdd.com/cds160/hls/channel043/channel043.m3u8
 #EXTINF:-1 ,广东卫视
 http://nclive.grtn.cn/gdws/sd/live.m3u8
-#EXTINF:-1 ,深圳卫视
-http://live.italkdd.com/cds160/hls/channel033/channel033.m3u8
+#EXTINF:-1 ,山东卫视
+http://ksdlive.gwpd.iqilu.com/sdtv.m3u8
 #EXTINF:-1 ,农林卫视
 http://stream.snrtv.com/sxtvs-nl.m3u8
 #EXTINF:-1 ,陕西卫视
 http://stream.snrtv.com/sxtvs-star.m3u8
-#EXTINF:-1 ,山东卫视HD
-http://live.italkdd.com/cds160/hls/channel041/channel041.m3u8
-#EXTINF:-1 ,江西卫视
-http://live.italkdd.com/cds160/hls/channel045/channel045.m3u8
-#EXTINF:-1 ,江西卫视
-http://live02.jxtvcn.com.cn/live/jxtv01?fmt=h264_flv
-#EXTINF:-1 ,四川卫视
-http://live.italkdd.com/cds160/hls/channel039/channel039.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://live.italkdd.com/cds160/hls/channel026/channel026.m3u8
+#EXTINF:-1 ,河北卫视
+http://weblive.hebtv.com/live/hbwsbq_lc/index.m3u8
 #EXTINF:-1 ,河北卫视
 http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 ,甘肃卫视高清
+http://stream.gstv.com.cn/gsws/sd/live.m3u8?_upt=96552ab11525456277
 #EXTINF:-1 ,厦门卫视
 http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-#EXTINF:-1 ,新疆卫视
-http://223.82.250.72/live/xinjiangstv/1.m3u8
+#EXTINF:-1 ,四川康巴卫视
+http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
 #EXTINF:-1 ,西藏藏语
 http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1 ,西藏卫视
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 ,BTV纪实HD
-http://live.italkdd.com/cds160/hls/channel042/channel042.m3u8
-#EXTINF:-1 ,BTV纪实HD
-http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
-#EXTINF:-1 ,江西陶瓷频道
-http://live02.jxtvcn.com.cn/live/taoci?fmt=h264_flv
-#EXTINF:-1 ,安庆黄梅戏教育
-http://live.aqbtv.cn:9600/live/hmx/tzwj_video.m3u8
-#EXTINF:-1 ,安庆黄梅戏教育
-rtmp://live.aqbtv.cn:9600/live/hmx
-#EXTINF:-1 ,大熊猫直播
-http://live.italkdd.com/cds160/hls/channel068/channel068.m3u8
-#EXTINF:-1 ,BTV卡酷少儿
-http://live.italkdd.com/cds160/hls/channel032/channel032.m3u8
-#EXTINF:-1 ,icnTV宫廷剧场
-http://live.italkdd.com/cds160/hls/channel054/channel054.m3u8
-#EXTINF:-1 ,icnTV精品大剧
-http://live.italkdd.com/cds160/hls/channel055/channel055.m3u8
-#EXTINF:-1 ,icnTV中国in
-http://live.italkdd.com/cds160/hls/channel066/channel066.m3u8
-#EXTINF:-1 ,icnTV中国功夫
-http://live.italkdd.com/cds160/hls/channel067/channel067.m3u8
-#EXTINF:-1 ,新闻综合
-http://live.italkdd.com/cds160/hls/channel056/channel056.m3u8
-#EXTINF:-1 ,科学教育
-http://live.italkdd.com/cds160/hls/channel057/channel057.m3u8
-#EXTINF:-1 ,社会与法
-http://live.italkdd.com/cds160/hls/channel058/channel058.m3u8
-#EXTINF:-1 ,动画王国
-http://live.italkdd.com/cds160/hls/channel059/channel059.m3u8
-#EXTINF:-1 ,财经生活
-http://live.italkdd.com/cds160/hls/channel060/channel060.m3u8
-#EXTINF:-1 ,音乐地带
-http://live.italkdd.com/cds160/hls/channel061/channel061.m3u8
-#EXTINF:-1 ,军事纪实
-http://live.italkdd.com/cds160/hls/channel062/channel062.m3u8
-#EXTINF:-1 ,戏曲名段
-http://live.italkdd.com/cds160/hls/channel063/channel063.m3u8
-#EXTINF:-1 ,新闻资讯
-http://live.italkdd.com/cds160/hls/channel064/channel064.m3u8
-#EXTINF:-1 ,点掌财经
-http://bdlive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,点掌财经
-http://cdnlz.tv189.com/live/laozuo-600k/playlist.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,留学世界
-http://l.cztvcloud.com/channels/lantian/channel09/360p.m3u8
-#EXTINF:-1 ,全国党员干部现代远程教育
-http://newspull.live.wscdns.com/live/dangyuanwang.flv
-#EXTINF:-1 ,TV新闻
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/news
-#EXTINF:-1 ,TV车视界
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/cheshijie
-#EXTINF:-1 ,TV i综艺
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/izongyi
-#EXTINF:-1 ,TV e娱乐
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/eyule
-#EXTINF:-1 ,TV炫韩娱
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//xuanhanyu
-#EXTINF:-1 ,TV LiveShow
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//liveshow
-#EXTINF:-1 ,TV潮体育
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//chaotiyu
-#EXTINF:-1 ,TV新影视
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//xinyingshi
-#EXTINF:-1 ,数码时代
-http://l.cztvcloud.com/channels/lantian/channel12/360p.m3u8
-#EXTINF:-1 ,美嘉购物
-http://live.cjyun.org/video/s10008-mj012018/index.m3u8
-#EXTINF:-1 ,优购物Live
-http://cjzb.u01.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 ,快乐购物
-http://happigolive11.doulaibo.cn/live/8e768346411648deb8825acb0fc40c55_trans/playlist.m3u8
-#EXTINF:-1 ,优购必买
-http://cjzb.u15.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 ,时尚购Live
-http://cjzb.u02.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 ,时尚名品汇
-http://cjzb.u16.live.17ugo.com/ugo.m3u8
+#EXTINF:-1 ,NewTV动作电影
+http://117.187.29.38:6060/000000001000/8103864434730665389/1.m3u8?
+#EXTINF:-1 ,NewTV精品体育
+http://117.187.29.38:6060/000000001000/6460382139625130259/1.m3u8?
+#EXTINF:-1 ,NewTV金牌综艺
+http://117.187.29.38:6060/000000001000/6399725674632152632/1.m3u8?
+#EXTINF:-1 ,NewTV家庭剧场
+http://117.187.29.38:6060/000000001000/6316377948248689070/1.m3u8?
+#EXTINF:-1 ,NewTV明星大片
+http://117.187.29.38:6060/000000001000/5595720619887440144/1.m3u8?
+#EXTINF:-1 ,黑莓动画
+http://117.187.29.38:6060/000000001000/6497762188035533951/1.m3u8?
 #EXTINF:-1 ,陈翔六点半
 http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
-#EXTINF:-1 ,北京怀柔1台
-http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
-#EXTINF:-1 ,天津滨海新闻综合
-http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
-#EXTINF:-1 ,天津西青新闻综合
-http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 ,天津三佳购物频道
-http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
-#EXTINF:-1 ,辽宁沈阳新闻频道
-http://lms.csytv.com/Live/122/live/livestream.m3u8
-#EXTINF:-1 ,天津之眼
-http://gccncc.v.wscdns.com/gc/tjhh01_1.flv
-#EXTINF:-1 ,湖南湘西凤凰古城东关门
-http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1 ,雪乡大石碑
-http://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
-#EXTINF:-1 ,九龙汇海
-http://gcalic.v.myalicdn.com/gc/pshdxg01_1.flv
-#EXTINF:-1 ,桂林象山公园
-http://gcalic.v.myalicdn.com/gc/glxs01_1.flv
-#EXTINF:-1 ,大容山莲花山顶
-http://gcalic.v.myalicdn.com/gc/drs01_1.flv
-#EXTINF:-1 ,崇圣寺三塔中景
-http://gcalic.v.myalicdn.com/gc/dlst03_1.flv
-#EXTINF:-1 ,隆珠措
-http://gccncc.v.wscdns.com/gc/sgns02_1.flv
-#EXTINF:-1 ,动作电影
-http://117.187.29.38:6060/000000001000/8103864434730665389/1.m3u8?
-#EXTINF:-1 ,精品体育
-http://117.187.29.38:6060/000000001000/6460382139625130259/1.m3u8?
-#EXTINF:-1 ,金牌综艺
-http://117.187.29.38:6060/000000001000/6399725674632152632/1.m3u8?
-#EXTINF:-1 ,家庭剧场
-http://117.187.29.38:6060/000000001000/6316377948248689070/1.m3u8?
-#EXTINF:-1 ,明星大片
-http://117.187.29.38:6060/000000001000/5595720619887440144/1.m3u8?
-#EXTINF:-1 ,动画王国
-http://117.187.29.38:6060/000000001000/6497762188035533951/1.m3u8?
+#EXTINF:-1 ,CIBN电影
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN嗨播
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN综合
+http://dangbei.ds01.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN军事
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN旅游
+http://dangbei.ds01.CIBN.cc/hls/vCIBNLYPD/1800/vCIBNLYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN钓鱼
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN生活
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN健康
+http://dangbei.ds01.CIBN.cc/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN教育
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN汽车
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN财经A
+http://dangbei.ds01.cibn.cc/hls/vCIBNSFYX/1800/vCIBNSFYX.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN财经G
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN好莱坞
+http://dangbei.ds01.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN微电影
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN真人秀
+http://dangbei.ds01.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN汉学院
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 ,CIBN纪录片
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN电影导视
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN院线大片
+http://dangbei.ds01.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN动作影院
+http://dangbei.ds01.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN精品影院
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN精品影院
+http://zgr.qqqrr.cn.lsj.fffuw.cn/cibn1.php?ip=cibn&amp;id=JPYY
+#EXTINF:-1 ,CIBN情感影院
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN喜剧影院
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN古装剧场
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN经典剧场
+http://dangbei.ds01.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN骄阳剧场
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN流金岁月
+http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN炫佳动漫
+http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN童学世界
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN风尚运动
+http://dangbei.ds01.cibn.cc/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,CIBN文化中国
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBNTEA电竞
+http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 ,CIBN大咖钜惠
+http://dangbei.ds01.cibn.cc/hls/vCIBNDKJH/1800/vCIBNDKJH.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+#EXTINF:-1 ,华数综艺
+http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
+#EXTINF:-1 ,华数剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1 ,华数剧场
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1 ,华数儿歌
+http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
+#EXTINF:-1 ,华数美食HD
+http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+#EXTINF:-1 ,华数偶像HD
+http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+#EXTINF:-1 ,华数爱情FHD
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1 ,华数古装剧1
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1 ,华数古装剧2
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:-1 ,华数电影
+http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
+#EXTINF:-1 ,华数动作电影
+http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
+#EXTINF:-1 ,华数国外动作
+http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+#EXTINF:-1 ,华数国外电视剧
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1 ,华数时装1
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1 ,华数时装2
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1 ,华数时尚1
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 ,华数时尚2
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 ,华数有象视频
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1 ,华数视频
+http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
+#EXTINF:-1 ,华数游戏1
+http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+#EXTINF:-1 ,华数游戏2
+http://hls-ott-zhibo.wasu.tv/live/238/index.m3u8
+#EXTINF:-1 ,华数游戏3
+http://hls-ott-zhibo.wasu.tv/live/249/index.m3u8
+#EXTINF:-1 ,华数游戏4
+http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
+#EXTINF:-1 ,华数游戏5
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:-1 ,电影解说-乌贼说故事
+https://ws.streamhls.huya.com/huyalive/1444264308-1444264308-6203067969640071168-4655558802-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,电影解说-越哥看电影
+https://ws.streamhls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,电影解说-老香菇
+https://ws.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,电影解说-阿祥看电影
+https://ws.streamhls.huya.com/huyalive/1199512004776-1199512004776-5223235107350904832-2399024133008-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,电影解说-鬼话怪谈
+https://ws.streamhls.huya.com/huyalive/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,电影解说-牛叔解说电影
+https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,电影-周润发
+https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,电影-刘德华
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-周星驰
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-李连杰
@@ -241,16 +295,10 @@ https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-278925
 https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-超级英雄
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-女神系列2
+#EXTINF:-1 ,电影-女神系列
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-周润发
-https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-五福星系列
 https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-#EXTINF:-1 ,电影-红色经典
-https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-刘德华
-https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-顶级科幻
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-速度与激情
@@ -263,14 +311,6 @@ https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-重案六组
 https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影解说-乌贼说故事
-https://ws.streamhls.huya.com/huyalive/1444264308-1444264308-6203067969640071168-4655558802-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 ,电影解说-越哥看电影
-https://ws.streamhls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 ,电影解说-老香菇
-https://ws.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 ,电影解说-阿祥看电影
-https://ws.streamhls.huya.com/huyalive/1199512004776-1199512004776-5223235107350904832-2399024133008-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:-1 ,电视剧-雍正王朝
 https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-篮球火
@@ -289,8 +329,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2533158964-10879834905949241344-
 https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-最佳搭档
 https://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电视剧-风云霸天下
-https://aldirect.hls.huya.com/huyalive/94525224-2604793760-11187504012024872960-2847699160-10057-A-1523523587-1_1200.m3u8
 #EXTINF:-1 ,动漫-火神君
 https://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,动漫-十万个冷笑话
@@ -299,16 +337,10 @@ https://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-
 https://aldirect.hls.huya.com/huyalive/29141112-2689666878-11552031278144421888-3049003116-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,日剧-孤独的美食者
 http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-#EXTINF:-1 ,电影解说-鬼话怪谈
-https://ws.streamhls.huya.com/huyalive/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 ,电影解说-牛叔解说电影
-https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,荒野生存
 https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,火线追凶
 http://dlhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
-#EXTINF:-1 ,随便看看
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,三国演义
 https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,康熙微服私访记
@@ -325,8 +357,6 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-
 http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,亮剑
 http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,猫和老鼠
-https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,赵本山小品系列
 http://js.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,神雕侠侣古天乐版
@@ -335,118 +365,96 @@ http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2
 https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,倚天屠龙记苏有朋
 http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,天龙八部
-https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,侠客行
+#EXTINF:-1 ,我的前半生
 https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,战旗影视 1
-http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-#EXTINF:-1 ,战旗影视 2
+#EXTINF:-1 ,战旗点播1
+http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:-1 ,战旗影视2
 http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-#EXTINF:-1 ,战旗影视 3
+#EXTINF:-1 ,战旗影视3
 http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
-#EXTINF:-1 ,战旗影视 4
+#EXTINF:-1 ,战旗影视4
 http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
 #EXTINF:-1 ,战旗影视 5
 http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
-#EXTINF:-1 ,战旗影视 6
-http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
-#EXTINF:-1 ,战旗影视 9
-http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 ,战旗影视 10
-http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 ,战旗影视 21
-http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
-#EXTINF:-1 ,战旗影视 23
-http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
-#EXTINF:-1 ,战旗影视 26
-http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
-#EXTINF:-1 ,战旗影视 28
-http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
-#EXTINF:-1 ,战旗影视 34
-http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
-#EXTINF:-1 ,战旗影视 35
-http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-#EXTINF:-1 ,战旗轮播1
-http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-#EXTINF:-1 ,战旗影院2
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-#EXTINF:-1 ,战旗影院6
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-#EXTINF:-1 ,战旗影院7
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 #EXTINF:-1 ,战旗影院8
 http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
 #EXTINF:-1 ,战旗影院9
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 ,战旗影视10
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 ,战旗影视11
+http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,战旗影视12
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
+#EXTINF:-1 ,战旗电影13
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,战旗影视14
+http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1 ,战旗影视15
+http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:-1 ,战旗影视16
+http://dlhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1 ,战旗影视21
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1 ,战旗影视23
+http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1 ,战旗影视26
+http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:-1 ,战旗影视28
+http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:-1 ,战旗影视34
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 ,战旗影视35
+http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
 #EXTINF:-1 ,战旗-火影
 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-#EXTINF:-1 ,电影轮播54
-http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
-#EXTINF:-1 ,战旗11
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 #EXTINF:-1 ,战旗大片直播
 http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
-#EXTINF:-1 ,战旗点播2
-http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:-1 ,战旗电影22
-http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 ,战旗红心柚子
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw_1024/index.m3u8
-#EXTINF:-1 ,战旗影视
-http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
-#EXTINF:-1 ,战旗影视 58
-http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:-1 ,战旗影视
-http://dlhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
 #EXTINF:-1 ,战旗-懒猫美食
 http://dlhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-#EXTINF:-1 ,香港电影
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 ,漫威电影
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 ,战争电影
-http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 ,犯罪悬疑
-http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8
-#EXTINF:-1 ,复仇犯罪
-http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视01
 http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视02
 http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视03
 http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视04
 http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视05
 http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视06
 http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视07
 http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视08
 http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视09
 http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视10
 http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
-http://aldirect.hls.huya.com/huyalive/94525224-2604793760-11187504012024872960-2847699160-10057-A-1523523587-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视11
 http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视12
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视13
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视14
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视15
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视16
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,虎牙影视
+#EXTINF:-1 ,虎牙影视17
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 ,虎牙香港电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,虎牙漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙复仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1 ,虎牙影视女神港片
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 #EXTINF:-1 ,虎牙影视灾难电影
@@ -461,26 +469,572 @@ http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1 ,虎牙动作电影
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,港产喜剧片
-http://3954.liveplay.myqcloud.com/live/3954_9739911.m3u8
-#EXTINF:-1 ,海王
-http://cn3.zhongshanchemical.com/hls/20190308/1629c4371ecea17875ae268b573fec10/1552053430/index.m3u8
-#EXTINF:-1 ,湖北公共新闻
-http://live.cjyun.org/video/s10008-ggxw2018/index.m3u8
-#EXTINF:-1 ,湖北教育
-http://live.cjyun.org/video/s10008-jy2018/index.m3u8
-#EXTINF:-1 ,湖北垄上
-http://live.cjyun.org/video/s10008-ls2018s/index.m3u8
-#EXTINF:-1 ,湖北生活
-http://live.cjyun.org/video/s10008-ty2018/index.m3u8
-#EXTINF:-1 ,湖北休闲指南
-http://live.cjyun.org/video/s10008-klcz2018/index.m3u8
-#EXTINF:-1 ,湖北影视
-http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
-#EXTINF:-1 ,湖北综合
-http://live.cjyun.org/video/s10008-zh2018/index.m3u8
-#EXTINF:-1 ,湖北经视频道
-http://live.cjyun.org/video/s10008-hbjs2018/index.m3u8
+#EXTINF:-1 ,点掌财经
+http://bdlive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,留学世界
+http://l.cztvcloud.com/channels/lantian/channel09/360p.m3u8
+#EXTINF:-1 ,数码时代
+http://l.cztvcloud.com/channels/lantian/channel12/360p.m3u8
+#EXTINF:-1 ,优购物Live
+http://cjzb.u01.live.17ugo.com/ugo.m3u8
+#EXTINF:-1 ,时尚购Live
+http://cjzb.u02.live.17ugo.com/ugo.m3u8
+#EXTINF:-1 ,时尚名品汇
+http://cjzb.u16.live.17ugo.com/ugo.m3u8
+#EXTINF:-1 ,上海这一刻：魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 ,上海这一刻：陆家嘴
+http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+#EXTINF:-1 ,张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 ,张家界天门山天门洞
+https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 ,张家界天门山天空步道
+https://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 ,张家界天门山云梦仙顶
+https://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
+#EXTINF:-1 ,张家界天门山云梦仙顶
+https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 ,张家界天门山云梦仙顶
+https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 ,湖南湘西凤凰古城东关门
+http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 ,厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 ,广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 ,平山湖大峡谷九龙汇海(回放)
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 ,平山湖大峡谷峡谷石林(回放)
+https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 ,桂林象山公园(回放)
+https://gccncc.v.wscdns.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 ,六盘山红军长征景区(回放)
+https://gccncc.v.wscdns.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 ,西汉南越王博物馆
+https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
+#EXTINF:-1 ,广东省深圳市甘坑客家小镇(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
+#EXTINF:-1 ,广东省深圳市甘坑客家小镇(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 ,八里沟风景区天界山玻璃栈道(回放)
+https://gccncc.v.wscdns.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 ,八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 ,汶川映秀新城
+https://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 ,十八洞村
+https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1_md.m3u8
+#EXTINF:-1 ,十八洞村
+https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 ,趵突泉
+https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 ,趵突泉
+https://gccncc.v.wscdns.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 ,安徽省池州市九华山风景区拜经台
+https://gccncc.v.wscdns.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 ,安徽省池州市九华山风景区
+https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
+#EXTINF:-1 ,安徽省池州市九华山风景区
+https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 ,安徽省池州市九华山风景区花台
+https://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 ,华山(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
+#EXTINF:-1 ,华山(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 ,江苏徐州云龙湖风景区云龙山观景台南
+https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
+#EXTINF:-1 ,江苏徐州云龙湖风景区云龙山观景台南
+https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 ,江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 ,贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 ,贵州省兴义市马岭河峡谷
+https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 ,贵州省贞丰市双乳峰景区
+https://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 ,云南大理崇圣寺三塔中景
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
+#EXTINF:-1 ,云南大理崇圣寺三塔中景
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 ,云南大理崇圣寺三塔湖面
+https://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 ,云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 ,浙江杭州千岛湖
+https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 ,桂林漓江景区(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
+#EXTINF:-1 ,桂林漓江景区(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 ,南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山(回放)
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山蓝月谷
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山印象实景(回放)
+https://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山玉液湖
+https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 ,白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山の一滴水过丽江
+https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山の冰川(回放)
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山草甸
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山白水台
+https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山蓝月谷中游湖面
+https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 ,玉龙雪山の高尔夫(回放)
+https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 ,江苏南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 ,福建漳州六鳌翡翠湾(回放)
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 ,福建漳州醉美沙滩翡翠湾(回放)
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 ,青岛崂山灵旗峰
+https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 ,青岛崂山八水河(回放)
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 ,青岛崂山双福
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 ,青岛崂山太清
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 ,三亚南山文化旅游区海上观音(回放)
+https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 ,天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 ,天津之眼
+https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 ,天津海河(回放)
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+#EXTINF:-1 ,仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 ,四川凉山彝族自治州西昌市邛海景区
+https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
+#EXTINF:-1 ,四川凉山彝族自治州西昌市邛海景区
+https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 ,平遥古城(回放)
+https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 ,普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 ,普陀山
+https://gccncc.v.wscdns.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 ,浙江舟山东极岛(回放)
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 ,浙江舟山东极岛(回放)
+https://gccncc.v.wscdns.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 ,宁夏黄河大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
+#EXTINF:-1 ,宁夏黄河大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 ,郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 ,张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 ,张掖七彩丹霞
+https://gccncc.v.wscdns.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 ,四川四姑娘山幺妹峰
+https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 ,四川四姑娘山隆珠措(回放)
+https://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头大漠孤烟
+https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头黄河漂流
+https://gccncc.v.wscdns.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头黄河漂流
+https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 ,宁夏沙坡头长河落日
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 ,丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 ,丽江古城大研花巷观景
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8
+#EXTINF:-1 ,丽江古城大研花巷观景
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 ,丽江古城大水车
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8
+#EXTINF:-1 ,丽江古城大水车
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 ,云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 ,云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 ,云台山红石峡
+https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 ,云台山茱萸峰
+https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 ,福建武夷山印象大红袍(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8
+#EXTINF:-1 ,福建武夷山印象大红袍(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 ,福建武夷山大红袍茶园(回放)
+https://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 ,福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 ,黄山
+https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 ,黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 ,黄山卧云峰
+https://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 ,黄山梦笔生花
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 ,黄山排云亭(回放)
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 ,黄山平天矼
+https://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 ,黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 ,黄山光明顶
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 ,泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 ,泰山主峰
+https://gccncc.v.wscdns.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 ,泰山望人松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 ,泰山
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 ,泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 ,泰山十八盘(回放)
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 ,泰山十八盘(回放)
+https://gccncc.v.wscdns.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 ,泰山天街
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 ,泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 ,泰山拱北日出
+https://gccncc.v.wscdns.com/gc/hkts01_1/index.m3u8
+#EXTINF:-1 ,泰山白云亭悬崖(回放)
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 ,泰山碧霞祠(回放)
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 ,泰山经石峪(回放)
+https://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 ,泰山开山(回放)
+https://gccncc.v.wscdns.com/gc/hkts05_1/index.m3u8
+#EXTINF:-1 ,泰山龙潭水库(回放)
+https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 ,泰山南天门(回放)
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 ,泰山南天门(回放)
+https://gccncc.v.wscdns.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 ,泰山扇子崖(回放)
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 ,泰山太平岭(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
+#EXTINF:-1 ,泰山太平岭(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 ,泰山玉皇顶东(回放)
+https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 ,泰山玉皇顶西(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
+#EXTINF:-1 ,泰山玉皇顶西(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区迷魂台
+https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8
+#EXTINF:-1 ,张家界武陵源景区迷魂台
+https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区御笔峰
+https://gccncc.v.wscdns.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区宝峰湖
+https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1_md.m3u8
+#EXTINF:-1 ,张家界武陵源景区宝峰湖
+https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 ,张家界武陵源景区将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区洗身洞
+https://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 ,四川阿坝州松潘县黄龙景区望乡台
+https://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 ,乐山大佛全景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
+#EXTINF:-1 ,乐山大佛全景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 ,江西龙虎山中间水泡(回放)
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 ,江西龙虎山中间水泡(回放)
+https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 ,江西龙虎山山涧栈道(回放)
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 ,江西龙虎山山涧栈道(回放)
+https://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 ,丹霞山丹梯铁锁(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+#EXTINF:-1 ,丹霞山丹梯铁锁(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 ,丹霞山韶音亭(回放)
+https://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田普高老寨
+https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田老虎嘴(回放)
+https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田多依树景点(回放)
+https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 ,云南红河哈尼梯田坝达景点观景台(回放)
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+#EXTINF:-1 ,峨眉山云海日出
+https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 ,峨眉山远眺贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
+#EXTINF:-1 ,峨眉山远眺贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 ,峨眉山普贤菩萨铜像(回放)
+https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 ,峨眉山远眺万佛顶(回放)
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 ,峨眉山远眺万佛顶(回放)
+https://gccncc.v.wscdns.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 ,鸣沙山
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 ,鸣沙山月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 ,鸣沙山山门
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 ,都江堰鱼嘴(回放)
+https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 ,都江堰鱼嘴(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
+#EXTINF:-1 ,都江堰鱼嘴(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 ,都江堰飞沙堰(回放)
+https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
+#EXTINF:-1 ,都江堰秦堰楼(回放)
+https://gcalic.v.myalicdn.com/gc/djyqyl2_1/index.m3u8
+#EXTINF:-1 ,都江堰秦堰楼(回放)
+https://gccncc.v.wscdns.com/gc/djyqyl2_1/index.m3u8
+#EXTINF:-1 ,黄花城水长城01
+https://gccncc.v.wscdns.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 ,黄花城水长城02
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 ,黄花城水长城03
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 ,黄花城水长城04
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 ,湘西凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 ,湘西凤凰古城南华山
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
+#EXTINF:-1 ,湘西凤凰古城南华山
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村西递牌坊(回放)
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村西递牌坊(回放)
+https://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村月沼(回放)
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 ,安徽黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 ,嘉峪关01(回放)
+https://gccncc.v.wscdns.com/gc/jyg01_1/index.m3u8
+#EXTINF:-1 ,嘉峪关02(回放)
+https://gccncc.v.wscdns.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 ,嘉峪关02(回放)
+https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 ,嘉峪关03(回放)
+https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇蓝印花布
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
+#EXTINF:-1 ,浙江乌镇蓝印花布
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇全景(回放)
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇西市河(回放)
+https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 ,浙江乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 ,牡丹江雪乡梦幻家园观景台(回放)
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 ,牡丹江雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1_md.m3u8
+#EXTINF:-1 ,牡丹江雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 ,牡丹江雪乡大石碑(回放)
+https://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 ,神农架金丝猴01(回放)
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 ,神农架金丝猴02(回放)
+https://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 ,神农架金丝猴03(回放)
+https://gcalic.v.myalicdn.com/gc/jsh03_1/index.m3u8
+#EXTINF:-1 ,神农架金丝猴04(回放)
+https://gcalic.v.myalicdn.com/gc/jsh04_1/index.m3u8
+#EXTINF:-1 ,神农架金丝猴06(回放)
+https://gccncc.v.wscdns.com/gc/jsh06_1/index.m3u8
+#EXTINF:-1 ,八达岭长城南七楼(回放)
+https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 ,八达岭长城北十楼(回放)
+https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 ,中央电视塔中塔东(回放)
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 ,中央电视塔中塔南(回放)
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 ,中央电视塔中塔西(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
+#EXTINF:-1 ,中央电视塔中塔西(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 ,中央电视塔中塔西(回放)
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 ,中央电视塔中塔北(回放)
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 ,恒山悬空寺全景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1_md.m3u8
+#EXTINF:-1 ,恒山悬空寺全景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 ,恒山悬空寺恒宗(回放)
+https://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 ,恒山悬空寺侧景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
+#EXTINF:-1 ,恒山悬空寺侧景(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 ,恒山悬空寺侧景(回放)
+https://gccncc.v.wscdns.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 ,黄果树瀑布银链坠潭瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
+#EXTINF:-1 ,黄果树瀑布银链坠潭瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 ,黄果树瀑布六角亭瀑布
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 ,黄果树瀑布六角亭瀑布
+https://gccncc.v.wscdns.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 ,天涯海角の天涯鸟瞰
+https://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 ,天涯海角の天涯石
+https://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 ,天涯海角の天涯石
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 ,天涯海角の南天一柱(回放)
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 ,天涯海角の日月石(回放)
+https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 ,嵩山少林寺广场(回放)
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 ,嵩山少林寺峻极峰(回放)
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 ,嵩山少林寺峻极峰(回放)
+https://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 ,嵩山少林寺胜观峰(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8
+#EXTINF:-1 ,嵩山少林寺胜观峰(回放)
+https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
+#EXTINF:-1 ,江西婺源01(回放)
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 ,江西婺源02(回放)
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 ,江西婺源02(回放)
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮01
+https://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮03
+https://gccncc.v.wscdns.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮03
+https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮04
+https://gctxyc.liveplay.myqcloud.com/gc/zh04_1_md.m3u8
+#EXTINF:-1 ,陕西洋县国宝朱鹮04
+https://gctxyc.liveplay.myqcloud.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 ,广东珠江频道
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 ,广东新闻频道
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 ,广东公共频道
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,广东体育频道
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 ,广东国际频道
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 ,广东影视频道(TVS-4)
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 ,广东少儿频道(TVS-5)
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 ,广东嘉佳卡通
+http://nclive.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:-1 ,广东高尔夫频道
+http://nclive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1 ,广东房产频道
+http://nclive.grtn.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 ,广东南方卫视TVS2
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 ,南方购物频道
+http://nclive.grtn.cn/nfgw/sd/live.m3u8
+#EXTINF:-1 ,广东科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 ,广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 ,广东潮州潮安区影视
+http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
+#EXTINF:-1 ,广东潮州潮安区综合
+http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 ,广东潮州公共
+http://live.zscz0768.com/live/ggpd.m3u8
+#EXTINF:-1 ,广东潮州综合
+http://live.zscz0768.com/live/zhpd.m3u8
+#EXTINF:-1 ,广东清远综合
+http://stream1.0763f.com/qyzh/sd/live.m3u8
+#EXTINF:-1 ,广东汕头综合
+http://dslive.grtn.cn/stzh/sd/live.m3u8
+#EXTINF:-1 ,广东佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 ,广东江门综合
+http://dslive.grtn.cn/jmzh/sd/live.m3u8
+#EXTINF:-1 ,广东阳江综合
+http://dslive.grtn.cn/yjzh/sd/live.m3u8
+#EXTINF:-1 ,广东河源综合
+http://dslive.grtn.cn/hyzh/sd/live.m3u8
+#EXTINF:-1 ,广东河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 ,广东汕尾公共
+http://dslive.grtn.cn/swzh/sd/live.m3u8
+#EXTINF:-1 ,广东云浮综合
+http://dslive.grtn.cn/yfzh/sd/live.m3u8
+#EXTINF:-1 ,广东台山台(TSTV)
+http://stream.tvod.tsbtv.tv/tstv/sd/live.m3u8
+#EXTINF:-1 ,广东河源综合频道
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 ,广东潮州潮安县综合
+http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+#EXTINF:-1 ,广东梅州一套(梅州-1)
+http://dslive.grtn.cn/mzzh/playlist.m3u8
+#EXTINF:-1 ,广东湛江综合频道
+http://dslive.grtn.cn/zjzh/sd/live.m3u8
+#EXTINF:-1 ,广东肇庆综合频道
+http://dslive.grtn.cn/zqzh/playlist.m3u8
+#EXTINF:-1 ,广西玉林新闻综合
+http://pili-playback.liveyulin.sobeycache.com/yulintai/zb03.m3u8
+#EXTINF:-1 ,广西玉林公共
+http://pili-playback.liveyulin.sobeycache.com/yulintai/zb02.m3u8
+#EXTINF:-1 ,广西玉林知识
+http://pili-playback.liveyulin.sobeycache.com/yulintai/zb01.m3u8
 #EXTINF:-1 ,湖北黄冈新闻综合频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 #EXTINF:-1 ,湖北黄冈公共频道
@@ -507,14 +1061,14 @@ http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
 http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
 #EXTINF:-1 ,湖北广水新闻频道
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 ,湖北大冶二套
-http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
 #EXTINF:-1 ,湖北大冶一套
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-#EXTINF:-1 ,浙江公共新闻
-http://l.cztvcloud.com/channels/lantian/channel07/360p.m3u8
+#EXTINF:-1 ,湖北大冶二套
+http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
 #EXTINF:-1 ,浙江国际
 http://l.cztvcloud.com/channels/lantian/channel10/360p.m3u8
+#EXTINF:-1 ,浙江公共新闻
+http://l.cztvcloud.com/channels/lantian/channel07/360p.m3u8
 #EXTINF:-1 ,浙江教育科技
 http://l.cztvcloud.com/channels/lantian/channel04/360p.m3u8
 #EXTINF:-1 ,浙江经视
@@ -557,18 +1111,6 @@ http://stream.sxtv.com.cn/xwzb/sd/live.m3u8?_upt=8cc194131548670536
 http://stream.sxtv.com.cn/ggzb/sd/live.m3u8?_upt=4049919a1548670662
 #EXTINF:-1 ,浙江绍兴影视娱乐频道
 http://stream.sxtv.com.cn/yszb/sd/live.m3u8?_upt=026df4ae1548670698
-#EXTINF:-1 ,浙江宁波新闻综合频道
-http://live.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_800k_flv
-#EXTINF:-1 ,浙江宁波经济生活频道
-http://live.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_800k_flv
-#EXTINF:-1 ,浙江宁波都市文体频道
-http://live.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_800k_flv
-#EXTINF:-1 ,浙江宁波影视剧频道
-http://live.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_800k_flv
-#EXTINF:-1 ,浙江宁波少儿频道
-http://live.cloud.nbtv.cn/live/f9af570c981c4c618f919ea91b93966f?fmt=h264_800k_flv
-#EXTINF:-1 ,浙江宁波教育科技频道
-http://live.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86a?fmt=h264_800k_flv
 #EXTINF:-1 ,浙江东阳影视生活
 http://stream.dybtv.com/yssh/GQ/live.m3u8
 #EXTINF:-1 ,浙江杭州萧山新闻综合
@@ -585,8 +1127,6 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 ,浙江余姚幸福生活
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 ,浙江余杭综合频道
-http://pullhls46232f8e.live.126.net/live/4b50fb9f7910479f923daf76cf6f5a27/playlist.m3u8
 #EXTINF:-1 ,浙江绍兴新昌县新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 ,浙江绍兴新昌县休闲影视
@@ -601,9 +1141,9 @@ http://live.zjmc.tv/3/sd/live.m3u8
 http://live.zjmc.tv/2/sd/live.m3u8
 #EXTINF:-1 ,江苏张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 ,江苏徐州新闻综合频道(徐州·1)
+#EXTINF:-1 ,江苏徐州新闻综合(徐州·1)
 http://stream1.huaihai.tv/xwzh/sd/live.m3u8
-#EXTINF:-1 ,江苏徐州经济生活频道(徐州·2)
+#EXTINF:-1 ,江苏徐州经济生活(徐州·2)
 http://stream1.huaihai.tv/jjsh/sd/live.m3u8
 #EXTINF:-1 ,江苏张家港社会生活
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
@@ -613,10 +1153,6 @@ http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
 http://218.3.92.100:1937/live/shenghuo/playlist.m3u8
 #EXTINF:-1 ,江苏镇江句容市影视频道
 http://218.3.92.100:1937/live/yingshi/chunklist_w365370764.m3u8
-#EXTINF:-1 ,江苏连云港城市公共
-http://bsyll.qingk.cn/live/lygtv2/index.m3u8
-#EXTINF:-1 ,江苏连云港新闻综合
-http://bsyll.qingk.cn/live/lygtv1/index.m3u8
 #EXTINF:-1 ,江苏无锡教育频道
 http://live.wxjy.com.cn:5011/vod/hls/c01/wxjyc01.m3u8
 #EXTINF:-1 ,江苏苏州吴江区新闻综合
@@ -625,112 +1161,12 @@ http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 ,江苏常州武进区新闻频道
 http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 ,广东珠江频道
-http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1 ,广东新闻频道
-http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 ,广东公共频道
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,广东体育频道
-http://nclive.grtn.cn/typd/sd/live.m3u8
-#EXTINF:-1 ,广东国际频道
-http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1 ,广东经济科教频道(TVS-1)
-http://nclive.grtn.cn/tvs1/sd/live.m3u8
-#EXTINF:-1 ,广东综艺频道(TVS-3)
-http://nclive.grtn.cn/tvs3/sd/live.m3u8
-#EXTINF:-1 ,广东综艺4K
-http://dslive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 ,广东影视频道(TVS-4)
-http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1 ,广东少儿频道(TVS-5)
-http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1 ,广东嘉佳卡通
-http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 ,广东高尔夫频道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 ,广东房产频道
-http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 ,广东南方卫视TVS2
-http://nclive.grtn.cn/tvs2/sd/live.m3u8
-#EXTINF:-1 ,南方购物频道
-http://nclive.grtn.cn/nfgw/sd/live.m3u8
-#EXTINF:-1 ,广东科教
-http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 ,广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 ,广东东莞公共
-http://mtv.sun0769.com/dgrtv1/mp4:tv2/index.m3u8
-#EXTINF:-1 ,广东潮州潮安区影视
-http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
-#EXTINF:-1 ,广东潮州潮安区综合
-http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
-#EXTINF:-1 ,广东潮州公共
-http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1 ,广东潮州综合
-http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1 ,广东开平生活
-http://pili-live-hls.livekpdst.sobeycache.com/kpdst/zb2.m3u8
-#EXTINF:-1 ,广东开平综合
-http://pili-live-hls.livekpdst.sobeycache.com/kpdst/gb1.m3u8
-#EXTINF:-1 ,广东清远清新区综合
-http://hls.qxtv0763.com/live/qxzh.m3u8
-#EXTINF:-1 ,广东清远综合
-http://stream1.0763f.com/qyzh/sd/live.m3u8
-#EXTINF:-1 ,广东汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8
-#EXTINF:-1 ,广东佛山综合
-http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 ,广东江门综合
-http://dslive.grtn.cn/jmzh/sd/live.m3u8
-#EXTINF:-1 ,广东阳江综合
-http://dslive.grtn.cn/yjzh/sd/live.m3u8
-#EXTINF:-1 ,广东河源综合
-http://dslive.grtn.cn/hyzh/sd/live.m3u8
-#EXTINF:-1 ,广东河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 ,广东汕尾公共
-http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 ,广东云浮综合
-http://dslive.grtn.cn/yfzh/sd/live.m3u8
-#EXTINF:-1 ,广东台山台(TSTV)
-http://stream.tvod.tsbtv.tv/tstv/sd/live.m3u8
-#EXTINF:-1 ,广东开平综合频道
-http://pili-live-hdl.livekpdst.sobeycache.com/kpdst/gb1.flv
-#EXTINF:-1 ,广东开平生活频道
-http://pili-live-hdl.livekpdst.sobeycache.com/kpdst/zb2.flv
-#EXTINF:-1 ,广东河源综合频道
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,广东清远清新区公共
-http://hls.qxtv0763.com/live/qxgg.m3u8
-#EXTINF:-1 ,广东潮州潮安县综合
-http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-#EXTINF:-1 ,广东梅州一套(梅州-1)
-http://dslive.grtn.cn/mzzh/playlist.m3u8
-#EXTINF:-1 ,广东湛江综合频道
-http://dslive.grtn.cn/zjzh/sd/live.m3u8
-#EXTINF:-1 ,广东肇庆综合频道
-http://dslive.grtn.cn/zqzh/playlist.m3u8
-#EXTINF:-1 ,广东中山综合频道
-rtmp://183.58.24.152/dreamStreamCore/qTl38me/lv800
-#EXTINF:-1 ,广东中山公共频道
-rtmp://183.58.24.152/dreamStreamCore/H3QclaV/lv800
-#EXTINF:-1 ,广东中山教育频道
-rtmp://183.58.24.152/dreamStreamCore/O06b0Mw/lv800
-#EXTINF:-1 ,广东汕尾新闻综合频道(汕尾1)
-rtmp://tl.qingk.cn:80/live/swsjzb2
-#EXTINF:-1 ,广东汕尾公共频道(汕尾2)
-rtmp://tl.qingk.cn:80/live/swsjzb1
-#EXTINF:-1 ,广西玉林新闻综合
-http://pili-playback.liveyulin.sobeycache.com/yulintai/zb03.m3u8
-#EXTINF:-1 ,广西玉林公共
-http://pili-playback.liveyulin.sobeycache.com/yulintai/zb02.m3u8
-#EXTINF:-1 ,广西玉林知识
-http://pili-playback.liveyulin.sobeycache.com/yulintai/zb01.m3u8
-#EXTINF:-1 ,广西贺州钟山县综合频道
-http://live.lpszstv.com/channel1/sd/live.m3u8
-#EXTINF:-1 ,四川康巴卫视
-http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
+#EXTINF:-1 ,北京怀柔1台
+http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
+#EXTINF:-1 ,天津西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 ,天津三佳购物频道
+http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
 #EXTINF:-1 ,四川文化
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
 #EXTINF:-1 ,四川经济
@@ -753,10 +1189,6 @@ http://118.122.224.176:8091/live/shzx.m3u8
 http://61.157.168.66:6066/lztv2/lztv2.m3u8
 #EXTINF:-1 ,四川泸州新闻综合
 http://61.157.168.66:6066/lztv1/lztv1.m3u8
-#EXTINF:-1 ,四川达州公共频道
-http://file.dzxw.net/vms/videos/nmip-media/channellive/channel19/playlist.m3u8
-#EXTINF:-1 ,四川达州新闻综合
-http://file.dzxw.net/vms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 ,四川德阳公共频道
 http://scdytv.com:1935/live/ggpd_livevideo/palylist.m3u8
 #EXTINF:-1 ,四川德阳新闻综合
@@ -787,10 +1219,6 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 #EXTINF:-1 ,重庆移动公交
 http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
-#EXTINF:-1 ,重庆移动机场
-http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
-#EXTINF:-1 ,重庆丰都文化旅游
-http://125.62.25.201:1936/output0.m3u8
 #EXTINF:-1 ,重庆江津区经济生活
 http://jiangjinlive.cbg.cn:1935/ch0.m3u8
 #EXTINF:-1 ,重庆江津区文化旅游
@@ -809,10 +1237,6 @@ http://nanchuanlive.cbg.cn:30000/2222.m3u8
 http://221.5.213.4:30000/1111.m3u8
 #EXTINF:-1 ,重庆彭水县新闻综合
 http://pengshuilive.cbg.cn/pengshui01.m3u8
-#EXTINF:-1 ,重庆铜梁区文旅
-http://tonglianglive.cbg.cn:50123/ch2.m3u8
-#EXTINF:-1 ,重庆铜梁区综合
-http://tonglianglive.cbg.cn:40123/ch1.m3u8
 #EXTINF:-1 ,重庆万盛区新闻综合
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 #EXTINF:-1 ,重庆万州区科教频道
@@ -823,16 +1247,8 @@ http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 ,重庆万州区综合频道
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 ,重庆忠县综合频道
-http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
 #EXTINF:-1 ,重庆綦江区综合频道
 http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
-#EXTINF:-1 ,重庆市大足区文化频道
-http://dazulive.cbg.cn:3170/hls5.m3u8
-#EXTINF:-1 ,重庆市大足区综合频道
-http://dazulive.cbg.cn:3170/hls1.m3u8
-#EXTINF:-1 ,重庆城口县综合频道
-http://chengkoulive2.cbg.cn:1935/chengkou01.m3u8
 #EXTINF:-1 ,重庆长寿区文化旅游
 http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
 #EXTINF:-1 ,重庆垫江县综合频道
@@ -847,24 +1263,14 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 ,福建厦门一套
 http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8
-#EXTINF:-1 ,福建厦门一套
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
 #EXTINF:-1 ,福建厦门二套
 http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
-#EXTINF:-1 ,福建厦门二套
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
 #EXTINF:-1 ,福建厦门三套
 http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
-#EXTINF:-1 ,福建厦门三套
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1 ,福建厦门四套
 http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
-#EXTINF:-1 ,福建厦门四套
-http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 ,福建厦门移动电视
 http://cstv.live.wscdns.com/live/xiamenyidong/playlist.m3u8
-#EXTINF:-1 ,福建厦门移动电视
-http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
 #EXTINF:-1 ,福建福州少儿
 http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 #EXTINF:-1 ,福建福州生活
@@ -897,24 +1303,18 @@ http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
 #EXTINF:-1 ,湖南娄底综合频道
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 ,湖南张家界1
+#EXTINF:-1 ,湖南张家界1新闻综合
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-#EXTINF:-1 ,湖南株洲新闻综合
-http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
-#EXTINF:-1 ,湖南张家界2台
+#EXTINF:-1 ,湖南张家界2公共
 http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 #EXTINF:-1 ,安徽省合肥肥西县生活频道
 http://60.168.145.236:1936/live/movie/playlist.m3u8
 #EXTINF:-1 ,安徽淮南凤台县文化生活
 http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 ,安徽池州公共频道
-http://cztv.wshls.homecdn.com/live/829d.m3u8
 #EXTINF:-1 ,安徽绩溪新闻频道
 http://124.112.228.134:1935/live/zongyi/playlist.m3u8
 #EXTINF:-1 ,安徽六安新闻综合
 http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 ,安徽亳州蒙城县新闻频道
-http://live.ahmctv.net/channel1/sd/live.m3u8
 #EXTINF:-1 ,安徽亳州农村频道
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 #EXTINF:-1 ,安徽宿州萧县农业旅游
@@ -925,6 +1325,8 @@ http://220.178.172.47:8090/live/ch1.m3u8
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
 #EXTINF:-1 ,安徽蚌埠新闻综合
 http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
+#EXTINF:-1 ,安庆黄梅戏教育
+http://live.aqbtv.cn:9600/live/hmx/tzwj_video.m3u8
 #EXTINF:-1 ,陕西新闻资讯
 http://stream.snrtv.com/sxtvs-1.m3u8
 #EXTINF:-1 ,陕西都市青春
@@ -937,8 +1339,6 @@ http://stream.snrtv.com/sxtvs-5.m3u8
 http://stream.snrtv.com/sxtvs-7.m3u8
 #EXTINF:-1 ,陕西秦腔频道
 http://stream.snrtv.com/qinqiang.m3u8
-#EXTINF:-1 ,陕西榆林横山区综合频道
-http://stream.hsqtv.cn/2/sd/live.m3u8
 #EXTINF:-1 ,陕西延安综合
 http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
 #EXTINF:-1 ,陕西西安新闻综合
@@ -953,30 +1353,12 @@ http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 ,陕西西安购物频道
 http://stream2.xiancity.cn/xatv6/sd/live.m3u8
-#EXTINF:-1 ,陕西礼泉新闻
-rtmp://tl.qingk.cn:80/live/lqxw
-#EXTINF:-1 ,陕西礼泉果乡
-rtmp://tl.qingk.cn:80/live/lqgx
-#EXTINF:-1 ,陕西礼泉生活
-rtmp://tl.qingk.cn:80/live/lqsh
-#EXTINF:-1 ,陕西彬州新闻综合
-rtmp://tl.qingk.cn:80/live/bxtv
-#EXTINF:-1 ,陕西彬州人文经济
-rtmp://tl.qingk.cn:80/live/bxtv1
-#EXTINF:-1 ,陕西彬州旅游生活
-rtmp://tl.qingk.cn:80/live/bxtv2
-#EXTINF:-1 ,陕西铜川新闻综合
-rtmp://tl.qingk.cn:80/live/tctv1
-#EXTINF:-1 ,陕西铜川文化娱乐
-rtmp://tl.qingk.cn:80/live/tctv2
-#EXTINF:-1 ,陕西旬阳新闻综合
-rtmp://tl.qingk.cn:80/live/sxsytv2
+#EXTINF:-1 ,山东国际
+http://ksdlive.gwpd.iqilu.com/gjpd.m3u8
 #EXTINF:-1 ,山东综艺
 http://ksdlive.gwpd.iqilu.com/zypd.m3u8
 #EXTINF:-1 ,山东公共
 http://ksdlive.gwpd.iqilu.com/ggpd.m3u8
-#EXTINF:-1 ,山东国际
-http://ksdlive.gwpd.iqilu.com/gjpd.m3u8
 #EXTINF:-1 ,山东居家购物
 http://ksdlive.gwpd.iqilu.com/gwpd.m3u8
 #EXTINF:-1 ,山东农科
@@ -985,8 +1367,6 @@ http://ksdlive.gwpd.iqilu.com/nkpd.m3u8
 http://ksdlive.gwpd.iqilu.com/sepd.m3u8
 #EXTINF:-1 ,山东生活
 http://ksdlive.gwpd.iqilu.com/shpd.m3u8
-#EXTINF:-1 ,山东卫视
-http://ksdlive.gwpd.iqilu.com/sdtv.m3u8
 #EXTINF:-1 ,山东影视
 http://ksdlive.gwpd.iqilu.com/yspd.m3u8
 #EXTINF:-1 ,山东德州公共频道
@@ -995,6 +1375,10 @@ http://video.dztv.tv:1935/live/dzgg_sj/playlist.m3u8
 http://video.dztv.tv:1935/live/dztw_sj/playlist.m3u8
 #EXTINF:-1 ,山东德州新闻频道
 http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8
+#EXTINF:-1 ,山东滨州公共电视剧
+http://stream.bzcm.net/1/sd/live.m3u8
+#EXTINF:-1 ,山东滨州新闻综合
+http://stream.bzcm.net/2/sd/live.m3u8
 #EXTINF:-1 ,山东东营公共频道
 http://stream.hhek.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 ,山东东营科教频道
@@ -1007,14 +1391,8 @@ http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8
 http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
 #EXTINF:-1 ,山东济宁综合频道
 http://lives.jnnews.tv/video/s10001-JTV1/index.m3u8
-#EXTINF:-1 ,山东威海乳山市新闻综合
-http://bsyll.qingk.cn/live/rstv1/index.m3u8
 #EXTINF:-1 ,山东枣庄公共频道
 http://210.14.139.210/5r1S12I/1000/live.m3u8
-#EXTINF:-1 ,山东济南章丘公共频道
-http://live.zhihuizq.com:1935/live/4_channel-1_output-0_live/playlist.m3u8
-#EXTINF:-1 ,山东济南章丘综合频道
-http://live.zhihuizq.com:1935/live/4_channel-0_output-0_live/playlist.m3u8
 #EXTINF:-1 ,山东枣庄新闻综合
 http://210.14.139.210/gMlJ23r/1000/live.m3u8
 #EXTINF:-1 ,山东枣庄教育频道
@@ -1025,18 +1403,6 @@ http://210.14.139.210/cmhGjaZ/1000/live.m3u8
 http://stream.zzgd.tv/3/sd/live.m3u8
 #EXTINF:-1 ,山东德州新闻频道
 http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1 ,山东临沂罗庄区新闻综合频道
-rtmp://tl.qingk.cn:80/live/lzsjdst01
-#EXTINF:-1 ,山东临沂罗庄区影视频道
-rtmp://tl.qingk.cn:80/live/lzsjdst02
-#EXTINF:-1 ,山东济南章丘图文频道
-http://live.zhihuizq.com:1935/live/4_channel-2_output-0_live/playlist.m3u8
-#EXTINF:-1 ,山东滨州无棣综艺频道
-http://sdwd.chinashadt.com:1935/live/wdzy.stream/playlist.m3u8
-#EXTINF:-1 ,山东潍坊临朐生活频道
-http://sdlqx.chinashadt.com:2036/live/lqsh.stream/playlist.m3u8
-#EXTINF:-1 ,山东临清综合频道
-http://sdlq.chinashadt.com:2036/live/lqzh.stream/playlist.m3u8
 #EXTINF:-1 ,山西晋城公共
 http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
 #EXTINF:-1 ,山西晋城新闻
@@ -1045,18 +1411,6 @@ http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
 http://jzlive.jztvnews.com:8092/live/jzgg.m3u8
 #EXTINF:-1 ,山西晋中新闻频道
 http://jzlive.jztvnews.com:8092/live/jzzh.m3u8
-#EXTINF:-1 ,山西临汾曲沃县综合频道
-http://bsyll.qingk.cn/live/quwo-1/index.m3u8
-#EXTINF:-1 ,山西黄河
-http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
-#EXTINF:-1 ,山西吕梁石楼综合频道
-http://sxll.chinashadt.com:1935/live/sl/playlist.m3u8
-#EXTINF:-1 ,山西阳泉市科教
-http://124.166.252.222:6505/live/ch2.m3u8
-#EXTINF:-1 ,山东滨州公共电视剧
-http://stream.bzcm.net/1/sd/live.m3u8
-#EXTINF:-1 ,山东滨州新闻综合
-http://stream.bzcm.net/2/sd/live.m3u8
 #EXTINF:-1 ,河南郑州地铁1频道
 http://218.29.90.216:280/live/s1/index.m3u8
 #EXTINF:-1 ,河南郑州地铁2频道
@@ -1069,8 +1423,6 @@ http://218.29.90.216:280/live/s4/index.m3u8
 http://live.qinyangtv.com/channel2/sd/live.m3u8
 #EXTINF:-1 ,河南焦作沁阳新闻综合
 http://live.qinyangtv.com/channel1/sd/live.m3u8
-#EXTINF:-1 ,河南周口科教文化
-http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
 #EXTINF:-1 ,河南洛阳科教频道
 http://live2.lytv.com.cn:1935/live/LYTV2-2/playlist.m3u8
 #EXTINF:-1 ,河南焦作公共频道
@@ -1099,50 +1451,28 @@ http://weblive.hebtv.com/live/hbjj_lc/index.m3u8
 http://tv.lnshw.com.cn:3000/hls/hebmnzbs/index.m3u8
 #EXTINF:-1 ,河北少儿
 http://weblive.hebtv.com/live/hbse_lc/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://weblive.hebtv.com/live/hbwsbq_lc/index.m3u8
-#EXTINF:-1 ,河北卫视HD
-http://weblive.hebtv.com/live/hbws_lc/index.m3u8
 #EXTINF:-1 ,河北影视
 http://weblive.hebtv.com/live/hbys_lc/index.m3u8
 #EXTINF:-1 ,河北唐山滦南县新闻综合
 http://tv.lnshw.com.cn:3000/hls/vfchqsff/index.m3u8
 #EXTINF:-1 ,河北深州影视频道
 http://hbsz.chinashadt.com:2036/live/stream:szys.stream_360p/playlist.m3u8
-#EXTINF:-1 ,河北张家口手机台
-http://nlive.zjkgdcs.com:8091/live/zjksjt.m3u8
-#EXTINF:-1 ,河北张家口一套
-http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 ,河北唐山滦南县新闻综合
 http://tv.lnshw.com.cn:3000/hls/pegdvlxq/index.m3u8
-#EXTINF:-1 ,河北唐山滦县综艺频道
-http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
 #EXTINF:-1 ,河北邯郸永年区民生频道
 http://hbyn.chinashadt.com:1936/live/stream:ynms.stream_360p/playlist.m3u8
 #EXTINF:-1 ,云南红河州个旧综合
 http://live.hhtv.cc:9098/gjtv/gjtv.m3u8
-#EXTINF:-1 ,云南红河州河口综合
-http://live.hhtv.cc:9098/hktv/hktv.m3u8
-#EXTINF:-1 ,云南文山州麻栗坡县电视台
-http://store.ovp.wsrtv.com.cn:9091/mlptv/hls/playlist.m3u8
 #EXTINF:-1 ,云南文山州丘北县电视台
 http://store.ovp.wsrtv.com.cn:9092/qbtv/hls/playlist.m3u8
 #EXTINF:-1 ,云南文山州公共
 http://store.ovp.wsrtv.com.cn:9090/ch2/hls/playlist.m3u8
 #EXTINF:-1 ,云南文山州新闻综合
 http://store.ovp.wsrtv.com.cn:9090/ch1/hls/playlist.m3u8
-#EXTINF:-1 ,海南三亚新闻综合
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-#EXTINF:-1 ,海南海口生活娱乐
-http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc/playlist.m3u8
 #EXTINF:-1 ,海南海口双创频道
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU/playlist.m3u8
 #EXTINF:-1 ,海南海口新闻综合
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKmL4K2dmqqW7KGgn6uWoqk/playlist.m3u8
-#EXTINF:-1 ,甘肃卫视高清
-http://stream.gstv.com.cn/gsws/sd/live.m3u8?_upt=96552ab11525456277
-#EXTINF:-1 ,甘肃敦煌综合频道
-http://live.todaydunhuang.com:1935/live/live100/500K/tzwj_video.m3u8
 #EXTINF:-1 ,甘肃都市频道
 http://stream.gstv.com.cn/dspd/sd/live.m3u8
 #EXTINF:-1 ,甘肃公共频道
@@ -1165,23 +1495,7 @@ http://stream.gstv.com.cn/pzsh/sd/live.m3u8
 http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 #EXTINF:-1 ,吉林长春商业频道
 http://stream.chinactv.com/ctv4/sd/live.m3u8
-#EXTINF:-1 ,吉林教育
-http://stream1.jletv.cn/jljy/sd/live.m3u8
-#EXTINF:-1 ,吉林新闻综合
-http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-#EXTINF:-1 ,吉林长春农安县新闻综合
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 ,吉林松原前郭县综合频道
-http://stream2.jlntv.cn/qg/sd/live.m3u8
-#EXTINF:-1 ,吉林延边新闻综合
-http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 ,吉林延边安图民声频道
-http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
-#EXTINF:-1 ,吉林白山新闻综合
-http://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 ,吉林长春新知
 http://stream.chinactv.com/ctv5/sd/live.m3u8
-#EXTINF:-1 ,吉林长春综合
-http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 ,内蒙古包头生活服务
-http://live.btgdt.com/channels/btgd/shfw/flv:500k/live
+#EXTINF:-1 ,辽宁沈阳新闻频道
+http://lms.csytv.com/Live/122/live/livestream.m3u8
