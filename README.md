@@ -1,20 +1,25 @@
 ## ***Android端APP***
-
-LAZY IPTV（可自动更新订阅,遥控器非完美支持，免费有广告）  
-https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv
-
-Perfect Player IPTV(遥控器完美支持)  
-https://play.google.com/store/apps/details?id=com.niklabs.pp
+	
+GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告) 
+https://play.google.com/store/apps/details?id=com.gsetech.smartiptv
 
 IPTV(遥控器非完美支持，无内置播放器，需加载第三方播放器播放，如MX Player)  
 https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
+LAZY IPTV（可订阅,遥控器非完美支持，免费有广告）  
+https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv
+
+Perfect Player IPTV(支持遥控器)  
+https://play.google.com/store/apps/details?id=com.niklabs.pp
+
+其它：超级直播自定义_1.4.4，新版世纪TV自定义。
+
 ## ***iOS端APP***
 
-MK播放器 for M3U8(好用，支持订阅链接，有公共订阅源自动维护，操作体验好)  
+MK播放器 for M3U8(现在唯一在用，支持订阅链接，格式简单好维护，功能全面，有公共订阅源自动维护，操作体验好)  
 https://itunes.apple.com/cn/app/mk%E6%92%AD%E6%94%BE%E5%99%A8-for-m3u8/id1455832781
 
-GSE SMART IPTV(功能非常全面，更支持rtsp、rtmp，内购去广告25元)  
+GSE SMART IPTV(功能全面，操作稍繁琐，支持rtsp、rtmp，有内购)  
 https://itunes.apple.com/us/app/gse-smart-iptv/id1028734023?mt=8
 
 IPTV-M3U PLAYER-IP TELEVISION(功能简单，默认自动支持支持rtsp、rtmp)  
