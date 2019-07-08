@@ -52,3 +52,6 @@ https://guihet.com/tvlive-telelist.html
 
 IPTV Checker 2.06  
 https://tiny-tools.com/download/iptv-checker/
+
+M3U8批量下载器V1.4.2 by逍遥一仙  
+https://www.52pojie.cn/thread-785996-1-1.html
