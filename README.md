@@ -38,7 +38,7 @@ IPTV Player: play m3u playlist
 https://itunes.apple.com/cn/app/iptv-player-play-m3u-playlist/id1303327384?mt=8
 
 ## ***利器***
-Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）
+Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）  
 https://apps.apple.com/cn/app/id1210562295
 
 猫抓（提取地址并下载）  
