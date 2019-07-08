@@ -46,3 +46,9 @@ https://chrome.google.com/webstore/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmg
 
 Stream Video Downloader（M3U8下载成MP4）  
 https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf
+
+列表制作转换工具TeleList-2.4.1（PC端）  
+https://guihet.com/tvlive-telelist.html
+
+IPTV Checker 2.06  
+https://tiny-tools.com/download/iptv-checker/
