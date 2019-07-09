@@ -12,7 +12,8 @@ https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv
 Perfect Player IPTV(支持遥控器)  
 https://play.google.com/store/apps/details?id=com.niklabs.pp
 
-其它：超级直播自定义_1.4.4，新版世纪TV自定义。
+其它：  
+超级直播自定义_1.4.4，新版世纪TV自定义等。
 
 ## ***iOS端APP***
 
