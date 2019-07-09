@@ -28,13 +28,17 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/domestic/pla
 #EXTINF:-1 ,日本NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:-1 ,日本NHK World
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 ,日本NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wi_s.m3u8
+#EXTINF:-1 ,日本NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_900.m3u8
+#EXTINF:-1 ,日本NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
 #EXTINF:-1 ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 ,新加坡亚洲新闻台
