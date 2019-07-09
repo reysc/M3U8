@@ -13,6 +13,8 @@ http://live02.rfi.fr/rfienchinois-64.mp3
 http://live02.rfi.fr/rfichinois-96k.mp3
 #EXTINF:-1 ,俄罗斯之声中文
 http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+#EXTINF:-1 ,希望之声
+http://radio.soundofhope.org:8880/SOH_32K
 #EXTINF:-1 ,香港商业电台雷霆881
 https://do5oq4kz0w1x.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunks.m3u8
 #EXTINF:-1 ,香港商业电台叱咤903
