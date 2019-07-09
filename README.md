@@ -51,7 +51,7 @@ https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegep
 列表制作转换工具TeleList-2.4.1（PC端）  
 https://guihet.com/tvlive-telelist.html
 
-IPTV Checker 2.06  
+IPTV Checker 2.06(直链有效性检测，超高效率)  
 https://tiny-tools.com/download/iptv-checker/
 
 M3U8批量下载器V1.4.2 by逍遥一仙  
