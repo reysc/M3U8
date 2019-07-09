@@ -42,7 +42,7 @@ https://itunes.apple.com/cn/app/iptv-player-play-m3u-playlist/id1303327384?mt=8
 Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）  
 https://apps.apple.com/cn/app/id1210562295
 
-猫抓（提取地址并下载）  
+猫抓（Chrome浏览器里提取直链地址并下载）  
 https://chrome.google.com/webstore/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb
 
 Stream Video Downloader（M3U8下载成MP4）  
