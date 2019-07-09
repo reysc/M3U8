@@ -15,6 +15,10 @@ http://live02.rfi.fr/rfichinois-96k.mp3
 http://icecast-ruvr.cdnvideo.ru/rian.voicechi
 #EXTINF:-1 ,希望之声
 http://radio.soundofhope.org:8880/SOH_32K
+#EXTINF:-1 ,NHK中文广播(630-650 1200-2300间断广播)
+https://nhkwlive-rj.akamaized.net/hls/live/2003467/rj-6ch/01.m3u8
+#EXTINF:-1 ,NHK中文广播(630-650 1200-2300间断广播)
+https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
 #EXTINF:-1 ,香港商业电台雷霆881
 https://do5oq4kz0w1x.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunks.m3u8
 #EXTINF:-1 ,香港商业电台叱咤903
@@ -63,8 +67,6 @@ https://www.soundvideostar.com/live/_definst_/hakkaradio/playlist.m3u8
 https://www.soundvideostar.com/live/_definst_/hakkaradio/chunklist_w1887734944.m3u8
 #EXTINF:-1 ,HKJ Radio
 http://listen.hkjradio.com:8009/live
-#EXTINF:-1 ,NHK中文广播
-https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
 #EXTINF:-1 ,BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 #EXTINF:-1 ,BBC English
