@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,翡翠台
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 #EXTINF:-1 ,TVB明珠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
@@ -7,14 +9,28 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:-1 ,J2
 http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8
+#EXTINF:-1 ,VOA中文
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+#EXTINF:-1 ,VOA中文
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0540_av-p.m3u8
+#EXTINF:-1 ,港台电视RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 ,港台电视RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+#EXTINF:-1 ,港台电视RTHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 ,港台电视RTHK31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 ,港台电视RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8
 #EXTINF:-1 ,港台电视RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 ,港台电视RTHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-p.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 #EXTINF:-1 ,港台电视RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 ,港台电视RTHK32
@@ -36,9 +52,13 @@ http://live.fengshows.com/live/PCC_500k/index.m3u8?ts=1534293541456&amp;amp;toke
 #EXTINF:-1 ,凤凰卫视资讯台
 http://live.fengshows.com/live/PIN_500k/index.m3u8?ts=1534293674089&amp;amp;token=4b6d42d1074cfe540adbcbe0c1c34126
 #EXTINF:-1 ,凤凰卫视香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804,4364
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰卫视香港台
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+#EXTINF:-1 ,香港卫视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,香港開电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,香港開电视
@@ -233,6 +253,10 @@ http://live.streamingfast.net/osmflivech44.m3u8
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-3.m3u8
 #EXTINF:-1 ,希望电视台
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 ,人间卫视
 http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 ,人间卫视
