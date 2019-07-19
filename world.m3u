@@ -7,6 +7,10 @@ http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/tracks-v4a1/mono.m3u8
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,美国CNN USA
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,英国BBC World
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:-1 ,英国BBC World
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,英国SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 ,英国SKY News
@@ -129,6 +133,10 @@ http://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v2a1/mono.m3u8
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,美国Fox 5
 http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
+#EXTINF:-1 ,美国VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 ,美国VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 ,美国MSNBC
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1 ,美国MSNBC
@@ -287,6 +295,12 @@ http://w6.11223344.host/live/travel/playlist.m3u8#eyJYLVBsYXliYWNrLVNlc3Npb24tSW
 http://w2.11223344.host/live/trutv/chunks.m3u8#eyJYLVBsYXliYWNrLVNlc3Npb24tSWQiOiI0MTkwODQzRS1ENzEyLTQxREYtQTRGMi0xMzIyMUM1OTVBMjQiLCJSZWZlcmVyIjoiaHR0cDpcL1wvMTIzdHZub3cuY29tXC93YXRjaFwvdHJ1dHZcLyIsIkhvc3QiOiJ3Mi4xMTIyMzM0NC5ob3N0IiwiVXNlci1BZ2VudCI6IkFwcGxlQ29yZU1lZGlhXC8xLjAuMC4xNkYyMDMgKGlQaG9uZTsgVTsgQ1BVIE9TIDEyXzNfMSBsaWtlIE1hYyBPUyBYOyB6aF9jbikifQ==
 #EXTINF:-1 ,美国TruTV真电视
 http://w2.11223344.host/live/trutv/playlist.m3u8#eyJYLVBsYXliYWNrLVNlc3Npb24tSWQiOiI0MTkwODQzRS1ENzEyLTQxREYtQTRGMi0xMzIyMUM1OTVBMjQiLCJSZWZlcmVyIjoiaHR0cDpcL1wvMTIzdHZub3cuY29tXC93YXRjaFwvdHJ1dHZcLyIsIkhvc3QiOiJ3Mi4xMTIyMzM0NC5ob3N0IiwiVXNlci1BZ2VudCI6IkFwcGxlQ29yZU1lZGlhXC8xLjAuMC4xNkYyMDMgKGlQaG9uZTsgVTsgQ1BVIE9TIDEyXzNfMSBsaWtlIE1hYyBPUyBYOyB6aF9jbikifQ==
+#EXTINF:-1 ,美国Cheddar电视
+https://live.chdrstatic.com/cheddar/primary/4.m3u8
+#EXTINF:-1 ,美国Cheddar电视
+https://live.chdrstatic.com/cheddar/primary/5.m3u8
+#EXTINF:-1 ,美国Cheddar电视
+https://live.chdrstatic.com/cheddar/primary/6.m3u8
 #EXTINF:-1 ,美国USA电视台
 http://w7.11223344.host/live/usa/chunks.m3u8#eyJYLVBsYXliYWNrLVNlc3Npb24tSWQiOiI3QkZEMDFDQy0xQjJCLTQ4NEYtOEY3MS1CQzU3NTVDNUI3RDYiLCJSZWZlcmVyIjoiaHR0cDpcL1wvMTIzdHZub3cuY29tXC93YXRjaFwvdXNhLW5ldHdvcmtcLyIsIkhvc3QiOiJ3Ny4xMTIyMzM0NC5ob3N0IiwiVXNlci1BZ2VudCI6IkFwcGxlQ29yZU1lZGlhXC8xLjAuMC4xNkYyMDMgKGlQaG9uZTsgVTsgQ1BVIE9TIDEyXzNfMSBsaWtlIE1hYyBPUyBYOyB6aF9jbikifQ==
 #EXTINF:-1 ,美国USA电视台
@@ -675,6 +689,8 @@ http://192.240.127.34:1935/live/cs19.stream/play.m3u8
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 ,日本JapanetChannelDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 ,日本A&G声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 #EXTINF:-1 ,日本宝石购物频道GSTV 720P
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 #EXTINF:-1 ,日本宝石购物频道GSTV 720P
@@ -1769,8 +1785,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 ,土耳其Kral TV音乐频道
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 ,====== groupName=美国Pluto TV ======
-http://3/3.m3u8
 #EXTINF:-1 ,美国PLUTO TV Action Movies
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 ,美国PLUTO TV Adventure TV
@@ -1892,7 +1906,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8
 #EXTINF:-1 ,美国PLUTO TV Science TV
 http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 ,====== 美国PLUTO TV http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high ======
-http://4/4.m3u8
+http://2/2.m3u8
 #EXTINF:-1 ,美国PLUTO TV ShoutFactoryTV
 http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 ,美国PLUTO TV Slow TV
