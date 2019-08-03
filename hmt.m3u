@@ -37,14 +37,6 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-p.m3u8
 #EXTINF:-1 ,港台电视RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-#EXTINF:-1 ,香港KIX2动作娱乐
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1 ,天映频道(东南亚)
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 ,天映频道(东南亚)
-http://210.210.155.35/session/13231a50-61c2-11e9-9c54-9db29be388c5/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 ,天映频道(东南亚)
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 ,香港映嘉娱乐MiaoMi-TV
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 ,凤凰卫视中文台
@@ -55,8 +47,6 @@ http://live.fengshows.com/live/PIN_500k/index.m3u8?ts=1534293674089&amp;amp;toke
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 ,香港卫视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,香港開电视
@@ -87,8 +77,6 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 #EXTINF:-1 ,壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/master.m3u8
-#EXTINF:-1 ,寰宇新闻2台
-http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8
 #EXTINF:-1 ,靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 ,靖天资讯HD
@@ -107,38 +95,30 @@ http://61.58.60.230:9319/live/207.m3u8
 http://61.58.60.230:9319/live/243.m3u8
 #EXTINF:-1 ,靖天映画HD
 http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 ,台湾艺术台
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 ,台湾艺术2台
+http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 #EXTINF:-1 ,星卫电影HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,HBO Asia(电影)
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 ,Boomerang卡通台
+http://3ea2ac02.ulkakak.pw/iptv/UAVTALUW886L8G/723/index.m3u8
 #EXTINF:-1 ,台湾全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 ,博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 ,民视新闻台HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 ,民视新闻台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 ,BabyFirst亲子台
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 ,国会频道1
-https://rtcp-agent.straas.net/wbGYaqMv/video/live.m3u8
-#EXTINF:-1 ,国会频道1(720P)
-https://rtcp-agent.straas.net/wbGYaqMv/video/360p/1562027430chunklist.m3u8
-#EXTINF:-1 ,立法院会议
-https://rtcp-agent.straas.net/j5tUmVTa/video/live.m3u8
-#EXTINF:-1 ,立法院会议(720P)
-https://rtcp-agent.straas.net/j5tUmVTa/video/720p/1562027477chunklist.m3u8
 #EXTINF:-1 ,澳門衛星頻道
 http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
 #EXTINF:-1 ,澳门卫星频道
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 ,澳门RTP
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,澳视澳门
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w1301197546.m3u8
 #EXTINF:-1 ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,澳门卫视
@@ -151,10 +131,6 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 ,澳门资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/chunklist_w2017936374.m3u8
-#EXTINF:-1 ,澳門立法會直播
-https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
-#EXTINF:-1 ,澳門立法會直播
-https://live4.tdm.com.mo/tv/_definst_/ch21.live/chunklist_w2101710958.m3u8
 #EXTINF:-1 ,NHK华语视界(工作日1300-1400 1700-1900)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/live_zh.m3u8
 #EXTINF:-1 ,NHK华语视界(工作日1300-1400 1700-1900)
@@ -295,6 +271,8 @@ http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/chunklist_w250050579
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
 #EXTINF:-1 ,唯心电视台
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,唯心頻道
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 ,生命电视台
 http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 #EXTINF:-1 ,生命电视台
@@ -311,8 +289,6 @@ http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经直播台(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 ,净空老法师讲经直播台(欧美线路)
-https://de1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经直播台(香港线路)
 https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经直播台(新马线路)
@@ -321,8 +297,6 @@ https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 ,净空老法师讲经(欧美线路)
-https://de1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经(香港线路)
 https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
 #EXTINF:-1 ,净空老法师讲经(新马线路)
@@ -379,3 +353,5 @@ https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
 http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
 #EXTINF:-1 ,番薯电视台
 http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
+#EXTINF:-1 ,信吉电视台
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
