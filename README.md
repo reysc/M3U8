@@ -1,3 +1,20 @@
+## ***订阅格式***  
+## MK播放器  
+
+[Group]  
+groupName=国内  
+aaa,http://www.abc.com/a.m3u8  
+
+[Group]  
+groupName=国外  
+bbb,http://www.abc.com/b.m3u8  
+
+## M3U分组  
+#EXTM3U  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://a.a.com/a.png" tvg-country="CN" tvg-url="" group-title="国内",东方卫视  
+http://0.0.0.0/0.m3u8
+
+
 ## ***Android端APP***
 	
 GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告) 
