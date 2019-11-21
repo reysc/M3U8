@@ -6,11 +6,11 @@ https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,英国SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 ,英国SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 ,英国SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 ,英国SKY News
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
-#EXTINF:-1 ,英国SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 ,卡塔尔半岛电视台
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 ,卡塔尔半岛电视台
@@ -26,6 +26,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_2100.m3u8
+#EXTINF:-1 ,日本NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 ,日本NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
@@ -37,34 +39,32 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_900.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
 #EXTINF:-1 ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 ,联合国频道TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 ,联合国频道TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 ,探索科学频道Discovery Science
-http://80.80.160.168/live/9/2500000/live.m3u8
-#EXTINF:-1 ,探索科学频道Discovery Science
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 ,动物星球频道Animal Planet
-http://80.80.160.168/live/1/500000/live.m3u8
-#EXTINF:-1 ,美国旅游频道Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 ,美国旅游频道Travel Channel
-http://80.80.160.168/live/3/500000/live.m3u8
-#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
-http://80.80.160.168/live/1/1500000/live.m3u8
-#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
-http://80.80.160.168/live/1/1000000/live.m3u8
 #EXTINF:-1 ,美国HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,美国HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 ,卫视国际电影台STAR MOVIES HD(阿拉伯)(电影)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 ,First Movies
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 ,KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 ,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 ,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 ,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 ,Star World HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 ,Star World HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 ,Star World HD (Middle East)
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 ,意大利Rai Movie(电影)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 ,意大利Rai Movie(电影)
@@ -73,16 +73,16 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 ,意大利Rai Premium Italia(电影)
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+#EXTINF:-1 ,美国 | 狗狗宠物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 ,美国 | 红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 ,美国ABC News HD
 http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
 #EXTINF:-1 ,美国ABC News
 http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 ,美国ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 ,美国ABC
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 ,美国ABC
-http://live.field59.com/wwsb/ngrp:wwsb1_all/chunklist_b1131072.m3u8
 #EXTINF:-1 ,美国之音VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 ,美国之音VOA
@@ -94,27 +94,17 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 ,美国CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 ,美国CBS News
-https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 ,美国CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 ,美国CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 ,美国CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 ,美国CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 ,美国CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 ,美国VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 ,美国VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 ,美国CBN
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 ,美国CBN TV HD (News)
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-b.m3u8
-#EXTINF:-1 ,美国CMC音乐频道
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 ,美国MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,彭博财经BloomBerg
@@ -131,10 +121,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 ,彭博财经(美)Bloomberg USA
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 ,彭博财经(印度)Bloomberg TV India
-http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
-#EXTINF:-1 ,彭博财经(印度)Bloomberg TV India
-http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/chunklist_w1107256423.m3u8
 #EXTINF:-1 ,美国CNN Turkiye(土耳其)
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 ,美国CNN Indonesia(印尼)
@@ -145,10 +131,6 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/index_350_av-b.m3u8
 #EXTINF:-1 ,美国舒缓频道Silence HD TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 ,美国舒缓频道Silence HD TV
-http://109.236.85.100:8081/SilenceTV/live/chunks.m3u8
-#EXTINF:-1 ,美国舒缓频道Silence HD TV
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 ,美国经典艺术展播电视频道Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 ,美国众议院House of Representatives
@@ -157,8 +139,6 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 ,美国Retro TV(戏剧)
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
-#EXTINF:-1 ,美国乡村音乐频道The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 ,美国Beach TV - Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 ,美国Beach TV - Pawleys Island
@@ -207,8 +187,6 @@ http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 ,美国Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,美国Red Bull TV SD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 ,美国VTV Channel 6 Colorado
 http://hls.ksl.com/t/strata/playlist.m3u8
 #EXTINF:-1 ,美国WGN
@@ -225,6 +203,10 @@ http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 #EXTINF:-1 ,美国Kiro 7
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1 ,美国360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 ,美国本土NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 ,美国Cheddar电视
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
 #EXTINF:-1 ,美国Cheddar电视
@@ -238,27 +220,13 @@ https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1 ,美国CSBN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 ,美国CSBN
-https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
-#EXTINF:-1 ,美国CSBN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 ,美国CNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,美国CNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 #EXTINF:-1 ,美国abc News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,美国abc News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,美国abc News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 ,美国HLN
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,美国HLN
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
 #EXTINF:-1 ,美国The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ,美国佛罗里达州塞米诺尔县政府电视和教育电视有线电视频道Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 #EXTINF:-1 ,美国东南路易斯安那大学教育有线电视频道Southeastern Channel
 http://147.174.13.196/live/live.m3u8
 #EXTINF:-1 ,美国东南路易斯安那大学教育有线电视频道Southeastern Channel
@@ -267,8 +235,6 @@ http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,美国自由之声Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 ,美国马里兰州绿带城Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 ,独立波音乐台IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 ,美国德克萨斯大学奥斯汀分校学生电视台TSTV
@@ -301,16 +267,8 @@ http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 ,美国宝宝世界频道Babyfirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 ,美国大雄兔BigBuckBunny动画频道
-http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:-1 ,美国福音派基督教电视频道RadiantTV
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,美国购物QVC (Opt-1)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
-#EXTINF:-1 ,美国购物QVC (Opt-1)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/chunklist_b2592000.m3u8
-#EXTINF:-1 ,美国购物QVC (Opt-1)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/chunklist_b4192000.m3u8
 #EXTINF:-1 ,美国购物QVC TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 ,美国购物QVC Beauty TV HD UK
@@ -323,8 +281,6 @@ http://30a-tv.com/my999.m3u8
 http://30a-tv.com/music.m3u8
 #EXTINF:-1 ,美国30A TV Darcizzle
 http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,美国30A TV sidewalks
-http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 ,美国CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
 #EXTINF:-1 ,美国abc News
@@ -333,8 +289,6 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 ,美国Spydar TV
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
-#EXTINF:-1 ,美国MLB HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 ,美国MLB HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 #EXTINF:-1 ,美国MSNBC GOLF
@@ -351,66 +305,38 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 ,美国Anne Arundel Community TV
 http://reflect-live-aac.cablecast.tv/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 ,美国Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 ,美国Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1 ,美国Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 ,美国Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,美国WWSB
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 ,美国Bloomberg (Europe)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 ,美国Chandler Channel
 https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
 #EXTINF:-1 ,美国Channel 7
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1 ,美国Charge! (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 ,美国Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 ,美国Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 ,美国Collier TV
-http://granicusliveus4-a.akamaihd.net/collier/G0056_003/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,美国Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 #EXTINF:-1 ,美国CONtv (Opt-1)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 ,美国Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 ,美国Dance Music TV
-https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
 #EXTINF:-1 ,美国DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 ,美国Denver Open Media 56
 https://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
-#EXTINF:-1 ,美国District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 ,美国Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 ,美国Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 ,美国Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 ,美国Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 ,美国Globesville – New York Institute of Technology
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
-#EXTINF:-1 ,美国Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 ,美国Greensboro TV Network
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:-1 ,美国House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1 ,美国Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 ,美国KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1 ,美国Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 ,美国Kids Click (Geo)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1 ,美国Leominster TV Government
@@ -429,30 +355,18 @@ http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.
 http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,美国Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 ,美国Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:-1 ,美国Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1 ,美国PBS Kids 1
 http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
 #EXTINF:-1 ,美国PBS Kids 2
 http://live-cdn.pbskids.org/out/u/pst.m3u8
 #EXTINF:-1 ,美国PBS Kids Live TV
 https://kids.video.cdn.pbs.org/videos/pbs-kids/6acb2fe1-c8c2-435c-8c7b-f2c9dcbc7754/2000021937/hd-16x9-mezzanine-1080p/x3wa6y4o_livetv_bumper_microscope_v2-16x9-720p-720p-3000k.m3u8
-#EXTINF:-1 ,美国SafeTV4U2
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 ,美国Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 ,美国Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 ,美国Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 ,美国TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 ,美国TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 ,美国TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1 ,美国TVW2
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1 ,美国UALR University TV
@@ -461,8 +375,6 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 ,加拿大有线电视公共事务频道CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 ,加拿大广播公司法语频道ICI TV
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
 #EXTINF:-1 ,加拿大Tele-Quebec儿童频道
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 ,加拿大CBC News (VOD)
@@ -479,8 +391,6 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 ,加拿大魁北克省议会电视台Assemblée Nationale du Québec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,加拿大纽芬兰与拉布拉多省ntv Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 ,加拿大CTV News Live Events 2 | HD
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
 #EXTINF:-1 ,加拿大青少年娱乐频道Fresh TV
@@ -491,30 +401,22 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 ,英国BBC第二台
 http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,英国BBC World
-http://tvvtvv.com/plus/bbcnew.m3u8
-#EXTINF:-1 ,英国天空新闻sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 ,英国天空新闻sky News
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
 #EXTINF:-1 ,英国Jewellery Maker(购物)
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 #EXTINF:-1 ,英国Gemporia(购物)
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 ,英国ELEVEN SPORTS 1
-http://cdn7.woideas.com/tv11.m3u8
-#EXTINF:-1 ,英国ELEVEN SPORTS 2
-http://cdn6.jboxing.com/11sp.m3u8
-#EXTINF:-1 ,英国Jewellery Maker(购物)
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1 ,英国Arise News Network
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 ,英国BBC News HD(阿拉伯)
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
 #EXTINF:-1 ,日本Japan News 24
 http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,日本Japan News 24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,日本天気予報
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 ,日本天気予報
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 ,日本成田国际机场
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 #EXTINF:-1 ,日本WOWOW MOVIES (JPN|ENG)
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 ,日本Imagica-BS
@@ -554,9 +456,15 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 #EXTINF:-1 ,日本购物频道Japanet DX Channel
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 ,日本QVC Japan
-http://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 ,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 ,日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 ,日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 ,日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 #EXTINF:-1 ,韩国Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-1
@@ -565,8 +473,6 @@ http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 ,韩国EBS-1
-http://58.229.187.43/ebs1familypc/_definst_/familypc1m/chunklist_w1778709660.m3u8
 #EXTINF:-1 ,韩国EBS-2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国ESB-2
@@ -576,19 +482,7 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-E
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国EBS-E
-http://58.229.187.43/plus3familypc/_definst_/familypc1m/chunklist_w1066694576.m3u8
-#EXTINF:-1 ,韩国EBS-E
-http://110.10.122.111/plus3familypc/_definst_/familypc1m/chunklist_w815830356.m3u8
-#EXTINF:-1 ,韩国EBS-E
-http://110.10.122.11/plus3familypc/_definst_/familypc1m/chunklist_w1766545317.m3u8
-#EXTINF:-1 ,韩国EBS-E
 http://58.229.187.11/plus3familypc/_definst_/familypc1m/chunklist_w426400414.m3u8
-#EXTINF:-1 ,韩国EBS-E
-http://110.10.122.11/plus3familypc/_definst_/familypc1m/chunklist_w1496963001.m3u8
-#EXTINF:-1 ,韩国EBS-E
-http://110.10.122.11/plus3familypc/_definst_/familypc1m/chunklist_w1020914563.m3u8
-#EXTINF:-1 ,韩国EBSU
-http://58.229.187.43/ebsufamilypc/_definst_/familypc1m/chunklist_w1237916061.m3u8
 #EXTINF:-1 ,韩国EBSi
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 ,韩国EBS Kids
@@ -607,10 +501,6 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w224983120.m3u8
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1226916721.m3u8
 #EXTINF:-1 ,韩国MBC MAX
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 ,韩国KoreaTV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 ,韩国KTV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 ,韩国基督教CGNTV日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 ,韩国基督教CGNTV日本
@@ -625,20 +515,10 @@ http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 ,韩国购物GS Shop
 https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/chunklist_w1929506632.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台270P
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/01.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台360P
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/02.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台480P
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 ,新加坡5频道(英语)
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 ,新加坡8频道(普通话)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 ,新加坡亚洲新闻台
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 ,新加坡春天频道vsnthmctv(泰米尔语)
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 ,泰国ETV
@@ -661,12 +541,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 ,印尼ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 ,印尼ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 ,印尼BeritaSatu NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 ,印尼NET.动画
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1 ,Vibee音乐频道
 http://de1se01.v2beat.live/chunks.m3u8
 #EXTINF:-1 ,法国France 24(英语)
@@ -693,8 +569,6 @@ http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 ,法国CGTN
 http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,法国BX1
-http://149.202.81.107:1935/stream/live/chunklist.m3u8
 #EXTINF:-1 ,法国Monaco Info
 http://46.105.34.238/liveevent.m3u8
 #EXTINF:-1 ,法国notélé
@@ -765,6 +639,8 @@ https://www.djing.com/tv/i-28513-05.m3u8
 https://www.djing.com/tv/a-28513-05.m3u8
 #EXTINF:-1 ,法国Djing热门直播
 https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 ,德国 Ⅰ 超级游艇
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1 ,德国Deutsche Welle(英语)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 ,德国DW TV
@@ -777,6 +653,10 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:-1 ,德国Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 ,德国Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,德国pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
 #EXTINF:-1 ,德国Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,德国Isar TV
@@ -811,12 +691,6 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 ,德国音乐MVzx
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 ,德国noa4 HD
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 ,德国noa4 HD
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 ,德国muenchen TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 #EXTINF:-1 ,德国MDF1
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
 #EXTINF:-1 ,德国MDF1
@@ -825,8 +699,6 @@ http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:-1 ,德国Niederbayern TV
 https://donautv.iptv-playoutcenter.de/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 ,德国Niederbayern TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 ,德国hr-fernsehen
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 ,德国Franken Fernsehen
@@ -839,28 +711,18 @@ http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 ,德国马格德堡大学TV
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国ALEX Berlin
-http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 ,德国Bayerischer Rundfunk (Opt-1)
 https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 ,德国Bayerischer Rundfunk (Opt-2)
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 ,德国Baden TV
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 ,德国Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,德国1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 ,德国Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:-1 ,德国RFO
-http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 ,德国Rheinmain TV
-http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 #EXTINF:-1 ,德国ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w579452233.m3u8
-#EXTINF:-1 ,德国Superyacht TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1 ,西班牙TOP LATINO TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 #EXTINF:-1 ,西班牙皇家马德里电视台Real Madrid TV | SD
@@ -875,12 +737,12 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 ,西班牙穆尔西亚自治电视频道7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 ,西班牙Navarra TV (Opt-2)
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 ,西班牙7 TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/master.m3u8
 #EXTINF:-1 ,西班牙13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 ,西班牙Condavisión
-http://145.239.141.154:1935/live/uSCQc5ky/chunklist.m3u8
 #EXTINF:-1 ,西班牙Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 ,西班牙Aliento Vision
@@ -891,8 +753,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w611787622.m3u8
 #EXTINF:-1 ,西班牙中国环球电视网CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,西班牙3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:-1 ,西班牙Calle 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 ,西班牙Canal Extremadura
@@ -909,8 +769,6 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 ,西班牙TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 ,西班牙TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 ,西班牙TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,西班牙TV Mediterraneo
@@ -969,12 +827,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-1 ,西班牙Betis TV HD(体育)
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 ,西班牙UD Las Palmas HD(体育)
-https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
 #EXTINF:-1 ,西班牙Redbull TV HD(体育)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,西班牙RED BULL TV HD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 ,西班牙Boing(儿童)
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 ,西班牙Boing HD(儿童)
@@ -987,12 +841,8 @@ https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
 #EXTINF:-1 ,西班牙Canal Andalucia Turismo HD
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
-#EXTINF:-1 ,西班牙Canal Andalucia Flamenco
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 #EXTINF:-1 ,西班牙Canal Andalucia Cocina
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
-#EXTINF:-1 ,西班牙Canal Sur La Banda
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
 #EXTINF:-1 ,西班牙Canal Sur Eventos 1 HD
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8
 #EXTINF:-1 ,西班牙Lebrija TV
@@ -1017,8 +867,6 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 http://37.187.108.127:554/las4esquinastv/radiostation.stream/.m3u8
 #EXTINF:-1 ,西班牙Televisión Municipal de Córdoba
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-#EXTINF:-1 ,西班牙Condavisión HD
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
 #EXTINF:-1 ,西班牙Alternativa TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 ,西班牙Canal Coín
@@ -1031,34 +879,14 @@ https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 ,西班牙Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-#EXTINF:-1 ,西班牙Gigante TV
-http://85.214.130.95:8080/live/stream.m3u8
-#EXTINF:-1 ,西班牙Canal 10 TV
-https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8
 #EXTINF:-1 ,西班牙Tenerife 2030 TV HD
 http://livestream.iter.es:9876/tdt/tdt.m3u8
 #EXTINF:-1 ,西班牙Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 ,西班牙Canal 4 Mancha Centro HD
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8
-#EXTINF:-1 ,西班牙La 7 HD
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
 #EXTINF:-1 ,西班牙Telearanda
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 ,西班牙TV3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/master_DVR.m3u8
-#EXTINF:-1 ,西班牙3/24
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/master_DVR.m3u8
-#EXTINF:-1 ,西班牙CCMA Exclusiu 2
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca2_web/master_DVR.m3u8
-#EXTINF:-1 ,西班牙Bon Dia TV
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8
-#EXTINF:-1 ,西班牙TV3 Càmeres
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:beauties_web/master_DVR.m3u8
-#EXTINF:-1 ,西班牙betevé
-http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8
-#EXTINF:-1 ,西班牙betevé càmera del temps
-http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_2jb8lihv/protocol/http/format/applehttp/a.m3u8
 #EXTINF:-1 ,西班牙Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 ,西班牙Canal Taronja Osona i Moianés
@@ -1075,8 +903,6 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8
 http://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,西班牙TVG Cultura HD
 http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙Canal 4
-http://149.202.68.178:1935/live/peprecasens/master.m3u8
 #EXTINF:-1 ,西班牙Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 #EXTINF:-1 ,西班牙Webcam OndaMadrid
@@ -1107,8 +933,6 @@ http://video.telesafor.com/hls/video.m3u8
 https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
 #EXTINF:-1 ,西班牙Alicantí TV
 http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:-1 ,西班牙TV3CAT
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3cat_web/master_DVR.m3u8
 #EXTINF:-1 ,西班牙ETB SAT Canal Vasco
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,西班牙Travel TV HD
@@ -1135,8 +959,6 @@ http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 ,意大利Radio Capital TiVu
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 ,意大利Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 ,意大利Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 ,意大利Sudtirol TV
@@ -1171,8 +993,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 ,意大利M2OTV音乐电视频道
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 ,意大利111 Centoundici TV音乐
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
 #EXTINF:-1 ,意大利Italia Radio Monte Carlo TV音乐频道
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:-1 ,意大利Rai News 24
@@ -1185,14 +1005,10 @@ http://139.59.166.48:8081/live/live3/playlist.m3u8
 http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 ,意大利Deejay TV音乐频道
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 ,意大利RTI music
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1 ,意大利Radio Norba TV
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 ,意大利History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 ,意大利IRC Sport Italy
-http://wms.shared.streamshow.it/irctv/mp4:irctv/chunklist.m3u8
 #EXTINF:-1 ,波兰Stars TV
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
 #EXTINF:-1 ,波兰TV Kujawy (Opt-1)
@@ -1213,14 +1029,8 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
 #EXTINF:-1 ,波兰TVP3 Wroclaw
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-#EXTINF:-1 ,匈牙利1 Music音乐频道
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1 ,匈牙利1 Music音乐频道
-http://92.249.129.152/stream/1music.m3u8
 #EXTINF:-1 ,奥地利KRAL
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 ,奥地利GoTV
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 ,芬兰YLE TV 1
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
 #EXTINF:-1 ,芬兰YLE TV 2
@@ -1291,8 +1101,6 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 ,俄罗斯УКРАИНА OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
-#EXTINF:-1 ,俄罗斯Киноменю HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1 ,俄罗斯RU TV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF:-1 ,俄罗斯Точка ТВ
@@ -1301,8 +1109,6 @@ http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 ,俄罗斯Astrakhan 24 (Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 ,俄罗斯Boutique TV
-http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯CGTN
 http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 ,俄罗斯First Music (Opt-3)
@@ -1389,12 +1195,8 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 ,巴西Rede Atividade
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 ,巴西Rede Brasil [Opt-1]
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 ,巴西Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 ,巴西Rede TV Rondonia
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 #EXTINF:-1 ,巴西Telecine Action Plus Brazil
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 ,捷克JOJ Family
@@ -1409,8 +1211,6 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 #EXTINF:-1 ,斯洛伐克Joj Plus
 http://nn2.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 ,阿根廷Canal 3 Pinamar
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 ,阿根廷Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 #EXTINF:-1 ,阿根廷Canal Local Olavarria
@@ -1425,8 +1225,6 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 #EXTINF:-1 ,科威特KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1 ,科威特Alrai TV
-http://stream02.fasttelco.net:1935/live/_definst_/alrai.stream/lihattv.m3u8
 #EXTINF:-1 ,阿尔巴尼亚TVSH Albania
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 ,拉脱维亚Chau TV
@@ -1473,8 +1271,6 @@ http://livebeta.publika.md/LIVE/P/6810.m3u8
 http://livebeta.publika.md/LIVE/P/2000.m3u8
 #EXTINF:-1 ,摩尔多瓦Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:-1 ,拉丁美洲Cuenca Vision
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1 ,拉丁美洲TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 ,阿尔巴尼亚Report-TV
@@ -1493,8 +1289,6 @@ http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
 #EXTINF:-1 ,波斯尼亚 BN TV
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1 ,波斯尼亚 Televizija 5
-http://37.59.21.217:8809/live/tv5web.m3u8
 #EXTINF:-1 ,喀麦隆 Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 ,马其顿 Sky Folk TV
@@ -1507,10 +1301,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 ,以色列议会频道Knesset il
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w1800100440.m3u8
-#EXTINF:-1 ,黎巴嫩Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 ,黎巴嫩AI Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/chunklist_w2097190643.m3u8
 #EXTINF:-1 ,叙利亚ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 ,叙利亚ANN Syria
@@ -1531,12 +1321,8 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 ,加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/chunklist_w388697139.m3u8
-#EXTINF:-1 ,伊朗Hispan TV(西班牙语)
-https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8
 #EXTINF:-1 ,伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 ,伊朗Radio Javan
-http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 ,伊朗Rangarang TV
 http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 ,巴基斯坦新闻台PTV News
@@ -1561,8 +1347,6 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 ,土耳其TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 ,土耳其AKSU TV
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 #EXTINF:-1 ,土耳其Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 ,土耳其Dream TV
@@ -1585,143 +1369,3 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 ,土耳其Kral TV音乐频道
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 ,美国PLUTO TV Action Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Adventure TV
-http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV After School Cartoons
-http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Anime All Day
-http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Awesomeness TV
-http://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Big Sky Conference
-http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV Cars
-http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Cats
-http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Chassy
-http://stitcher.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Classic Movies
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV Classic Toons TV
-http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Classic TV
-http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV CNET
-http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV ConTV
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Cracked
-http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Crime Network
-http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV DocuTV
-http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Eye Candy
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV FailArmy
-http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Fight
-http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV Food TV
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Forensic Files
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,美国PLUTO TV Fox Sports
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV FrontDoor
-https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV Funny AF
-http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Geek & Sundry
-http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Glory Kickboxing
-http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Gravitas Movies
-http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Hell’s Kitchen
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Her
-http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Hive
-http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Horror
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV IGN
-http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Impact Wrestling
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Internet Gold
-http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Man Up
-http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV MinecrafTV
-http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Mystery Science Theater 3000
-http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV NBC News
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,美国PLUTO TV Nerdist
-http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV News
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,美国PLUTO TV Nosey
-http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Documentaries
-http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Drama
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Family
-http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Indies
-http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Movies 1
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,美国PLUTO TV Movies 2
-http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Spotlight
-http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Thrillers
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV PopSugar
-http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV RiffTrax
-http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Science TV
-http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV ShoutFactoryTV
-http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Slow TV
-http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Stand-Up TV
-http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV THC
-http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV The Asylum
-http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV The Feed
-http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV The New Detectives
-http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV The Pet Collective
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV The Surf Channel
-http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Unsolved Mysteries
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV What?!
-http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV Wipeout
-http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV World Poker Tour
-http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 ,美国PLUTO TV XiveTV
-http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
