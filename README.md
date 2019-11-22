@@ -15,7 +15,10 @@ bbb,http://www.abc.com/b.m3u8
 http://0.0.0.0/0.m3u8
 
 
-## ***Android端APP***
+## ***Android端APP***  
+TiviMate IPTV Player(支持合并分组可一个订阅链接实现多个分类，支持遥控器)  
+Free版只支持单链接，Pro版支持多链接。  
+https://t.me/tivimate  
 	
 GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告) 
 https://play.google.com/store/apps/details?id=com.gsetech.smartiptv
@@ -30,7 +33,7 @@ Perfect Player IPTV(支持遥控器)
 https://play.google.com/store/apps/details?id=com.niklabs.pp
 
 其它：  
-超级直播自定义_1.4.4，新版世纪TV自定义等。
+骆驼网络接口版09_08TVBUS记忆播放修复V2.3.apk，超级直播自定义_1.4.4，新版世纪TV自定义等。
 
 ## ***iOS端APP***
 
