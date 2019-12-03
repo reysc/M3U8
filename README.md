@@ -18,6 +18,7 @@ http://0.0.0.0/0.m3u8
 ## ***Android端APP***  
 TiviMate IPTV Player(支持合并分组可一个订阅链接实现多个分类，支持遥控器)  
 Free版只支持单链接，Pro版支持多链接。  
+https://play.google.com/store/apps/details?id=ar.tvplayer.tv  
 https://t.me/tivimate  
 	
 GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告) 
