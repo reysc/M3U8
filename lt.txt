@@ -1,0 +1,117 @@
+国内,#genre#
+BestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享 4K,http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
+CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV1,http://192.200.97.162:8080/ZZ_cctv1/ZZ_cctv1.m3u8
+华语M3U8,#genre#
+凤凰中文,http://192.200.97.162:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
+凤凰资讯,http://192.200.97.170:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
+凤凰香港,http://192.200.97.98:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+中视,http://192.200.97.98:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+中天新闻,http://192.200.97.98:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天娱乐,http://192.200.97.98:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中天亚洲,http://192.200.97.98:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+年代新闻,http://192.200.97.98:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+东森新闻,http://192.200.97.170:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+HBO,http://192.200.97.98:8080/ZZ_hbo/ZZ_hbo.m3u8
+FOX电影,http://192.200.97.98:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+Cinemax，http://192.200.97.98:8080/ZZ_cinemax/ZZ_cinemax.m3u8
+Thrill电影，http://192.200.97.98:8080/ZZ_thrill/ZZ_thrill.m3u8
+好莱坞电影台,http://192.200.97.170:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+寰宇新闻台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
+寰宇新闻2台,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
+中视新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+非凡新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
+东森新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
+东森财经新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
+中天新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
+CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
+华语FLV+RTMP,#genre#
+HKC 有线18,rtmp://59.124.75.137/sat/hk041
+明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
+翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+TVBS,http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv
+J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
+TVBS欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+P2P+tvbus+mitv+vjms,#genre#
+有線新聞,tvbus://4bbEWvEYsKKvLWJrBfMQMkydgoRRKYfNdFzc2Fqvdn8rrTDYgn
+J5,tvbus://49SE9MNdt9WUdJGM4en6Q5NaHbsoTnT7PLMwD4vRz7UPypAqRZ
+翡翠台,tvbus://4r9sKX2HWCY2qzkbG322dSEMsZYJcYss2YumBs8BLC4adKRKiP
+TVB明珠,tvbus://4cWK3ABLenQ22ehNP6DRZAAss1noyNgzZmTMyve5tdnAexSqYR
+J2,tvbus://468JcTAcWBJgW9Fg1WEjSYDa48QmwALmQFZbRkY7hNHM9gtab8
+互動新聞台,tvbus://4QqNAgAaeL3Je2rcqq8kAmfdQz6QmnCGRvZWjqAxWwK2tjVJ2g
+香港開電視,tvbus://3ZdPhTRt4APFN2ErM4xkxof9CYb62jwpUKFAR71NDJoy76TtNk
+TLC旅游生活,vjms://198.255.90.44:8500:3502/live/cid=103#vjms://122.155.180.8:8500:5021/live/cid=103#
+国家地理野生,vjms://198.255.90.44:8500:3502/live/cid=263#vjms://122.155.180.8:8500:5021/live/cid=263#
+国家地理HD,vjms://198.255.90.44:8500:3502/live/cid=115#vjms://122.155.180.8:8500:5021/live/cid=115#
+探索频道,vjms://198.255.90.44:8500:3502/live/cid=397#vjms://122.155.180.8:8500:5021/live/cid=397#
+探索世界,vjms://198.255.90.44:8500:3502/live/cid=440#vjms://122.155.180.8:8500:5021/live/cid=440#
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台HD,mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+TeensFUCKING,rtmp://62.210.55.60/stream3xVJ/3x07
+XXX,rtmp://62.210.55.60/stream3xVJ/3x08
+BOXTRUCKSEX,rtmp://62.210.55.60/stream3xVJ/3x01
+美亚电影,p9p://51.255.74.85:19906/5b797f2d0001de8b97025fca504e73fa
+TVB明珠,p9p://51.255.74.85:19906/5b9ad4770005bdbf19368b6836544213
+互动新闻,p9p://51.255.74.85:19906/5c0ae8ff00032e2a56c4d60b3f2506b7
+Clan HD,p9p://51.255.74.85:19906/5b045597000128ffcd5525a137645ba1
+松视1,p9p://51.255.74.85:19906/5ac89c0200035beae4065edf317c5016
+轮播,#genre#
+陈翔六点半,http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
+CIBN嗨播,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+CIBN军事,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+国际,#genre#
+英国BBC World,https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+英国BBC World,https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+英国SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+英国SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+英国SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+英国SKY News,http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
+摄像头直播,#genre#
+上海这一刻：魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+上海这一刻：陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+张家界天门山天门洞,https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+张家界天门山天空步道,https://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+MV,#genre#
+生活在地下-张佺,https://files.catbox.moe/fgl83u.mp4
+生活在地下-野孩子乐队,https://files.catbox.moe/g22qkg.mp4
+生活在地下-谢天笑,https://files.catbox.moe/kx0asu.mp4
+野孩子《黄河谣》 20周年专场音乐会现场版,https://files.catbox.moe/ouvwem.mp4
+送你一朵山茶花-好妹妹乐队,https://files.catbox.moe/rq72dh.mp4
+往事只能回味-好妹妹乐队,http://220.194.238.106/6/k/j/v/l/kjvlxngcmfkcpdvlfrqzcsewhyesoj/he.yinyuetai.com/29F80148ADABDBFD043BB056B4A55907.flv
+Addicted To You-Avicii,http://220.194.238.106/11/u/o/o/b/uoobsghnevqqttmfrtzuktsukxfdmh/he.yinyuetai.com/C86B014D99A071F2D35CBE52724400F1.flv
+王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
+美国Pluto TV,#genre#
+美国PLUTO TV Action Movies,http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+美国PLUTO TV Adventure TV,http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+美国PLUTO TV After School Cartoons,http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+电台,#genre#
+VOA美国之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
+RFA自由亚洲电台,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+RFI法国国际广播电台,http://live02.rfi.fr/rfienchinois-64.mp3
+RFI法国国际广播电台,http://live02.rfi.fr/rfichinois-96k.mp3
+NHK中文广播,https://nhkwlive-rj.akamaized.net/hls/live/2003465/rj-3ch/index_03.m3u8
+NHK中文广播,https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8
+俄罗斯之声中文,http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+韩国国际广播电台KBS中文,http://live.world.kbs.gscdn.com/sec_cocotv/_definst_/CH00002/chunklist_w1690338970.m3u8?tid=5db510c73d92cba5ca16a8be40cb50e4
+越南之声VOV5对外频道(19:00开始),https://5a6872aace0ce.streamlock.net/nghevov5/vov5.stream_aac/playlist.m3u8
+印尼之声VOI华语广播(18:00开始),http://streaming.rri.co.id:9125/voi.mp3
+RTI中央廣播電臺,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+RTI中央廣播電臺,https://www.soundvideostar.com/live/_definst_/rti3/chunklist_w1417045116.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+香港电台第二台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+加密_222,#genre#
+香港有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+凤凰卫视中文台,rtmp://58.200.131.2:1935/livetv/fhzw 
+凤凰卫视资讯台,rtmp://58.200.131.2:1935/livetv/fhzx 
+凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy 
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv 
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports 
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv 
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery 
+国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo 
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd 
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv 
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
