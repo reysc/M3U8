@@ -1,5 +1,7 @@
 ## 更新说明：   
-mk1.conf为iOS平台***MK播放器*** 的订阅链接。  
+mk1.conf为iOS平台***MK播放器 for M3U8*** 的订阅链接。  
+https://apps.apple.com/cn/app/mkplayer-for-m3u8/id1455832781
+
 lt.txt为Android平台***骆驼壳网络接口版V2.3***的订阅链接。   
 
 ## ***订阅格式***  
