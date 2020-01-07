@@ -1694,7 +1694,7 @@ ElevenSport2[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9a
 CHANNEL[V][1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 CHANNEL[V][785*576],rtmp://58.200.131.2:1935/livetv/channelv
 
-RTHK香港電台_鏘鏘集,#genre#
+RTHK香港電台 鏘鏘集,#genre#
 20191230鏗鏘集：WE CONNECT 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701834.smil/master.m3u8
 20191230鏗鏘集：WE CONNECT 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701834.smil/index_700000_av.m3u8
 20191223鏗鏘集：警民相惡 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701833.smil/master.m3u8
@@ -1838,7 +1838,7 @@ RTHK香港電台_鏘鏘集,#genre#
 19830227鏗鏘集： 移民何價 1,http://app4.rthk.hk/podcast/media/rthkmemory/c_v01.mp4
 19800323鏗鏘集： 搬村何價,http://app4.rthk.hk/podcast/media/rthkmemory/b_v20.mp4
 
-RTHK香港電台_頭條新聞,#genre#
+RTHK香港電台 頭條新聞,#genre#
 20200103頭條新聞第16集—2019風雲人物 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400016.smil/master.m3u8
 20200103頭條新聞第16集—2019風雲人物 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400016.smil/index_700000_av.m3u8
 20191227頭條新聞第15集—自己人 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400015.smil/master.m3u8
