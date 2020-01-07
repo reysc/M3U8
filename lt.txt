@@ -1254,6 +1254,7 @@ NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台 / TVB Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 明珠台 / TVB Pearl,http://m.567it.com/Pearl.m3u8
+TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 新加坡新传媒8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 澳大利亚天和电视台,http://rtvcdn.com.au:8082/TV_GG.m3u8
 中华电视网 TV 28,http://43.224.120.99:8080/chinesetv/chinesetv_1000k.m3u8
@@ -4674,7 +4675,6 @@ ELTA影剧,mitv://198.255.74.87:9906/5dc08f1800025c2e01b7e7da7df39b79.ts
 龙华偶像,mitv://198.255.74.87:9906/5dc08f230002c50f01b812ed25702777.ts
 TVB星河,mitv://198.255.74.87:9906/5dc08f2a000c358f01b830afaa89e001.ts
 TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 華藝影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
 三立戏剧台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137
