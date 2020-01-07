@@ -4850,6 +4850,124 @@ BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
 Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
+民視HD,vjms://23.237.33.155:8500:3502/live/cid=450
+華視HD,vjms://23.237.33.155:8500:3502/live/cid=451
+中視HD,vjms://23.237.33.155:8500:3502/live/cid=452
+臺視HD,vjms://23.237.33.155:8500:3502/live/cid=453
+公視3HD,vjms://23.237.33.155:8500:3502/live/cid=436
+大愛,vjms://23.237.33.155:8500:3502/live/cid=442
+壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
+鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
+鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
+澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
+民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
+年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
+年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
+东森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
+中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
+非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
+緯來體育,vjms://23.237.33.155:8500:3502/live/cid=202
+緯來戲劇,vjms://23.237.33.155:8500:3502/live/cid=137
+東森綜合,vjms://23.237.33.155:8500:3502/live/cid=333
+東森電影,vjms://23.237.33.155:8500:3502/live/cid=338
+中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
+中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
+八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
+八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
+八大戏剧,vjms://23.237.33.155:8500:3502/live/cid=110
+三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
+三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
+三立臺湾,vjms://23.237.33.155:8500:3502/live/cid=437
+博斯高球,vjms://23.237.33.155:8500:3502/live/cid=265
+國興衛視,vjms://23.237.33.155:8500:3502/live/cid=424
+迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
+TVB J5,vjms://23.237.33.155:8500:3502/live/cid=363
+TVB明珠臺,vjms://23.237.33.155:8500:3502/live/cid=367
+TVB翡翠臺,vjms://23.237.33.155:8500:3502/live/cid=362
+TVB无线新闻臺,vjms://23.237.33.155:8500:3502/live/cid=366
+TVBS HD,vjms://23.237.33.155:8500:3502/live/cid=349
+TVBS新聞臺,vjms://23.237.33.155:8500:3502/live/cid=348
+TVBS歡樂臺,vjms://23.237.33.155:8500:3502/live/cid=438
+HBO亚洲电影HD,vjms://58.215.133.184:8500:3502/live/cid=261
+HBO温馨电影,vjms://58.215.133.184:8500:3502/live/cid=181
+HBO原创电影,vjms://58.215.133.184:8500:3502/live/cid=436HBO
+强档电影,vjms://58.215.133.184:8500:3502/live/cid=238
+AXN,vjms://58.215.133.184:8500:3502/live/cid=2
+緯來體育,vjms://58.215.133.184:8500:3502/live/cid=202
+爱尔达体育HD,vjms://58.215.133.184:8500:3502/live/cid=266
+Foxsport2HD,vjms://58.215.133.184:8500:3502/live/cid=444
+Foxsport3HD,vjms://58.215.133.184:8500:3502/live/cid=95
+国家地理野生-HD,vjms://58.215.133.184:8500:3502/live/cid=263
+国家地理-HD,vjms://58.215.133.184:8500:3502/live/cid=115
+探索频道-HD,vjms://58.215.133.184:8500:3502/live/cid=440
+动物星球,vjms://58.215.133.184:8500:3502/live/cid=3
+发现科学,vjms://58.215.133.184:8500:3502/live/cid=457
+TLC旅游生活,vjms://58.215.133.184:8500:3502/live/cid=103
+博斯高球,vjms://58.215.133.184:8500:3502/live/cid=265
+NHK,vjms://58.215.133.184:8500:3502/live/cid=53
+日本super hits,vjms://58.215.133.184:8500:3502/live/cid=54
+日本钓鱼,vjms://58.215.133.184:8500:3502/live/cid=55
+日本FOX体育,vjms://58.215.133.184:8500:3502/live/cid=57
+日本BS,vjms://58.215.133.184:8500:3502/live/cid=58
+日本STAR2,vjms://58.215.133.184:8500:3502/live/cid=191
+日本STAR3,vjms://58.215.133.184:8500:3502/live/cid=193
+WOWOWライブ,vjms://58.215.133.184:8500:3502/live/cid=205
+日本棒球,vjms://58.215.133.184:8500:3502/live/cid=207
+日本洋片,vjms://58.215.133.184:8500:3502/live/cid=209
+NHK广岛放送,vjms://58.215.133.184:8500:3502/live/cid=301
+QVC,vjms://58.215.133.184:8500:3502/live/cid=302
+日野生,vjms://58.215.133.184:8500:3502/live/cid=303
+BS日本电视,vjms://58.215.133.184:8500:3502/live/cid=304
+BS-i,vjms://58.215.133.184:8500:3502/live/cid=30
+5BS-Japan,vjms://58.215.133.184:8500:3502/live/cid=306
+BS-Fuji,vjms://58.215.133.184:8500:3502/live/cid=307
+BS朝日,vjms://58.215.133.184:8500:3502/live/cid=308 
+NHK综合,vjms://58.215.133.184:8500:3502/live/cid=309 
+NHK教育,vjms://58.215.133.184:8500:3502/live/cid=310
+东京MX,vjms://58.215.133.184:8500:3502/live/cid=311
+日本电视台,vjms://58.215.133.184:8500:3502/live/cid=312
+GAORA,vjms://58.215.133.184:8500:3502/live/cid=413
+Green,vjms://58.215.133.184:8500:3502/live/cid=412
+GOLF NTWORK,vjms://58.215.133.184:8500:3502/live/cid=409
+Sports,vjms://58.215.133.184:8500:3502/live/cid=414
+sports1,vjms://58.215.133.184:8500:3502/live/cid=415
+Sports 2,vjms://58.215.133.184:8500:3502/live/cid=416
+Sports ESPN,vjms://58.215.133.184:8500:3502/live/cid=410
+FIGHTING TV,vjms://58.215.133.184:8500:3502/live/cid=408
+Sports Plus,vjms://58.215.133.184:8500:3502/live/cid=411
+Star channel,vjms://58.215.133.184:8500:3502/live/cid=494
+WOWOW电影,vjms://58.215.133.184:8500:3502/live/cid=325
+香港|翡翠台,tvbus://12DHiDaTG59swDg1uBbrZwD7HYT5ZDrMXNhHjNUdxnLdyvxFLXZ
+香港|明珠台,tvbus://1iqxMZXuqMqVmmsqLmz55JhkgkAPSBf4arbAGXhFMjxTiBZV1R
+香港|J2,tvbus://12kD7RFkskT8DCaRSuxBTTRkwn3DQzMdjVvP1WTrR6rrw9Z6Nth
+香港|TVB星河粤语,tvbus://12tWSCavuCU9J4zvrh2tnnFC5cNeaYmJBXYuNtjSt3BL9cjLpyy
+香港|TVB星河国语,tvbus://12AWywvVSR56scF5sxKr2Fp9yPCNgZE7sZKo5wcyYytXVGW33jQ
+香港|TVB无线新闻,tvbus://12rB4qAXpNvumA6GfvR8QnFZrdUzGEtSiUzpB9XzoE8MRHu2os9
+香港|TVB功夫台,tvbus://16pZ2LLFwTwQSxHd8yvPjfn4cdPLGiyMauhxuTqgbuS78YDpZ7
+香港|TVB无线资讯,tvbus://1wXSDAJQN7gmBEtks4eHR6kanJV5aEqjXeJZP1THftnhBuGns6
+香港|香港有线剧集台,tvbus://1M7xvMSj9HE55Q6SnYxcx2tyxF61Cr23RAPP1dZxFVsq84ZTP1
+香港|香港有线新闻台,tvbus://1KqsDPYJzn64cpYkc8skGRVD423grhBRRgMAm62LTNZdHuaLW2
+香港|有线电影一台,tvbus://12wMKNM3dj6q1fUBTZNvk9cWwgcWR5QLiy4326y9uitien5FnSS
+香港|香港有线体育台,tvbus://17YWevo15cFpGHmovkqsQoQD7JjwdUbVhvx7Daiya2gYyxeeXZ
+香港|香港有线体育2台,tvbus://12KarzFZi92PNGifuJpMRYjfDK8f9KgdvZsqeByp7axhE4W2SRB
+香港|香港开电视,tvbus://12mfTkQqWD968JGyezE3GzyYUmRfpWQDvrV5Lw1Y82Bkbeiu2ch
+香港|天映经典,tvbus://1zro6xPVbenuBNr2SmvEFaRDHmwfDhTBMRN1RgczXHzEEJUUuT
+香港|天映频道,tvbus://1PqcUmZziNJHnHJxgSgcUfdvBNzFAKEJBKGtXNYoJjGZLZagkN
+香港|NOW新闻,tvbus://12n9Um2oVwtzTtSAemr7X1HKbLhuvRgdwMgte2SiWsWucU3N4pg
+香港|VIUTV,tvbus://1MRhfVmf17k6cwrMp4juhEMenWZGAAgWiwkAX6hzsoAU3t3HCa
+香港|凤凰中文,tvbus://123vdzhf8qhK92G8q9FSPVLc5AUVKJ2QHgMUeiiSxVgn6yUkZ9p
+香港|凤凰资讯,tvbus://12f6JVvym9okNr1pd324ehz9Y159zk1My1og513385c6u6SqM5V
+香港|凤凰电影,tvbus://12nSt6eJo6Rgxh8omLVWVfbHhULVRWa4iaWi8tWKzeVrcb5zaQ8
+香港|星空卫视,tvbus://1kotjb6s6VN8qydo4hN2boMNUN8CE7mAhL8wMXA3gXg5ydBfmG
+香港|港台电视31,tvbus://12W5eEVVwYNvr14KqVjE1GhQkCynxE4ATZFGegdjvChugPmKqWE
+香港|港台电视32,tvbus://1q5cFKcLpz4jW11X9gomsHvYJnwqb1WXHuYQBqmGeowBDCL4M8
+香港|Astro 华丽台,tvbus://12BeYMCp6mz3VmyJQwsFRjFAkeyGFcLg3SQHnt27ghZs5d7c9RF
+日韩频道一,P2p://j93.cxiptv.com:9907/583e916400062d2542b34b025f1e1db3.ts
+日韩频道二,P2p://j93.cxiptv.com:9907/583e943b00001c5242be61504f77094c.ts
+日韩频道三,P2p://j93.cxiptv.com:9907/583e942b000e8b8742be2682035865d5.ts
+日韩频道四,P2p://j93.cxiptv.com:9907/583e942b000ce0f742be26141b0d6bfb.ts
+日韩频道五,P2p://j93.cxiptv.com:9907/584787870004212d65b497075ead651e.ts
 
 失效电视多源,#genre#
 CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
