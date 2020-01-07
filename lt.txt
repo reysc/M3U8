@@ -920,6 +920,7 @@ CBN幸福娱乐(湖北有线),http://httpdvb.slave.homed.hrtn.net/playurl?playty
 青海海西州综合频道,http://stream.haixitv.cn/1/sd/live.m3u8
 新疆博州汉语综合,http://klmyyun.chinavas.com/hls/bozhou1.m3u8
 新疆博州维语综合,http://klmyyun.chinavas.com/hls/bozhou3.m3u8
+
 轮播,#genre#
 【CIBN】嗨播,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 【CIBN】军事,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -1214,6 +1215,7 @@ CBN幸福娱乐(湖北有线),http://httpdvb.slave.homed.hrtn.net/playurl?playty
 【战旗】蜀山影视[1280*720],https://dlhls-cdn-mp.zhanqi.tv/zqlive/296268_hodBy.m3u8
 【战旗】淮阳影视[1920*1080],https://q0idsoww4hkjzf3c4cl4ap6q01gwqc6fr1f0np5c.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv?get_url=1
 【战旗】终南山影视[640*360],https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
+
 华语M3U8,#genre#
 凤凰中文(华文),http://192.200.97.162:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
 凤凰中文(华文),http://192.154.98.130:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
@@ -1230,7 +1232,9 @@ CINEMA WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c
 国家地理野生,http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
 CHANNEL V,http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
 有綫新聞台,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 有綫新聞台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 無綫新聞台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 無綫新聞台,http://202.40.202.173:8000/main
 HKC 新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
@@ -1422,6 +1426,7 @@ GOODTV好消息44烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
 寰宇新闻台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
 寰宇新闻2台,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 中视新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 非凡新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 东森新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
 东森财经新闻(HD),http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
@@ -1476,147 +1481,11 @@ FOX SPORTS 3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2
 博斯运动2(HD),http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.m3u8
 博斯运动1(HD),http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.m3u8
 BBC WORLD NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
-失效华语M3U8,#genre#
-CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
-TVB星河,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8
-TVB功夫,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8
-FX HD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.m3u8
-FOX CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.m3u8
-LIFE TIME,http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.m3u8
-CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.m3u8
-TRACE SPORTS,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.m3u8
-JET综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.m3u8
-亚洲美食,http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.m3u8
-SMART知识台,http://pili-live-hdl.qhmywl.com/dsdtv/641befebabe286484103e2980e05694d.m3u8
-历史频道,http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.m3u8
-历史频道2,http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.m3u8
-国家地理悠人,http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.m3u8
-国家地理HD,http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
-BBC EARTH,http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8
-AMC日舞,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.m3u8
-卫视洋片台,http://pili-live-hdl.qhmywl.com/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
-OUTDOOR,http://pili-live-hdl.qhmywl.com/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.m3u8
-ANIMAX HD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.m3u8
-WAKAWAKA JAPAN,http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
-TRAVEL CHANNEL,http://pili-live-hdl.qhmywl.com/dsdtv/2f1e104da16f66b93ad4d873326b19eb.m3u8
-TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.m3u8
-HITS(HD),http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.m3u8
-MTV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
-达文西频道,http://pili-live-hdl.qhmywl.com/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.m3u8
-公视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.m3u8
-公视2,http://pili-live-hdl.qhmywl.com/dsdtv/236c80ba515e5bf302f3db6f4d009914.m3u8
-公视3(HD),http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
-台视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/bec346d29d4c665d04db41d28a4e033f.m3u8
-TVBS(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
-TVBS欢乐台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
-卫视中文台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.m3u8
-Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
-年代MACHTV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
-台视综合,http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.m3u8
-台视财经,http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.m3u8
-靖天綜合,http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.m3u8
-国兴卫视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.m3u8
-HAKKATV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.m3u8
-TITV原居民电视台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.m3u8
-寰宇综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8
-爱尔达综合,http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.m3u8
-ET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
-东风37台,http://pili-live-hdl.qhmywl.com/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.m3u8
-三立都会台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.m3u8
-壹电影(HD),http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.m3u8
-星卫娱乐,http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.m3u8
-三立戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.m3u8
-EYE TV戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/69a400e45b6fbd61c8182736ec80e013.m3u8
-靖天戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/9294d73fcb67f80e094f8ce6be17c12d.m3u8
-靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8
-靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.m3u8
-龙华戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/b40ec839440a97d24d0aee0c69d186a1.m3u8
-MY101综合台,http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.m3u8
-壹综合,http://pili-live-hdl.qhmywl.com/dsdtv/3cec0560564363facfd892d88b741c62.m3u8
-纬来综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.m3u8
-纬来精彩台,http://pili-live-hdl.qhmywl.com/dsdtv/c311c72c22313d2991be335ea4872f46.m3u8
-纬来戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/82605f105052ccaef7bb5d55ebc1341d.m3u8
-东森综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8
-东森超视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.m3u8
-中天娱乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8
-中天综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8
-TVBS精彩台,http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8
-三立综合,http://pili-live-hdl.qhmywl.com/dsdtv/16eda25701fe842c519d881c68829ead.m3u8
-亚洲综合,http://pili-live-hdl.qhmywl.com/dsdtv/8e08d22adcc7748ceedc31006b55f7de.m3u8
-寰宇财经,http://pili-live-hdl.qhmywl.com/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8
-靖天资讯,http://pili-live-hdl.qhmywl.com/dsdtv/e81342a5e0ecde1ee634f19b50fab501.m3u8
-靖天欢乐,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.m3u8
-靖天日本,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.m3u8
-幸福空间居家台,http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
-韩国娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.m3u8
-MOMO亲子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.m3u8
-迪斯尼卡通,http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
-梦工厂动画,http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
-I-FUN动漫台,http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
-曼迪日本台,http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
-BABYTV,http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.m3u8
-MY KIDS,http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.m3u8
-NICK 卡通,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.m3u8
-BOOMERANG卡通,http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.m3u8
-靖天卡通,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
-靖天育乐,http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.m3u8
-靖洋卡通,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.m3u8
-Baby First,http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.m3u8
-龙华动画,http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
-东森幼幼(HD),http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.m3u8
-纬来育乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.m3u8
-高点育乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.m3u8
-亚洲旅游台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.m3u8
-EYE TV旅游台,http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.m3u8
-游戏竞技,http://pili-live-hdl.qhmywl.com/dsdtv/713b1520322a7a59d37acd238a54e91d.m3u8
-游戏风云,http://pili-live-hdl.qhmywl.com/dsdtv/3ff14f02ff5835a577e31e071cae79b4.m3u8
-ELTV生活英语,http://pili-live-hdl.qhmywl.com/dsdtv/094cb0c295f8bde2de59d5f421230dbd.m3u8
-LUXE.TV,http://pili-live-hdl.qhmywl.com/dsdtv/5eb27870debdb04d89a6246b163c2da5.m3u8
-TV5 MONDE,http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.m3u8
-NHK WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
-SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
-BLOOMBERG TV,http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
-NHK(HD),http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8
-DWTV,http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.m3u8
-新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
-FOX NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
-DIVA,http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.m3u8
-ANIMAX,http://pili-live-hdl.qhmywl.com/dsdtv/33de03293563010671a856688d63d4ee.m3u8
-动物星球(HD),http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
-TLC旅游生活(HD),http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.m3u8
-WARNER TV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.m3u8
-FOX HD,http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
-卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.m3u8
-E! ENTERTAINMENT,http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.m3u8
-BLUE ANT EXTREME,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.m3u8
-BLUE ANT ENTERTAINMET,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.m3u8
-DISCOVERY ASIA,http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
-DISCOVERY(HD),http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
-DISCOVERY科学(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
-DMAX(HD),http://pili-live-hdl.qhmywl.com/dsdtv/41a76576ae78436eb0951f2aee0c9bda.m3u8
-八大综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.m3u8
-八大第一(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8
-八大戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.m3u8
-八大娱乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.m3u8
-影迷电影台,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
-东森戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8
-高点综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f11ea1c1918059c58b42c637fa9dc678.m3u8
-纬来日本(HD),http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.m3u8
-CN卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.m3u8
-欧洲体育(HD),http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.m3u8
-法国时尚,http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.m3u8
-CNN NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
-欧洲新闻,http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.m3u8
-CNN NEWS,http://pili-live-hdl.qhmywl.com:80/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
-FOXNews,http://pili-live-hdl.qhmywl.com:80/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
-SKY NEWS,http://pili-live-hdl.qhmywl.com:80/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
-NHK WORLD,http://pili-live-hdl.qhmywl.com:80/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
-BloombergTV,http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
-新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com:80/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
-(未验证)华语FLV+RTMP,#genre#
+
+FLV+RTMP,#genre#
 CHC高清电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-CHC家庭电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
 CHC动作电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
+CHC家庭电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
 海看剧场[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226303/10000100000000060000000000446692_0.smil
 海看大片[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226296/10000100000000060000000000446693_0.smil
 海看热播[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226297/10000100000000060000000000446696_0.smil
@@ -1625,401 +1494,203 @@ CHC动作电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691
 海看教育[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226300/10000100000000060000000000446695_0.smil
 海看演艺[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226312/10000100000000060000000000446689_0.smil
 海看健康[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226309/10000100000000060000000000446690_0.smil
-HKC 有线18,rtmp://59.124.75.137/sat/hk041
-明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
-翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
-TVBS,http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv
-J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
-TVBS欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
-TVBS精采台,http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.flv
-HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-寰宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-中天新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
-东森新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
-非凡新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
-中视新闻,http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
-新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
-寰宇新闻2,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
-CNN NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv
-东森财经新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
-寰宇财经,http://pili-live-hdl.qhmywl.com/dsdtv/77c9bab3af161386df16ad9d8a3f3541.flv
-台视财经台,http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.flv
-FOXNews,http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
-SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
-NHK WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
-BBC World News,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
-MTV,http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv
-CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
-Discovery科学,http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
-DiscoveryAsia,http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-Discovery,http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
-国家地理悠人频道,http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
-国家地理野生频道,http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
-国家地理频道,http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
-BBCEarth,http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv
-动物星球,http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
-美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
-亚洲美食频道,http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.flv
-年代MUCH,http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
-纬来日本台,http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
-寰宇HD综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
-TV5 MONDE,http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.flv
-靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
-靖天电影台,http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
-FOXMOVIES,http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
-CINEMAX,http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
-好莱坞电影台,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
-影迷数位纪实,http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
-CatchPlay电影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
-HBOHits,http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBOSignature,http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-HBOFamily,http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
-HBOHD,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
-LSTime电影台,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
-卫视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-壹电视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv
-纬来电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
-东森电影台,http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
-东森洋片台,http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
-龙华电影,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-龙华经典,http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
-龙华洋片,http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
-星卫HD电影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
-美亚高清电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
-MyCinemaEurope,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
-StarMoviesHD,http://pili-live-hdl.qhmywl.com/dsdtv/78c4edcada009192a9b1f8976b5692ab.flv
-CinemaWorld,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
-DIVA,http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.flv
-福克斯家庭电影,http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
-靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv
-LUXETV,http://pili-live-hdl.qhmywl.com/dsdtv/5eb27870debdb04d89a6246b163c2da5.flv
-ELTV,http://pili-live-hdl.qhmywl.com/dsdtv/094cb0c295f8bde2de59d5f421230dbd.flv
-FXHD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.flv
-FOXCRIME,http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.flv
-AMC,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.flv
-wakuwaku,http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.flv
-Boomerang,http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.flv
-亚洲旅游台,http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.flv
-CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.flv
-Smart知识频道,http://pili-live-hdl.qhmywl.com/dsdtv/641befebabe286484103e2980e05694d.flv
-History,http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.flv
-HISTORY2,http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.flv
-E-Entertainment,http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.flv
-Outdoor,http://pili-live-hdl.qhmywl.com/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.flv
-达文西频道,http://pili-live-hdl.qhmywl.com/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.flv
-EYE旅游,http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.flv
-TravelChannel,http://pili-live-hdl.qhmywl.com/dsdtv/2f1e104da16f66b93ad4d873326b19eb.flv
-DMAX,http://pili-live-hdl.qhmywl.com/dsdtv/41a76576ae78436eb0951f2aee0c9bda.flv
-BBCLifestyle,http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
-爱尔达影剧,http://pili-live-hdl.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv
-靖天戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.flv
-龙华戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/b40ec839440a97d24d0aee0c69d186a1.flv
-龙华偶像,http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
-八大戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
-TVB功夫,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
-WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
-AXN,http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
-采昌影剧,http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
-BlueAntExtreme,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv
-BlueAntEntertainment,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv
-EYE戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/69a400e45b6fbd61c8182736ec80e013.flv
-HITS,http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.flv
-东森戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/17cdea424a288175c834060c58b3bb4e.flv
-龙华影剧,http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
-三立戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.flv
-TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
-TVB星河频道,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
-TVB功夫台,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv
-靖天育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.flv
-靖天欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
-靖天日本台,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
-卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv
-国兴卫视,http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
-八大第一台,http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv
-八大娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.flv
-NHK,http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-高点育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
-纬来育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.flv
-中天娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.flv
-东森超视,http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.flv
-韩国娱乐台KMTV,http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv
-星卫娱乐,http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
-爱尔达综合,http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.flv
-JET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.flv
-靖天资讯台,http://pili-live-hdl.qhmywl.com/dsdtv/e81342a5e0ecde1ee634f19b50fab501.flv
-靖天综合台,http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.flv
-公视,http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.flv
-公视三台,http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.flv
-台视综合台,http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv
-华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
-中视,http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
-霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
-客家电视台,http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.flv
-原住民频道,http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.flv
-Lifetime,http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.flv
-TraceSports,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
-八大综合台,http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.flv
-东风卫视,http://pili-live-hdl.qhmywl.com/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.flv
-三立台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
-三立都会台,http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.flv
-JET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
-FOXHD,http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.flv
-高点综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f11ea1c1918059c58b42c637fa9dc678.flv
-公视2,http://pili-live-hdl.qhmywl.com/dsdtv/236c80ba515e5bf302f3db6f4d009914.flv
-亚洲综合,http://pili-live-hdl.qhmywl.com/dsdtv/8e08d22adcc7748ceedc31006b55f7de.flv
-中视经典,http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv
-MY101综合,http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.flv
-卫视中文台,http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.flv
-纬来戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/82605f105052ccaef7bb5d55ebc1341d.flv
-纬来综合台,http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.flv
-东森综合台,http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.flv
-中天综合台,http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv
-纬来精采,http://pili-live-hdl.qhmywl.com/dsdtv/c311c72c22313d2991be335ea4872f46.flv
-三立综合台,http://pili-live-hdl.qhmywl.com/dsdtv/16eda25701fe842c519d881c68829ead.flv
-壹电视综合台,http://pili-live-hdl.qhmywl.com/dsdtv/3cec0560564363facfd892d88b741c62.flv
-博斯高球1台,http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
-博斯高球2台,http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
-博斯魅力网,http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
-博斯无限二台,http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
-博斯网球台,http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
-博斯运动二台,http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
-博斯运动一台,http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
-FOXSports,http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
-EUROSPORT,http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.flv
-ElevenSportPlus,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
-ELEVEN体育二台,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
-FoxSports3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-纬来体育台,http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
-智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
-靖洋卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv
-MOMO亲子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv
-CN卡通频道,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
-ANIMAX,http://pili-live-hdl.qhmywl.com/dsdtv/33de03293563010671a856688d63d4ee.flv
-iFun1,http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.flv
-曼迪日本,http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.flv
-BabyTV,http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.flv
-BabyFirst,http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.flv
-My-kids,http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.flv
-NickJr.,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.flv
-东森幼幼台,http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv
-龙华卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
-靖天卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
-ANIMAXHD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
-BloombergTV,http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.flv
-香港603,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.flv
-Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
-影迷数位纪实,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
-华艺影剧,http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
-幸福空间居家台,http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.flv
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-无线新闻,http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162
-CNN NEWS,http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-SKY NEWS,http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
-NHK WORLD,http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
-BBC World News,http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
-BBC Lifestyle,http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
-BBC earth,http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-FOX News,http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
-FOX HD,http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
-FOX SPORTS[HD],http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
-FOX SPORTS2[HD],http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
-FOX SPORTS3,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-FOX MOVIES[HD],http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
-FOX CRIME,http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
-HBO HD,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-HBO Hits,http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBO Signature,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-HBO Family,http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
-Discovery Asia,http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-Discovery[HD],http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
-Discovery科学[HD],http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
-国家地理悠人,http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-国家地理野生,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-国家地理HD,http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
-历史频道,http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
-历史频道2,http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
-Channel V,http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
-MTV Live,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
-香港有线电视603,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
-星卫HD电影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
-美亚电影,http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
-TVN,http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
-TVB 星河,http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
-TVBS欢乐台[HD],http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv
-TVBS[HD],http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
-卫视中文台[HD],http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
-TVB 翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
-TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
-新加坡亚洲新闻台,http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
-中视新闻[HD],http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
-DWTV,http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
-纬来育乐[HD],http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv
-中天娱乐[HD],http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
-东森超视[HD],http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.flv
-韩国娱乐台,http://cloud-play.hhalloy.com/live/8ae61414f7e2972598956105e2e9969d.flv
-星卫娱乐,http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
-寰宇综合,http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
-爱尔达综合,http://cloud-play.hhalloy.com/live/c614a26c0e0fb521c5cdfa10ed7f2089.flv
-ET综合台,http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.flv
-靖天资讯,http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.flv
-靖天综合,http://cloud-play.hhalloy.com/live/7a7b662db65f478451144355efa0f02b.flv
-公视[HD],http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
-公视3[HD],http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.flv
-台视[HD],http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
-台视综合,http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
-华视[HD],http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
-中视[HD],http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
-霹雳台湾台[HD],http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
-Hakkatv[HD],http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
-TITV原住民电视台[HD],http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
-LIFE TIME,http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.flv
-TRACE Sports,http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flv
-八大综合[HD],http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
-东风37台,http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.flv
-三立台湾台[HD],http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
-三立都会台[HD],http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
-年代MUCH[HD],http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
-JET综合[HD],http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
-高点综合[HD],http://cloud-play.hhalloy.com/live/f11ea1c1918059c58b42c637fa9dc678.flv
-公视2,http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.flv
-亚洲综合,http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
-中视经典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
-靖天戏剧,http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.flv
-龙华戏剧,http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.flv
-龙华偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
-八大戏剧[HD],http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
-Warner TV,http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.flv
-AXN,http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
-彩昌影剧台,http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.flv
-BLUE ANT EXTREME,http://cloud-play.hhalloy.com/live/7b3b2e1d0006091415635226a2ac5d86.flv
-BLUE ANT ENTERTAINMET,http://cloud-play.hhalloy.com/live/41005bf306743766c5affb055bc5c164.flv
-EYE TV戏剧台,http://cloud-play.hhalloy.com/live/69a400e45b6fbd61c8182736ec80e013.flv
-HITS[HD],http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.flv
-东森戏剧[HD],http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
-龙华影剧,http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
-三立戏剧,http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.flv
-非凡新闻[HD],http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
-TV5 MONDE,http://cloud-play.hhalloy.com/live/a9dd7099d0abf47c5e17f8038234df22.flv
-东森新闻[HD],http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
-东森财经新闻[HD],http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
-中天新闻[HD],http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv
-寰宇新闻2台,http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
-靖天映画,http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
-靖天电影,http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
-CINEMAX,http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
-壹电影,http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
-纬来电影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
-东森电影[HD],http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
-东森洋片[HD],http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
-龙华电影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-龙华经典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
-龙华洋片,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
-好莱坞电影[HD],http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
-影迷纪实台,http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
-CatchPlay电影台,http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
-LS TIME龙祥电影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
-卫视电影台,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-博斯高球1[HD],http://cloud-play.hhalloy.com/live/4870a14ca0496e434825594643eea173.flv
-博斯高球2[HD],http://cloud-play.hhalloy.com/live/9dd0941038e16fd8207f4c485c2fd34b.flv
-博斯魅力[HD],http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv
-博斯无限[HD],http://cloud-play.hhalloy.com/live/8c9a98717ee9e5136636c3bedbb852b8.flv
-博斯网球[HD],http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv
-博斯运动2[HD],http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
-博斯运动1[HD],http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
-欧洲体育[HD],http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
-ELEVVEN SPORTS PLUS,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
-ELEVVEN SPORTS 2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
-纬来体育[HD],http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
-智林体育台,http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
-靖洋卡通,http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.flv
-MOMO亲子台,http://cloud-play.hhalloy.com/live/0c795e6e7f8e067dd4110a57375a71b9.flv
-CN卡通,http://cloud-play.hhalloy.com/live/c865782e4a131efe17651165835ca37e.flv
-ANIMAX,http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
-迪斯尼卡通,http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
-梦工厂动画,http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
-I-FUN动漫台,http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.flv
-曼迪日本台,http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flv
-BabyTV,http://cloud-play.hhalloy.com/live/d7ede3e748413a7ad065d29dbe542149.flv
-Babyfirst,http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.flv
-My kids,http://cloud-play.hhalloy.com/live/9bb01fa9902e14cd5811f5474283171b.flv
-NICK 卡通,http://cloud-play.hhalloy.com/live/a81b6e417028b6d72ed3e6ee7c42619b.flv
-东森幼幼[HD],http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
-龙华动画,http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
-靖天卡通,http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
-ANIMAX HD,http://cloud-play.hhalloy.com/live/13b6c6ecbb388c105fd9d98338162abb.flv
-寰宇财经,http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
-台视财经,http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
-Bloombreg TV,http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
-TVB 明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
-台湾台,http://cloud-play.hhalloy.com/live/891dfa401663622b29ab70c16ea2273e.flv
-TVBS精彩台,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
-中天综合,http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv
-靖天国际,http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.flv
-靖天育乐,http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.flv
-靖天欢乐,http://cloud-play.hhalloy.com/live/4da43dff7cd731ffb9bbe9a85b029536.flv
-靖天日本,http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.flv
-东森综合[HD],http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
-电影台,http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
-福克斯家庭影院,http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
-FX HD,http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.flv
-Cinema World,http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
-CNEX,http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
-CRIME,http://cloud-play.hhalloy.com/live/3b19a19852e7bdc6b6f238108c94cb82.flv
-卫视洋片台,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
-卫视合家欢,http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flv
-纬来精彩台,http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.flv
-纬来戏剧[HD],http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.flv
-纬来日本[HD],http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv
-纬来综合[HD],http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.flv
-八大第一[HD],http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flv
-八大娱乐[HD],http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
-三立综合,http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flv
-欧洲电影,http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
-法国时尚,http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
-LUXE.TV,http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.flv
-ELTV生活英语,http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flv
-AMC日舞,http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
-WaKaWaka Japan,http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.flv
-BoomErang卡通,http://cloud-play.hhalloy.com/live/65796ce70deacc164cf2eb854ad43994.flv
-Travel Channel,http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.flv
-亚洲旅游台[HD],http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
-动物星球[HD],http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
-TLC旅游生活[HD],http://cloud-play.hhalloy.com/live/2389cbac5b421dd5b069a232f3d321bc.flv
-EYE TV旅游台,http://cloud-play.hhalloy.com/live/6d6535e5e44f88df204129354e77b2a7.flv
-美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
-亚洲美食,http://cloud-play.hhalloy.com/live/13e17ff9d96096b87e7902d77452ae76.flv
-Smart知识台,http://cloud-play.hhalloy.com/live/641befebabe286484103e2980e05694d.flv
-E!Entertainment,http://cloud-play.hhalloy.com/live/284df67673a590b64593e0127029b0b2.flv
-Outoor,http://cloud-play.hhalloy.com/live/fa1bc78d17a433dfd3214271efe7e82b.flv
-达西文频道,http://cloud-play.hhalloy.com/live/6d5a837a6f42e9d82be9243e51a91d50.flv
-Z频道,http://cloud-play.hhalloy.com/live/30a7edb2f6c42bd079dd4910806decde.flv
-影迷电影台,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
-华艺影剧台,http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
-DMAX[HD],http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flv
-爱尔达影视,http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
-国兴卫视[HD],http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
-NHK[HD],http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-高点育乐[HD],http://cloud-play.hhalloy.com/live/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
-MY101综合台,http://cloud-play.hhalloy.com/live/6c4078ac7601f5787aef2f8b88dd449c.flv
-壹综合,http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.flv
-寰宇新闻[HD],http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
-欧洲新闻,http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
-bbc cbeebies,http://cloud-play.hhalloy.com/live/0a26c9cb6aa09e7a725a4449746baa05.flv
-游戏竞技,http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flv
-游戏风云,http://cloud-play.hhalloy.com/live/3ff14f02ff5835a577e31e071cae79b4.flv
-靖洋戏剧,http://cloud-play.hhalloy.com/live/9294d73fcb67f80e094f8ce6be17c12d.flv
-欧洲新闻,http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv
-法国时尚,http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.flv
-CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.flv
-TLC旅游生活,http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.flv
-迪斯尼卡通,http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.flv
-梦工厂动画,http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.flv
-靖洋戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/9294d73fcb67f80e094f8ce6be17c12d.flv
-DWTV,http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.flv
-FOX SPORTS 2(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv
-BBC CBeebies,http://pili-live-hdl.qhmywl.com/dsdtv/0a26c9cb6aa09e7a725a4449746baa05.flv
-游戏竞技,http://pili-live-hdl.qhmywl.com/dsdtv/713b1520322a7a59d37acd238a54e91d.flv
-游戏风云,http://pili-live-hdl.qhmywl.com/dsdtv/3ff14f02ff5835a577e31e071cae79b4.flv
+凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+HKS卫视 高清[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
+明珠台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
+翡翠台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+J2[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
+寰宇新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
+中天新闻台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
+东森新闻台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
+非凡新闻台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+中视新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
+东森财经新闻台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
+BBC World News[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
+CHANNEL[V][1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
+国家地理野生频道[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
+美食星球[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
+靖天电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
+FOXMOVIES[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
+CINEMAX[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
+好莱坞电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+影迷数位纪实[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
+CatchPlay电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+HBOHits[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+HBOSignature[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBOFamily[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+HBOHD[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+LSTime电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
+卫视电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+纬来电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
+东森电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
+东森洋片台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
+龙华电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华经典[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
+龙华洋片[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
+星卫HD电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
+MyCinemaEurope[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
+CinemaWorld[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
+福克斯家庭电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
+BBCLifestyle[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
+爱尔达影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv
+龙华偶像[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
+AXN[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
+采昌影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
+龙华影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
+华视[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
+中视[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
+霹雳台湾台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
+中视经典[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv
+博斯高球1台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
+博斯高球2台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
+博斯魅力网[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
+博斯无限二台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
+博斯网球台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
+博斯运动二台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
+博斯运动一台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
+FOXSports[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
+ElevenSportPlus[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
+ELEVEN体育二台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
+FoxSports3[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+纬来体育台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
+智林体育[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
+影迷数位纪实[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
+华艺影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
+BBC World News[1280*720],http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+FOX SPORTS[HD][1280*720],http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
+FOX SPORTS2[HD][1280*720],http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
+FOX SPORTS3[1280*720],http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+FOX MOVIES[HD][1280*720],http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
+HBO HD[1280*720],http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
+HBO Hits[1280*720],http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
+HBO Signature[1280*720],http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO Family[1280*720],http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
+国家地理野生[1280*720],http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+Channel V[1280*720],http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
+星卫HD电影[1280*720],http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
+美亚电影[1280*720],http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
+TVB 翡翠台[1280*720],http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+TVB J2[1280*720],http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+中视新闻[HD][1280*720],http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
+华视[HD][1280*720],http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
+霹雳台湾台[HD][1280*720],http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
+三立台湾台[HD][1280*720],http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
+中视经典[1280*720],http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
+龙华偶像[1280*720],http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
+AXN[1280*720],http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
+彩昌影剧台[1280*720],http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.flv
+龙华影剧[1280*720],http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
+非凡新闻[HD][1280*720],http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
+东森新闻[HD][1280*720],http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
+东森财经新闻[HD][1280*720],http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
+寰宇新闻2台[1280*720],http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+靖天电影[1280*720],http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
+CINEMAX[1280*720],http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
+纬来电影[1280*720],http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
+东森电影[HD][1280*720],http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
+东森洋片[HD][1280*720],http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
+龙华电影[1280*720],http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华经典[1280*720],http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
+龙华洋片[1280*720],http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
+好莱坞电影[HD][1280*720],http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
+影迷纪实台[1280*720],http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
+CatchPlay电影台[1280*720],http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+LS TIME龙祥电影[1280*720],http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
+卫视电影台[1280*720],http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+博斯高球1[HD][1280*720],http://cloud-play.hhalloy.com/live/4870a14ca0496e434825594643eea173.flv
+博斯高球2[HD][1280*720],http://cloud-play.hhalloy.com/live/9dd0941038e16fd8207f4c485c2fd34b.flv
+博斯魅力[HD][1280*720],http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv
+博斯无限[HD][1280*720],http://cloud-play.hhalloy.com/live/8c9a98717ee9e5136636c3bedbb852b8.flv
+博斯网球[HD][1280*720],http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv
+博斯运动2[HD][1280*720],http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
+博斯运动1[HD][1280*720],http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
+ELEVVEN SPORTS PLUS[1280*720],http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
+ELEVVEN SPORTS 2[1280*720],http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
+纬来体育[HD][1280*720],http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
+智林体育台[1280*720],http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
+TVB 明珠台[1280*720],http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
+福克斯家庭影院[1280*720],http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
+Cinema World[1280*720],http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
+欧洲电影[1280*720],http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
+美食星球[1280*720],http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
+影迷电影台[1280*720],http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
+华艺影剧台[1280*720],http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
+爱尔达影视[1280*720],http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
+寰宇新闻[HD][1280*720],http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
+bbc cbeebies[1280*720],http://cloud-play.hhalloy.com/live/0a26c9cb6aa09e7a725a4449746baa05.flv
+FOX SPORTS 2(HD)[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv
+BBC CBeebies[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0a26c9cb6aa09e7a725a4449746baa05.flv
+凤凰卫视[785*576],rtmp://58.200.131.2:1935/livetv/fhzw
+凤凰卫视[1280*720],http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯[785*576],rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰资讯[1280*720],http://liveali.ifeng.com/live/FHZX.flv
+非凡新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+东森新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
+中天新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
+寰宇新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
+东森财经[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
+香港开电视,[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+HBO原创电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO家庭[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+HBO强档[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+HBO[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+东森电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
+东森洋片台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
+靖天电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
+龙华电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华经典[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
+龙华洋片[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
+星卫HD电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
+531[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
+影迷数位电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
+LSTime电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
+卫视电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+纬来电影台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
+FOX电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
+FOX家庭电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
+好莱坞电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+ELTA影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv
+龙华影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
+采昌影剧[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
+龙华偶像[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
+華藝影剧台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
+凤凰电影台[785*576],rtmp://58.200.131.2:1935/livetv/fhdy
+MyCinemaEurope[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
+AXN[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
+CINEMAX[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
+CatchPlay电影[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+TVB J2[1280*720],http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+霹雳台湾台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
+星空卫视[785*576],rtmp://58.200.131.2:1935/livetv/startv
+FOX SPORT1[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
+FOXSPORT2[1280*720],rtmp://59.124.75.137/sat/tv741
+FOXSPORT2[1280*720],rtmp://59.124.75.137/sat/tv741
+FOXSPORT3[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+博斯高球1[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
+博斯高球2[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
+博斯魅力网[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
+博斯无限[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
+博斯网球台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
+博斯运动二台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
+博斯运动一台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
+纬来体育[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
+智林体育[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
+Star Sports[785*576],rtmp://58.200.131.2:1935/livetv/starsports
+ElevenSportPlus[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
+ElevenSport2[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
+国家地理[785*576],rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道[785*576],rtmp://58.200.131.2:1935/livetv/discovery
+美食星球[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
+影迷纪实台[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
+CHANNEL[V][1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
+CHANNEL[V][785*576],rtmp://58.200.131.2:1935/livetv/channelv
+
 RTHK香港電台_鏘鏘集,#genre#
 20191230鏗鏘集：WE CONNECT 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701834.smil/master.m3u8
 20191230鏗鏘集：WE CONNECT 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701834.smil/index_700000_av.m3u8
@@ -2163,7 +1834,18 @@ RTHK香港電台_鏘鏘集,#genre#
 19830306鏗鏘集： 移民何價 2,http://app4.rthk.hk/podcast/media/rthkmemory/c_v02.mp4
 19830227鏗鏘集： 移民何價 1,http://app4.rthk.hk/podcast/media/rthkmemory/c_v01.mp4
 19800323鏗鏘集： 搬村何價,http://app4.rthk.hk/podcast/media/rthkmemory/b_v20.mp4
+
 RTHK香港電台_頭條新聞,#genre#
+20200103頭條新聞第16集—2019風雲人物 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400016.smil/master.m3u8
+20200103頭條新聞第16集—2019風雲人物 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400016.smil/index_700000_av.m3u8
+20191227頭條新聞第15集—自己人 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400015.smil/master.m3u8
+20191227頭條新聞第15集—自己人 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400015.smil/index_700000_av.m3u8
+20191220頭條新聞第14集—此生無憾 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400014.smil/master.m3u8
+20191220頭條新聞第14集—此生無憾 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400014.smil/index_700000_av.m3u8
+20191213頭條新聞第13集—2019年度人物 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400013.smil/master.m3u8
+20191213頭條新聞第13集—2019年度人物 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400013.smil/index_700000_av.m3u8
+20191206頭條新聞第12集—圍爐BBQ 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400012.smil/master.m3u8
+20191206頭條新聞第12集—圍爐BBQ 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400012.smil/index_700000_av.m3u8
 20191129頭條新聞第11集—第一 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400011.smil/master.m3u8
 20191129頭條新聞第11集—第一 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400011.smil/index_700000_av.m3u8
 20191122頭條新聞第10集—围城 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HELXCT2019M04400010.smil/master.m3u8
@@ -2244,6 +1926,7 @@ RTHK香港電台_頭條新聞,#genre#
 20181116頭條新聞第10集－急不得，慢不得 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2018/HELXCT2018M04000010.smil/index_700000_av.m3u8
 20181109頭條新聞第9集－任何人 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2018/HELXCT2018M04000009.smil/master.m3u8
 20181109頭條新聞第9集－任何人 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2018/HELXCT2018M04000009.smil/index_700000_av.m3u8
+
 RTHK香港電台 綜合節目,#genre#
 20191203 RTHK視點31 2019一国两制；从831到1118；区议会是时候改革? 720P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HKTWCT2019M01800043.smil/master.m3u8
 20191203 RTHK視點31 2019一国两制；从831到1118；区议会是时候改革? 360P,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/HKTWCT2019M01800043.smil/index_700000_av.m3u8
@@ -2394,6 +2077,7 @@ RTHK香港電台 綜合節目,#genre#
 20090124 第31屆十大中文金曲頒獎禮音樂會 2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_31_b_6-10.mp4
 20100130 第32屆十大中文金曲頒獎禮音樂會 1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_32_a_1-4.mp4
 20100130 第32屆十大中文金曲頒獎禮音樂會 2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_32_b_5-8.mp4
+
 国际,#genre#
 BBC World News,http://pili-live-hdl.qhmywl.com:80/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
 ABC News HD,http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
@@ -3160,6 +2844,7 @@ California Music Channel,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com
 Keep It Country,http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 Music Choice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 Sunburn TV,https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+
 美国Pluto TV,#genre#
 美国PLUTO TV Action Movies,http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 美国PLUTO TV Adventure TV,http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -3227,6 +2912,7 @@ Sunburn TV,https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 美国PLUTO TV What?!,http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 美国PLUTO TV Wipeout,http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 美国PLUTO TV World Poker Tour,http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 Fashion,#genre#
 FTV-L'Original,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -3466,6 +3152,7 @@ FTV-Allure Magazine Special,https://dev.ftv.com/m3u8/MKLL_ALLURE_SPECIAL/chunkli
 FTV-Allure Magazine Special,https://dev.ftv.com/m3u8/MKLL_ALLURE_SPECIAL/chunklist_MKLL_ALLURE_SPECIAL_640x360_HABN.m3u8
 FTV-Harper's Bazaar Magazine Special,https://dev.ftv.com/m3u8/304E_HARPERS_BAZAAR_SPECIAL/media/9/newChunk_chunklist_304E_HARPERS_BAZAAR_SPECIAL_1024x576_KPOA.m3u8
 FTV-Harper's Bazaar Magazine Special,https://dev.ftv.com/m3u8/304E_HARPERS_BAZAAR_SPECIAL/media/9/newChunk_chunklist_304E_HARPERS_BAZAAR_SPECIAL_1280x720_XGDQ.m3u8
+
 电台,#genre#
 VOA美国之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
 RFA自由亚洲电台,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
@@ -4549,6 +4236,7 @@ MY FM 西安 FM105.5,http://radio.sxtvs.com/radio/kids.mp3
 周口音乐广播,http://tv.zkxww.com:1935/broadcast/1004.stream_aac/playlist.m3u8
 珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
 珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
+
 MV,#genre#
 生活在地下-张佺,https://files.catbox.moe/fgl83u.mp4
 生活在地下-野孩子乐队,https://files.catbox.moe/g22qkg.mp4
@@ -4568,6 +4256,7 @@ Addicted To You-Avicii,http://220.194.238.106/11/u/o/o/b/uoobsghnevqqttmfrtzukts
 陈慧娴-红茶馆,http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
 陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
 陈慧娴-玻璃窗的爱,http://hc.yinyuetai.com/uploads/videos/common/735D0141130FBD578A853DD2AD39091C.flv
+
 摄像头直播,#genre#
 上海这一刻：魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 上海这一刻：陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
@@ -4840,6 +4529,7 @@ Addicted To You-Avicii,http://220.194.238.106/11/u/o/o/b/uoobsghnevqqttmfrtzukts
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+
 永不妥協－實驗室的挑戰故事,#genre#
 小晶片的無垠世界 生醫感測晶片,https://ngu.colife.org.tw/video_short/CIC_01_1080_short.mp4
 小晶片的無垠世界 MorSensor 無線感測積木,https://ngu.colife.org.tw/video_short/CIC_02_1080_short.mp4
@@ -4869,9 +4559,9 @@ Addicted To You-Avicii,http://220.194.238.106/11/u/o/o/b/uoobsghnevqqttmfrtzukts
 海底出發。航向未來 海洋沉積物收集器,https://ngu.colife.org.tw/video_short/TORI_03_1080_short.mp4
 風雨生信心 系集預報、無人飛機、蝴蝶效應、都卜勒效應,https://ngu.colife.org.tw/video_short/TTFRI_01_1080_short.mp4
 風雨生信心 雙偏極化雷達觀測,https://ngu.colife.org.tw/video_short/TTFRI_02_1080_short.mp4
-P2P+P9P+tvbus+mitv+vjms_00000,#genre#
+
+P2P+P9P+tvbus+mitv+vjms,#genre#
 TVB无线新闻台,mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts
-TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348
@@ -4880,25 +4570,19 @@ TVBS新闻,vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349
 TVBS,vjms://121.14.222.75:8500:3502/live/cid=349
 TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
-有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,mitv://198.255.74.87:9906/5dc08f2d000e208e01b83ce5cbcfd216.ts
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视,vjms://23.237.33.155:8500:3502/live/cid=400
 凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
 年代新闻,mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts
 年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 年代新闻,vjms://58.215.133.185:8500:3502/live/cid=455
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
-非凡新闻,http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
 非凡新闻,mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts
 非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 非凡新闻,vjms://23.237.33.155:8500:3502/live/cid=443
@@ -4907,41 +4591,31 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 三立新闻,vjms://121.14.222.75:8500:3502/live/cid=352
 三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
 东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340
-东森新闻,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 东森新闻,vjms://121.14.222.75:8500:3502/live/cid=340
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 东森新闻,vjms://23.237.33.155:8500:3502/live/cid=340
 中天新闻,mitv://198.255.74.87:9906/5dc08f1f0007d1ac01b804981dcfd1d9.ts
-中天新闻,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
 中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407
 中天新闻,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 中天新闻,vjms://23.237.33.155:8500:3502/live/cid=407
-中视新闻,http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 中视新闻,mitv://198.255.74.87:9906/5dc08f2a0007ed3201b82f97c922337c.ts
 壹新闻,mitv://198.255.74.87:9906/5dc08f23000639e201b813cf63badeb6.ts
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
 寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-寰宇新闻2台,http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民视新闻,mitv://198.255.74.87:9906/5dc08f2a0005264801b82ee1ee01412a.ts
 民视新闻,vjms://23.237.33.155:8500:3502/live/cid=454
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456
-东森财经,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
-vjms://121.14.222.75:8500:3502/live/cid=456
-p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-vjms://23.237.33.155:8500:3502/live/cid=456
+东森财经,vjms://121.14.222.75:8500:3502/live/cid=456
+东森财经,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+东森财经,vjms://23.237.33.155:8500:3502/live/cid=456
 寰宇财经台,mitv://198.255.74.87:9906/5dc08f180004f9d101b7e885e19b7517.ts
 寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 纬来日本,mitv://198.255.74.87:9906/5dc08f26000a71c601b8209ce8a8e176.ts
-vjms://23.237.33.155:8500:3502/live/cid=102
-澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
-vjms://23.237.33.155:8500:3502/live/cid=337
+纬来日本,vjms://23.237.33.155:8500:3502/live/cid=102
+澳亚卫视,vjms://23.237.33.155:8500:3502/live/cid=337
 香港开电视,mitv://198.255.74.87:9906/5dc08f31000ac63001b84ba99f178884.ts
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-香港开电视,,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,mitv://198.255.74.87:9906/5dc08f2e0005d03f01b83eac85883a60.ts
 TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
@@ -4965,95 +4639,60 @@ FOXNews,vjms://121.14.222.75:8500:3502/live/cid=97
 HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO原创电影,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts
 HBO原创电影,vjms://23.237.33.155:8500:3502/live/cid=436
-HBO原创电影,http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
 HBO家庭,vjms://121.14.222.75:8500:3502/live/cid=181
 HBO家庭,vjms://23.237.33.155:8500:3502/live/cid=181
-HBO家庭,http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
-HBO强档,http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
-HBO,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
 东森电影,mitv://198.255.74.87:9906/5dc08f260007c9ef01b81fee3b2ada72.ts
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 东森电影,vjms://23.237.33.155:8500:3502/live/cid=338
-东森电影,http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
 东森洋片台,mitv://198.255.74.87:9906/5dc08f260006fe2e01b81fb9af371dd5.ts
-东森洋片台,http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 靖天电影台,mitv://198.255.74.87:9906/5dc08f1c0000812601b7f70010bb4246.ts
 靖天电影台,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-靖天电影台,http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
-龙华电影,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华经典,mitv://198.255.74.87:9906/5dc08f230000f2cc01b8127555450c4d.ts
-龙华经典,http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 龙华洋片,mitv://198.255.74.87:9906/5dc08f2300048cfe01b81361fc3b1d55.ts
-龙华洋片,http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
-星卫HD电影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
 美亚电影台,mitv://198.255.74.87:9906/5dc08f100008811601b7ca2c2608b02d.ts
-http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
-影迷数位电影,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
-LSTime电影台,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 卫视电影台,mitv://198.255.74.87:9906/5dc08f110000c02301b7cc183ad4b85d.ts
 卫视电影台,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-卫视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 纬来电影台,mitv://198.255.74.87:9906/5dc08f26000d3e6601b82153716d51e1.ts
 纬来电影台,p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
-纬来电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
 FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
-FOX电影,http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
 FOX电影,mitv://198.255.74.87:9906/5dc08f0d0002935401b7bcf0e205eaa4.ts
 FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
 FOX家庭电影,mitv://198.255.74.87:9906/5dc08f0d0000e31001b7bc81e4cbc08b.ts
-FOX家庭电影,http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
 FOX动作电影 HD,mitv://198.255.74.87:9906/5dc08f0d0001bd0201b7bcb97d30ebcb.ts
-好莱坞电影,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
 ELTA影剧,mitv://198.255.74.87:9906/5dc08f1800025c2e01b7e7da7df39b79.ts
-ELTA影剧,http://pili-live-hdl.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv
 龙华影剧,mitv://198.255.74.87:9906/5dc08f230003b10001b813293bd32673.ts
-龙华影剧,http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
 采昌影剧,mitv://198.255.74.87:9906/5dc08f17000de43001b7e6e537f198a5.ts
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-采昌影剧,http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
 龙华偶像,mitv://198.255.74.87:9906/5dc08f230002c50f01b812ed25702777.ts
-龙华偶像,http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
 TVB星河,mitv://198.255.74.87:9906/5dc08f2a000c358f01b830afaa89e001.ts
 TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 華藝影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-華藝影剧台,http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
 三立戏剧台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137
 纬来戏剧,mitv://198.255.74.87:9906/5dc08f26000b5af101b820d79801275b.ts
 纬来戏剧,vjms://23.237.33.155:8500:3502/live/cid=137
 八大戏剧,mitv://198.255.74.87:9906/5dc08f1f00038bfa01b80380693eb7f3.ts
 八大戏剧,vjms://23.237.33.155:8500:3502/live/cid=110
-八大戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
 EYETV戏剧台,mitv://198.255.74.87:9906/5dc08f1b0008585301b7f51a726f4829.ts
 EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
-CHC家庭电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
-CHC动作电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
-CHC高清电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-MyCinemaEurope,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
 WarnerTV,mitv://198.255.74.87:9906/5dc08f020003327101b7922132df84c4.ts
-WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
 AXN,vjms://58.215.133.185:8500:3502/live/cid=2
-AXN,http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 AXN,mitv://198.255.74.87:9906/5dc08efe000c72ce01b784df27914703.ts
 AXN,vjms://23.237.33.155:8500:3502/live/cid=2
 CINEMAX,mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts
-CINEMAX,http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
 CinemaWorld,mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts
-CinemaWorld,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
 FOX CRIME,mitv://198.255.74.87:9906/5dc08f0c000f26df01b7bc4033c0db54.ts
 CatchPlay电影,mitv://198.255.74.87:9906/5dc08f0200009eff01b791787b4828f5.ts
-CatchPlay电影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
 FX,mitv://198.255.74.87:9906/5dc08f0d00036abb01b7bd27df32bfaf.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
@@ -5067,21 +4706,17 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 靖洋戏剧,mitv://198.255.74.87:9906/5dc08f1b000b184201b7f5ce694c5242.ts
 东森戏剧,mitv://198.255.74.87:9906/5dc08f230008cd1f01b814780a22e445.ts
 龙华日韩,http://vip.xp3.biz/HK.php?id=14
-TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
 TVB J2,mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts
 TVB J2,mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
-TVB明珠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
-TVB翡翠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台,mitv://198.255.74.87:9906/5dc08f31000b2bdc01b84bc33d70901a.ts
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB翡翠台,http://m.567it.com/jade.m3u8
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
 TVBS欢乐台,mitv://198.255.74.87:9906/5dc08f1f0000319d01b802a4148951a3.ts
 TVBS精采台,mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966d2177540400d0818
@@ -5089,20 +4724,17 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236
 公视,mitv://198.255.74.87:9906/5dc08f2a0006fddc01b82f5912b802f7.ts
 公视,vjms://23.237.33.155:8500:3502/live/cid=236
-华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
 华视,mitv://198.255.74.87:9906/5dc08f2a00023b0c01b82e21a7a02717.ts
 华视,vjms://23.237.33.155:8500:3502/live/cid=451
 民视,vjms://23.237.33.155:8500:3502/live/cid=226
 民视,mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
 中视,mitv://198.255.74.87:9906/5dc08f2a0008c37701b82fcd5a93c27e.ts
-中视,http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 中视,vjms://23.237.33.155:8500:3502/live/cid=452
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
 三立都会,mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts
 三立都会,vjms://23.237.33.155:8500:3502/live/cid=226
 三立台湾,mitv://198.255.74.87:9906/5dc08f22000e778101b8120331645086.ts
-三立台湾,http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
 三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 三立台湾,vjms://23.237.33.155:8500:3502/live/cid=437
 中天娱乐,mitv://198.255.74.87:9906/5dc08f1f000530a701b803eb78308968.ts
@@ -5123,11 +4755,7 @@ JET综合,mitv://198.255.74.87:9906/5dc08f1800079e3101b7e9328b922874.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
 东森综合,mitv://198.255.74.87:9906/5dc08f260006c1de01b81faa0bbc88c4.ts
-有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
-中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 中视经典,mitv://198.255.74.87:9906/5dc08f2a0009aab201b83009bcd89228.ts
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 tvN,mitv://198.255.74.87:9906/5dc08efe000f1bc901b7858d513f5c81.ts
 华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
@@ -5142,41 +4770,22 @@ tvN,mitv://198.255.74.87:9906/5dc08efe000f1bc901b7858d513f5c81.ts
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-FOX SPORT1,rtmp://59.124.75.137/sat/tv731
-FOX SPORT1,rtmp://59.124.75.137/sat/tv731
-FOX SPORT1,http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
-FOXSPORT2,http://pili-live-hdl.qhmywl.com:80/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.m3u8
-FOXSPORT2,rtmp://59.124.75.137/sat/tv741
-FOXSPORT2,rtmp://59.124.75.137/sat/tv741
 FOXSPORT3,mitv://198.255.74.87:9906/5dc08f140009290701b7d9f7e97f9c57.ts
 FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95
-FOXSPORT3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266
 ELTA体育HD,mitv://198.255.74.87:9906/5dc08f18000177aa01b7e79f98d38e41.ts
 ELTA体育HD,vjms://23.237.33.155:8500:3502/live/cid=266
 博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265
-博斯高球1,http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
 博斯高球1,vjms://121.14.222.75:8500:3502/live/cid=265
 博斯高球1,vjms://23.237.33.155:8500:3502/live/cid=265
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-博斯高球2,http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
-博斯魅力网,http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
 博斯无限,mitv://198.255.74.87:9906/5dc08f14000bad9301b7da9c1cd36e95.ts
-博斯无限,http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
-博斯网球台,http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
-博斯运动二台,http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
 博斯运动二台,mitv://198.255.74.87:9906/5dc08f14000d867301b7db159f054a88.ts
-博斯运动一台,http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
 博斯运动一台,mitv://198.255.74.87:9906/5dc08f17000cfdd501b7e6aadc319b99.ts
 纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202
-纬来体育,http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
 纬来体育,mitv://198.255.74.87:9906/5dc08f26000c474d01b821140ba0e8a9.ts
 纬来体育,vjms://23.237.33.155:8500:3502/live/cid=202
-智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-ElevenSportPlus,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
-ElevenSport2,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
 NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
 国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263
@@ -5184,9 +4793,7 @@ NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts
 国家地理,vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理,vjms://23.237.33.155:8500:3502/live/cid=115
-国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理People,mitv://198.255.74.87:9906/5dc08f0900030a1901b7ad6e30853d1f.ts
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索频道,mitv://198.255.74.87:9906/5dc08f0c000a7ead01b7bb0fb297bca5.ts
 探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440
 探索亚洲,mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts
@@ -5206,8 +4813,6 @@ TLC旅游生活,vjms://23.237.33.155:8500:3502/live/cid=103
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
-影迷纪实台,http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
 SMART,mitv://198.255.74.87:9906/5dc08f1b0007221b01b7f4cbb6b56bda.ts
 SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
 MTV,mitv://198.255.74.87:9906/5dc08efe000e3cee01b78554dc38becf.ts
@@ -5219,7 +4824,6 @@ TV5MONDE,mitv://198.255.74.87:9906/5dc08efe000d552301b785199e1edf3b.ts
 TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 StarWorld,mitv://198.255.74.87:9906/5dc08f10000f2a9e01b7cbe13b6294a7.ts
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 History HD,mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
 History2 HD,mitv://198.255.74.87:9906/5dc08f09000054ba01b7acbd491ca921.ts
@@ -5234,16 +4838,12 @@ Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 迪斯尼,mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts
 迪斯尼,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,mitv://198.255.74.87:9906/5dc08f050009aec901b79f82aedce9ba.ts
-CN卡通,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
 CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 东森幼幼,mitv://198.255.74.87:9906/5dc08f230007eecd01b8143f61d4b68b.ts
 东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 东森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
 BabyFirst,mitv://198.255.74.87:9906/5dc08f050007314501b79ededa54d554.ts
-BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 靖天卡通,mitv://198.255.74.87:9906/5dc08f1c000159c601b7f738e9a99ab1.ts
 MOMO亲子台,mitv://198.255.74.87:9906/5dc08f140008553f01b7d9c1331a3122.ts
 MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
@@ -5252,3 +4852,377 @@ BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
 Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
+
+失效电视多源,#genre#
+CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
+TVB星河,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8
+TVB功夫,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8
+FX HD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.m3u8
+FOX CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.m3u8
+LIFE TIME,http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.m3u8
+CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.m3u8
+TRACE SPORTS,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.m3u8
+JET综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.m3u8
+亚洲美食,http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.m3u8
+SMART知识台,http://pili-live-hdl.qhmywl.com/dsdtv/641befebabe286484103e2980e05694d.m3u8
+历史频道,http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.m3u8
+历史频道2,http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.m3u8
+国家地理悠人,http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.m3u8
+国家地理HD,http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
+BBC EARTH,http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8
+AMC日舞,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.m3u8
+卫视洋片台,http://pili-live-hdl.qhmywl.com/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
+OUTDOOR,http://pili-live-hdl.qhmywl.com/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.m3u8
+ANIMAX HD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.m3u8
+WAKAWAKA JAPAN,http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
+TRAVEL CHANNEL,http://pili-live-hdl.qhmywl.com/dsdtv/2f1e104da16f66b93ad4d873326b19eb.m3u8
+TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.m3u8
+HITS(HD),http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.m3u8
+MTV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
+达文西频道,http://pili-live-hdl.qhmywl.com/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.m3u8
+公视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.m3u8
+公视2,http://pili-live-hdl.qhmywl.com/dsdtv/236c80ba515e5bf302f3db6f4d009914.m3u8
+公视3(HD),http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
+台视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/bec346d29d4c665d04db41d28a4e033f.m3u8
+TVBS(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
+TVBS欢乐台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
+卫视中文台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.m3u8
+Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
+年代MACHTV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
+台视综合,http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.m3u8
+台视财经,http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.m3u8
+靖天綜合,http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.m3u8
+国兴卫视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.m3u8
+HAKKATV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.m3u8
+TITV原居民电视台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.m3u8
+寰宇综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8
+爱尔达综合,http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.m3u8
+ET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
+东风37台,http://pili-live-hdl.qhmywl.com/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.m3u8
+三立都会台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.m3u8
+壹电影(HD),http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.m3u8
+星卫娱乐,http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.m3u8
+三立戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.m3u8
+EYE TV戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/69a400e45b6fbd61c8182736ec80e013.m3u8
+靖天戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/9294d73fcb67f80e094f8ce6be17c12d.m3u8
+靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8
+靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.m3u8
+龙华戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/b40ec839440a97d24d0aee0c69d186a1.m3u8
+MY101综合台,http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.m3u8
+壹综合,http://pili-live-hdl.qhmywl.com/dsdtv/3cec0560564363facfd892d88b741c62.m3u8
+纬来综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.m3u8
+纬来精彩台,http://pili-live-hdl.qhmywl.com/dsdtv/c311c72c22313d2991be335ea4872f46.m3u8
+纬来戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/82605f105052ccaef7bb5d55ebc1341d.m3u8
+东森综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8
+东森超视(HD),http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.m3u8
+中天娱乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8
+中天综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8
+TVBS精彩台,http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8
+三立综合,http://pili-live-hdl.qhmywl.com/dsdtv/16eda25701fe842c519d881c68829ead.m3u8
+亚洲综合,http://pili-live-hdl.qhmywl.com/dsdtv/8e08d22adcc7748ceedc31006b55f7de.m3u8
+寰宇财经,http://pili-live-hdl.qhmywl.com/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8
+靖天资讯,http://pili-live-hdl.qhmywl.com/dsdtv/e81342a5e0ecde1ee634f19b50fab501.m3u8
+靖天欢乐,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.m3u8
+靖天日本,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.m3u8
+幸福空间居家台,http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
+韩国娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.m3u8
+MOMO亲子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.m3u8
+迪斯尼卡通,http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
+梦工厂动画,http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
+I-FUN动漫台,http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
+曼迪日本台,http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
+BABYTV,http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.m3u8
+MY KIDS,http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.m3u8
+NICK 卡通,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.m3u8
+BOOMERANG卡通,http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.m3u8
+靖天卡通,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
+靖天育乐,http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.m3u8
+靖洋卡通,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.m3u8
+Baby First,http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.m3u8
+龙华动画,http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
+东森幼幼(HD),http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.m3u8
+纬来育乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.m3u8
+高点育乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.m3u8
+亚洲旅游台(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.m3u8
+EYE TV旅游台,http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.m3u8
+游戏竞技,http://pili-live-hdl.qhmywl.com/dsdtv/713b1520322a7a59d37acd238a54e91d.m3u8
+游戏风云,http://pili-live-hdl.qhmywl.com/dsdtv/3ff14f02ff5835a577e31e071cae79b4.m3u8
+ELTV生活英语,http://pili-live-hdl.qhmywl.com/dsdtv/094cb0c295f8bde2de59d5f421230dbd.m3u8
+LUXE.TV,http://pili-live-hdl.qhmywl.com/dsdtv/5eb27870debdb04d89a6246b163c2da5.m3u8
+TV5 MONDE,http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.m3u8
+NHK WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
+SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
+BLOOMBERG TV,http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
+NHK(HD),http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8
+DWTV,http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.m3u8
+新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
+FOX NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
+DIVA,http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.m3u8
+ANIMAX,http://pili-live-hdl.qhmywl.com/dsdtv/33de03293563010671a856688d63d4ee.m3u8
+动物星球(HD),http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+TLC旅游生活(HD),http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.m3u8
+WARNER TV(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.m3u8
+FOX HD,http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
+卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.m3u8
+E! ENTERTAINMENT,http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.m3u8
+BLUE ANT EXTREME,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.m3u8
+BLUE ANT ENTERTAINMET,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.m3u8
+DISCOVERY ASIA,http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
+DISCOVERY(HD),http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
+DISCOVERY科学(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
+DMAX(HD),http://pili-live-hdl.qhmywl.com/dsdtv/41a76576ae78436eb0951f2aee0c9bda.m3u8
+八大综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.m3u8
+八大第一(HD),http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8
+八大戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.m3u8
+八大娱乐(HD),http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.m3u8
+影迷电影台,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
+东森戏剧(HD),http://pili-live-hdl.qhmywl.com/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8
+高点综合(HD),http://pili-live-hdl.qhmywl.com/dsdtv/f11ea1c1918059c58b42c637fa9dc678.m3u8
+纬来日本(HD),http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.m3u8
+CN卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.m3u8
+欧洲体育(HD),http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.m3u8
+法国时尚,http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.m3u8
+CNN NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
+欧洲新闻,http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.m3u8
+CNN NEWS,http://pili-live-hdl.qhmywl.com:80/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
+FOXNews,http://pili-live-hdl.qhmywl.com:80/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
+SKY NEWS,http://pili-live-hdl.qhmywl.com:80/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
+NHK WORLD,http://pili-live-hdl.qhmywl.com:80/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
+BloombergTV,http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
+新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com:80/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
+TVBS,http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv
+TVBS欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+TVBS精采台,http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.flv
+新加坡亚洲新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
+CNN NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv
+台视财经台,http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.flv
+FOXNews,http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
+SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
+NHK WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
+MTV,http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv
+Discovery科学,http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
+DiscoveryAsia,http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+国家地理悠人频道,http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
+国家地理频道,http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
+BBCEarth,http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv
+动物星球,http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
+亚洲美食频道,http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.flv
+纬来日本台,http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
+寰宇HD综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
+TV5 MONDE,http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.flv
+靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
+DIVA,http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.flv
+靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv
+LUXETV,http://pili-live-hdl.qhmywl.com/dsdtv/5eb27870debdb04d89a6246b163c2da5.flv
+ELTV,http://pili-live-hdl.qhmywl.com/dsdtv/094cb0c295f8bde2de59d5f421230dbd.flv
+FXHD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.flv
+FOXCRIME,http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.flv
+AMC,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.flv
+wakuwaku,http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.flv
+Boomerang,http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.flv
+亚洲旅游台,http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.flv
+CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.flv
+History,http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.flv
+HISTORY2,http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.flv
+E-Entertainment,http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.flv
+Outdoor,http://pili-live-hdl.qhmywl.com/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.flv
+达文西频道,http://pili-live-hdl.qhmywl.com/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.flv
+EYE旅游,http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.flv
+TravelChannel,http://pili-live-hdl.qhmywl.com/dsdtv/2f1e104da16f66b93ad4d873326b19eb.flv
+DMAX,http://pili-live-hdl.qhmywl.com/dsdtv/41a76576ae78436eb0951f2aee0c9bda.flv
+靖天戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.flv
+龙华戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/b40ec839440a97d24d0aee0c69d186a1.flv
+八大戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
+TVB功夫,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
+WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
+BlueAntExtreme,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv
+BlueAntEntertainment,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv
+EYE戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/69a400e45b6fbd61c8182736ec80e013.flv
+HITS,http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.flv
+三立戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.flv
+TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
+TVB星河频道,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
+TVB功夫台,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv
+靖天欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
+靖天日本台,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
+卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv
+国兴卫视,http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
+八大第一台,http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv
+八大娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.flv
+NHK,http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
+高点育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
+纬来育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.flv
+中天娱乐台,http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.flv
+东森超视,http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.flv
+韩国娱乐台KMTV,http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv
+星卫娱乐,http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
+爱尔达综合,http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.flv
+JET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.flv
+靖天资讯台,http://pili-live-hdl.qhmywl.com/dsdtv/e81342a5e0ecde1ee634f19b50fab501.flv
+靖天综合台,http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.flv
+公视,http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.flv
+公视三台,http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.flv
+台视综合台,http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv
+客家电视台,http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.flv
+原住民频道,http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.flv
+Lifetime,http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.flv
+TraceSports,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
+八大综合台,http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.flv
+东风卫视,http://pili-live-hdl.qhmywl.com/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.flv
+三立都会台,http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.flv
+JET综合台,http://pili-live-hdl.qhmywl.com/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
+FOXHD,http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.flv
+高点综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f11ea1c1918059c58b42c637fa9dc678.flv
+公视2,http://pili-live-hdl.qhmywl.com/dsdtv/236c80ba515e5bf302f3db6f4d009914.flv
+亚洲综合,http://pili-live-hdl.qhmywl.com/dsdtv/8e08d22adcc7748ceedc31006b55f7de.flv
+MY101综合,http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.flv
+卫视中文台,http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.flv
+纬来戏剧台,http://pili-live-hdl.qhmywl.com/dsdtv/82605f105052ccaef7bb5d55ebc1341d.flv
+纬来综合台,http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.flv
+中天综合台,http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv
+纬来精采,http://pili-live-hdl.qhmywl.com/dsdtv/c311c72c22313d2991be335ea4872f46.flv
+三立综合台,http://pili-live-hdl.qhmywl.com/dsdtv/16eda25701fe842c519d881c68829ead.flv
+壹电视综合台,http://pili-live-hdl.qhmywl.com/dsdtv/3cec0560564363facfd892d88b741c62.flv
+EUROSPORT,http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.flv
+靖洋卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv
+MOMO亲子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv
+CN卡通频道,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
+ANIMAX,http://pili-live-hdl.qhmywl.com/dsdtv/33de03293563010671a856688d63d4ee.flv
+iFun1,http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.flv
+曼迪日本,http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.flv
+BabyTV,http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.flv
+BabyFirst,http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.flv
+My-kids,http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.flv
+NickJr.,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.flv
+东森幼幼台,http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv
+龙华卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
+靖天卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
+ANIMAXHD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
+香港603,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.flv
+Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
+幸福空间居家台,http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.flv
+CNN NEWS,http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
+SKY NEWS,http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+NHK WORLD,http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+BBC earth,http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
+FOX News,http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+FOX HD,http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+FOX CRIME,http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
+Discovery Asia,http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+Discovery科学[HD],http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
+国家地理悠人,http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
+国家地理HD,http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
+历史频道,http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
+历史频道2,http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+MTV Live,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
+香港有线电视603,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
+TVN,http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
+TVB 星河,http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
+TVBS欢乐台[HD],http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+TVBS[HD],http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
+卫视中文台[HD],http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
+新加坡亚洲新闻台,http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+DWTV,http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
+纬来育乐[HD],http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv
+中天娱乐[HD],http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
+东森超视[HD],http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.flv
+韩国娱乐台,http://cloud-play.hhalloy.com/live/8ae61414f7e2972598956105e2e9969d.flv
+星卫娱乐,http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
+寰宇综合,http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
+爱尔达综合,http://cloud-play.hhalloy.com/live/c614a26c0e0fb521c5cdfa10ed7f2089.flv
+ET综合台,http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.flv
+靖天资讯,http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.flv
+靖天综合,http://cloud-play.hhalloy.com/live/7a7b662db65f478451144355efa0f02b.flv
+公视[HD],http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
+公视3[HD],http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.flv
+台视[HD],http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
+台视综合,http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
+TITV原住民电视台[HD],http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
+LIFE TIME,http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.flv
+TRACE Sports,http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flv
+八大综合[HD],http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
+东风37台,http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.flv
+三立都会台[HD],http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
+年代MUCH[HD],http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
+JET综合[HD],http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
+高点综合[HD],http://cloud-play.hhalloy.com/live/f11ea1c1918059c58b42c637fa9dc678.flv
+公视2,http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.flv
+亚洲综合,http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
+靖天戏剧,http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.flv
+龙华戏剧,http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.flv
+BLUE ANT EXTREME,http://cloud-play.hhalloy.com/live/7b3b2e1d0006091415635226a2ac5d86.flv
+BLUE ANT ENTERTAINMET,http://cloud-play.hhalloy.com/live/41005bf306743766c5affb055bc5c164.flv
+EYE TV戏剧台,http://cloud-play.hhalloy.com/live/69a400e45b6fbd61c8182736ec80e013.flv
+HITS[HD],http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.flv
+东森戏剧[HD],http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
+三立戏剧,http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.flv
+TV5 MONDE,http://cloud-play.hhalloy.com/live/a9dd7099d0abf47c5e17f8038234df22.flv
+靖天映画,http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
+欧洲体育[HD],http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
+靖洋卡通,http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.flv
+CN卡通,http://cloud-play.hhalloy.com/live/c865782e4a131efe17651165835ca37e.flv
+ANIMAX,http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
+迪斯尼卡通,http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
+梦工厂动画,http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
+I-FUN动漫台,http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.flv
+曼迪日本台,http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flv
+BabyTV,http://cloud-play.hhalloy.com/live/d7ede3e748413a7ad065d29dbe542149.flv
+Babyfirst,http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.flv
+东森幼幼[HD],http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
+龙华动画,http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
+靖天卡通,http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
+ANIMAX HD,http://cloud-play.hhalloy.com/live/13b6c6ecbb388c105fd9d98338162abb.flv
+寰宇财经,http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
+台视财经,http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
+Bloombreg TV,http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+台湾台,http://cloud-play.hhalloy.com/live/891dfa401663622b29ab70c16ea2273e.flv
+TVBS精彩台,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
+中天综合,http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv
+靖天国际,http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.flv
+靖天育乐,http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.flv
+靖天欢乐,http://cloud-play.hhalloy.com/live/4da43dff7cd731ffb9bbe9a85b029536.flv
+东森综合[HD],http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
+FX HD,http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.flv
+CNEX,http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
+CRIME,http://cloud-play.hhalloy.com/live/3b19a19852e7bdc6b6f238108c94cb82.flv
+卫视洋片台,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
+卫视合家欢,http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flv
+纬来精彩台,http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.flv
+纬来戏剧[HD],http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.flv
+纬来日本[HD],http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv
+纬来综合[HD],http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.flv
+八大第一[HD],http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flv
+八大娱乐[HD],http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
+三立综合,http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flv
+法国时尚,http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
+LUXE.TV,http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.flv
+ELTV生活英语,http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flv
+AMC日舞,http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
+WaKaWaka Japan,http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.flv
+BoomErang卡通,http://cloud-play.hhalloy.com/live/65796ce70deacc164cf2eb854ad43994.flv
+Travel Channel,http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.flv
+亚洲旅游台[HD],http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
+动物星球[HD],http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
+EYE TV旅游台,http://cloud-play.hhalloy.com/live/6d6535e5e44f88df204129354e77b2a7.flv
+亚洲美食,http://cloud-play.hhalloy.com/live/13e17ff9d96096b87e7902d77452ae76.flv
+Smart知识台,http://cloud-play.hhalloy.com/live/641befebabe286484103e2980e05694d.flv
+E!Entertainment,http://cloud-play.hhalloy.com/live/284df67673a590b64593e0127029b0b2.flv
+Outoor,http://cloud-play.hhalloy.com/live/fa1bc78d17a433dfd3214271efe7e82b.flv
+Z频道,http://cloud-play.hhalloy.com/live/30a7edb2f6c42bd079dd4910806decde.flv
+DMAX[HD],http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flv
+国兴卫视[HD],http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
+高点育乐[HD],http://cloud-play.hhalloy.com/live/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
+MY101综合台,http://cloud-play.hhalloy.com/live/6c4078ac7601f5787aef2f8b88dd449c.flv
+壹综合,http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.flv
+欧洲新闻,http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
+游戏竞技,http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flv
+游戏风云,http://cloud-play.hhalloy.com/live/3ff14f02ff5835a577e31e071cae79b4.flv
+靖洋戏剧,http://cloud-play.hhalloy.com/live/9294d73fcb67f80e094f8ce6be17c12d.flv
+欧洲新闻,http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv
+法国时尚,http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.flv
+CRIME,http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.flv
+TLC旅游生活,http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.flv
+迪斯尼卡通,http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.flv
+梦工厂动画,http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.flv
+靖洋戏剧,http://pili-live-hdl.qhmywl.com/dsdtv/9294d73fcb67f80e094f8ce6be17c12d.flv
+DWTV,http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.flv
