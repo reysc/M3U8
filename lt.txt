@@ -1630,6 +1630,8 @@ BBC CBeebies[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/0a26c9cb6aa09e7a725
 凤凰卫视[1280*720],http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯[785*576],rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰资讯[1280*720],http://liveali.ifeng.com/live/FHZX.flv
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 非凡新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
 东森新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 中天新闻[1280*720],http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
@@ -4574,10 +4576,8 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视,vjms://23.237.33.155:8500:3502/live/cid=400
-凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401
-凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
 年代新闻,mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts
 年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
@@ -4684,7 +4684,6 @@ TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 八大戏剧,vjms://23.237.33.155:8500:3502/live/cid=110
 EYETV戏剧台,mitv://198.255.74.87:9906/5dc08f1b0008585301b7f51a726f4829.ts
 EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 WarnerTV,mitv://198.255.74.87:9906/5dc08f020003327101b7922132df84c4.ts
 AXN,vjms://58.215.133.185:8500:3502/live/cid=2
 AXN,mitv://198.255.74.87:9906/5dc08efe000c72ce01b784df27914703.ts
@@ -4824,7 +4823,6 @@ TV5MONDE,mitv://198.255.74.87:9906/5dc08efe000d552301b785199e1edf3b.ts
 TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 StarWorld,mitv://198.255.74.87:9906/5dc08f10000f2a9e01b7cbe13b6294a7.ts
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 History HD,mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
 History2 HD,mitv://198.255.74.87:9906/5dc08f09000054ba01b7acbd491ca921.ts
 纬来育乐,mitv://198.255.74.87:9906/5dc08f26000ef7b001b821c4f817017e.ts
