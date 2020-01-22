@@ -29,6 +29,9 @@ CCTV-女性时尚 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&
 CCTV-央视文化精品 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000046.m3u8
 CCTV-中学生,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000093.m3u8
 CGTN,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+Document全记实 FHD,http://183.238.77.9:9090/live/quanjishiHD_7000.m3u8
+中华美食,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000085.m3u8
+熊猫新闻 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=048&Provider_id=&Pcontent_id=index.m3u8
 湖南卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 江苏卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 浙江卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
@@ -570,6 +573,14 @@ CBN幸福娱乐(湖北有线),http://httpdvb.slave.homed.hrtn.net/playurl?playty
 霍山综合频道,http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
 蚌埠公共频道,http://newvod.ahbbtv.com:1935/live/smil:ggpd_copy.smil/playlist.m3u8
 蚌埠生活频道,http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
+四川 文化旅游 HD,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+四川 经济 HD,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+四川 新闻 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=061&Provider_id=&Pcontent_id=index.m3u8
+四川 影视文艺 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=062&Provider_id=&Pcontent_id=index.m3u8
+四川 妇女儿童 HD,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+四川 科教 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
+四川 公共乡村 HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
+中国交通 四川 SD,http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 四川九寨沟新闻综合,http://111.231.194.231:85/live/xwzh.m3u8
 四川南充蓬安县新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 四川省眉山仁寿县生活资讯,http://118.122.224.176:8091/live/shzx.m3u8
@@ -1240,9 +1251,9 @@ GOODTV好消息44烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
 禅修电视台,http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 
 FLV+RTMP,#genre#
-CHC高清电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-CHC动作电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
-CHC家庭电影[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
+CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 海看剧场[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226303/10000100000000060000000000446692_0.smil
 海看大片[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226296/10000100000000060000000000446693_0.smil
 海看热播[1280*1024],rtsp://61.156.103.73:554/PLTV/88888888/224/3221226297/10000100000000060000000000446696_0.smil
