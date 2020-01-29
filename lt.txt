@@ -3775,9 +3775,12 @@ Addicted To You-Avicii,http://220.194.238.106/11/u/o/o/b/uoobsghnevqqttmfrtzukts
 
 摄像头直播,#genre#
 共同战“疫”不间断直播,http://bililive.kksmg.com/hls/2018linshi001/playlist.m3u8
-武汉火雷神山建设资讯,http://play-a.quklive.com/live/a1580195060766997.m3u8
-长镜头直播：雷神山医院施工实时画面, http://bililive.kksmg.com/hls/2018linshi002/playlist.m3u8
-武汉雷神山医院建设直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001893301_hd.m3u8
+武汉火|雷神山建设资讯,http://play-a.quklive.com/live/a1580195060766997.m3u8
+长镜头直播：火|雷神山医院施工实时画面, http://bililive.kksmg.com/hls/2018linshi002/playlist.m3u8
+火神山实时画面1,https://mobilelive-play.ysp.cctv.cn/ysp/2001894001_hd.m3u8
+火神山实时画面2,https://mobilelive-play.ysp.cctv.cn/ysp/2001891501_hd.m3u8
+雷神山实时画面1,https://mobilelive-play.ysp.cctv.cn/ysp/2001893301_hd.m3u8
+雷神山实时画面2,https://mobilelive-play.ysp.cctv.cn/ysp/2001893201_hd.m3u8
 上海这一刻：魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 上海这一刻：陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
 张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
