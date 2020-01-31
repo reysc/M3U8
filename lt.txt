@@ -159,6 +159,9 @@ CCTV-风云剧场 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&
 CCTV-怀旧剧场 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000048.m3u8
 CCTV-世界地理,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000050.m3u8
 CCTV-中学生,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000093.m3u8
+CHC家庭影院,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=548e8018101d7fa134d91615728a5a93
+CHC动作电影,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf
+CHC高清电影,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=f1f8aab0fd04f1cf17ba7ebcf67b06e0
 CHC华诚影视[484*272],http://by4.nty.tv189.cn/tm-cridyty-512k.m3u8
 中华特产频道,http://play.zhtctv.cn/portal/btv.m3u8
 CETV1 SD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226132/index.m3u8
@@ -802,6 +805,24 @@ CBN幸福娱乐(湖北有线),http://httpdvb.slave.homed.hrtn.net/playurl?playty
 【NewTV】潮妈辣婆 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
 【NewTV】潮媽辣婆[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
 【NewTV】炫舞未来 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+【NewTV】古装剧场,http://39.135.34.151:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163
+【NewTV】动作,http://39.135.34.151:18890//000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389
+【NewTV】军旅,http://39.135.34.151:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323
+【NewTV】家庭,http://39.135.34.151:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070
+【NewTV】惊悚,http://39.135.34.151:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617
+【NewTV】海外,http://39.135.36.138:18890/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003
+【NewTV】搏击,http://39.135.34.151:18890/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen
+【NewTV】爱情喜剧,http://39.135.34.151:18890/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037
+【NewTV】精品大剧,http://39.135.34.151:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858
+【NewTV】功夫,http://39.135.34.151:18890/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054
+【NewTV】金牌综艺,http://39.135.34.151:18890/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632
+【NewTV】军事评论,http://39.135.34.151:18890/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775
+【NewTV】农业致富,http://39.135.34.151:18890/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625
+【NewTV】精品记录,http://39.135.34.151:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594
+【NewTV】健康有约,http://39.135.34.151:18890/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941
+【NewTV】精品体育,http://39.135.34.151:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259
+【NewTV】潮妈辣婆,http://39.135.34.151:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177
+【NewTV】炫舞未来,http://39.135.34.151:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515
 【华数】时装1,http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
 【华数】时装2,http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
 【华数】时尚1,http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
