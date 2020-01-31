@@ -4203,7 +4203,7 @@ CHC高清电影,tvbus://12NSaLPhSL75dB6uuRuh48XDTKGJXkbSEYXcR5F3yH7dMo2nRRE
 华纳电影,tvbus://12Qxy33WX6bSvnqRWqrRsX9G2jR3CUyiTtiJGE2TshuktG8Y8Wi
 好莱坞电影,好莱坞电影(HD),tvbus://123GNKqb4crSNAnm516xpDEmEF8r3X73T8qv3jRhqmVt1qstRXV
 
-失效源,#genre#
+失效源_666,#genre#
 CNEX,http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
 TVB星河,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8
 TVB功夫,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8
