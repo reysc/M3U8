@@ -2,7 +2,7 @@
 #EXTINF:-1 ,上海这一刻：魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 ,上海这一刻：陆家嘴
-http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+http://bililive.kksmg.com/hls/sdi70/playlist.m3u8
 #EXTINF:-1 ,张家界天门山西线玻璃栈道
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 ,张家界天门山天门洞
@@ -17,25 +17,23 @@ https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
 #EXTINF:-1 ,湖南湘西凤凰古城东关门
 http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1 ,厦门鼓浪屿
-https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 #EXTINF:-1 ,广西玉林大容山莲花山顶
 https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-#EXTINF:-1 ,平山湖大峡谷九龙汇海(回放)
+#EXTINF:-1 ,平山湖大峡谷九龙汇海
 https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
-#EXTINF:-1 ,平山湖大峡谷峡谷石林(回放)
+#EXTINF:-1 ,平山湖大峡谷峡谷石林
 https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
-#EXTINF:-1 ,桂林象山公园(回放)
+#EXTINF:-1 ,桂林象山公园
 https://gccncc.v.wscdns.com/gc/glxs01_1/index.m3u8
-#EXTINF:-1 ,六盘山红军长征景区(回放)
+#EXTINF:-1 ,六盘山红军长征景区
 https://gccncc.v.wscdns.com/gc/lpsgmjng01_1/index.m3u8
 #EXTINF:-1 ,西汉南越王博物馆
 https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
-#EXTINF:-1 ,广东省深圳市甘坑客家小镇(回放)
+#EXTINF:-1 ,广东省深圳市甘坑客家小镇
 https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
-#EXTINF:-1 ,广东省深圳市甘坑客家小镇(回放)
+#EXTINF:-1 ,广东省深圳市甘坑客家小镇
 https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1 ,八里沟风景区天界山玻璃栈道(回放)
+#EXTINF:-1 ,八里沟风景区天界山玻璃栈道
 https://gccncc.v.wscdns.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 ,八里沟风景区桃花湾瀑布
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
@@ -57,9 +55,9 @@ https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
 #EXTINF:-1 ,安徽省池州市九华山风景区花台
 https://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1 ,华山(回放)
+#EXTINF:-1 ,华山
 https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
-#EXTINF:-1 ,华山(回放)
+#EXTINF:-1 ,华山
 https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
 #EXTINF:-1 ,江苏徐州云龙湖风景区云龙山观景台南
 https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
@@ -83,17 +81,17 @@ https://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 ,浙江杭州千岛湖
 https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 ,桂林漓江景区(回放)
+#EXTINF:-1 ,桂林漓江景区
 https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
-#EXTINF:-1 ,桂林漓江景区(回放)
+#EXTINF:-1 ,桂林漓江景区
 https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 ,南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1 ,玉龙雪山(回放)
+#EXTINF:-1 ,玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 #EXTINF:-1 ,玉龙雪山蓝月谷
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1 ,玉龙雪山印象实景(回放)
+#EXTINF:-1 ,玉龙雪山印象实景
 https://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
 #EXTINF:-1 ,玉龙雪山玉液湖
 https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
@@ -101,7 +99,7 @@ https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 #EXTINF:-1 ,玉龙雪山の一滴水过丽江
 https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-#EXTINF:-1 ,玉龙雪山の冰川(回放)
+#EXTINF:-1 ,玉龙雪山の冰川
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 #EXTINF:-1 ,玉龙雪山草甸
 https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
@@ -109,29 +107,31 @@ https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
 #EXTINF:-1 ,玉龙雪山蓝月谷中游湖面
 https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1 ,玉龙雪山の高尔夫(回放)
+#EXTINF:-1 ,玉龙雪山の高尔夫
 https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
 #EXTINF:-1 ,江苏南京牛首山
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1 ,福建漳州六鳌翡翠湾(回放)
+#EXTINF:-1 ,福建漳州六鳌翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 ,福建漳州醉美沙滩翡翠湾(回放)
+#EXTINF:-1 ,福建漳州醉美沙滩翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 ,厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 #EXTINF:-1 ,青岛崂山灵旗峰
 https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
-#EXTINF:-1 ,青岛崂山八水河(回放)
+#EXTINF:-1 ,青岛崂山八水河
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 #EXTINF:-1 ,青岛崂山双福
 https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 #EXTINF:-1 ,青岛崂山太清
 https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
-#EXTINF:-1 ,三亚南山文化旅游区海上观音(回放)
+#EXTINF:-1 ,三亚南山文化旅游区海上观音
 https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
 #EXTINF:-1 ,天津之眼
 https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 #EXTINF:-1 ,天津之眼
 https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 ,天津海河(回放)
+#EXTINF:-1 ,天津海河
 https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
 #EXTINF:-1 ,仙都风景区
 https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
@@ -139,15 +139,15 @@ https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
 #EXTINF:-1 ,四川凉山彝族自治州西昌市邛海景区
 https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
-#EXTINF:-1 ,平遥古城(回放)
+#EXTINF:-1 ,平遥古城
 https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
 #EXTINF:-1 ,普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 #EXTINF:-1 ,普陀山
 https://gccncc.v.wscdns.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 ,浙江舟山东极岛(回放)
+#EXTINF:-1 ,浙江舟山东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1 ,浙江舟山东极岛(回放)
+#EXTINF:-1 ,浙江舟山东极岛
 https://gccncc.v.wscdns.com/gc/djd01_1/index.m3u8
 #EXTINF:-1 ,宁夏黄河大峡谷
 https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
@@ -161,7 +161,7 @@ https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/zyqcdx01_1/index.m3u8
 #EXTINF:-1 ,四川四姑娘山幺妹峰
 https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1 ,四川四姑娘山隆珠措(回放)
+#EXTINF:-1 ,四川四姑娘山隆珠措
 https://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
 #EXTINF:-1 ,宁夏沙坡头大漠孤烟
 https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
@@ -187,11 +187,11 @@ https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
 #EXTINF:-1 ,云台山红石峡
 https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1 ,福建武夷山印象大红袍(回放)
+#EXTINF:-1 ,福建武夷山印象大红袍
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8
-#EXTINF:-1 ,福建武夷山印象大红袍(回放)
+#EXTINF:-1 ,福建武夷山印象大红袍
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
-#EXTINF:-1 ,福建武夷山大红袍茶园(回放)
+#EXTINF:-1 ,福建武夷山大红袍茶园
 https://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
 #EXTINF:-1 ,福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
@@ -203,7 +203,7 @@ https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8
 #EXTINF:-1 ,黄山梦笔生花
 https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
-#EXTINF:-1 ,黄山排云亭(回放)
+#EXTINF:-1 ,黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 #EXTINF:-1 ,黄山平天矼
 https://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
@@ -221,9 +221,9 @@ https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
 #EXTINF:-1 ,泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-#EXTINF:-1 ,泰山十八盘(回放)
+#EXTINF:-1 ,泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-#EXTINF:-1 ,泰山十八盘(回放)
+#EXTINF:-1 ,泰山十八盘
 https://gccncc.v.wscdns.com/gc/taishan05_1/index.m3u8
 #EXTINF:-1 ,泰山天街
 https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
@@ -231,31 +231,31 @@ https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
 #EXTINF:-1 ,泰山拱北日出
 https://gccncc.v.wscdns.com/gc/hkts01_1/index.m3u8
-#EXTINF:-1 ,泰山白云亭悬崖(回放)
+#EXTINF:-1 ,泰山白云亭悬崖
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-#EXTINF:-1 ,泰山碧霞祠(回放)
+#EXTINF:-1 ,泰山碧霞祠
 https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-#EXTINF:-1 ,泰山经石峪(回放)
+#EXTINF:-1 ,泰山经石峪
 https://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
-#EXTINF:-1 ,泰山开山(回放)
+#EXTINF:-1 ,泰山开山
 https://gccncc.v.wscdns.com/gc/hkts05_1/index.m3u8
-#EXTINF:-1 ,泰山龙潭水库(回放)
+#EXTINF:-1 ,泰山龙潭水库
 https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
-#EXTINF:-1 ,泰山南天门(回放)
+#EXTINF:-1 ,泰山南天门
 https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 ,泰山南天门(回放)
+#EXTINF:-1 ,泰山南天门
 https://gccncc.v.wscdns.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 ,泰山扇子崖(回放)
+#EXTINF:-1 ,泰山扇子崖
 https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
-#EXTINF:-1 ,泰山太平岭(回放)
+#EXTINF:-1 ,泰山太平岭
 https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
-#EXTINF:-1 ,泰山太平岭(回放)
+#EXTINF:-1 ,泰山太平岭
 https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1 ,泰山玉皇顶东(回放)
+#EXTINF:-1 ,泰山玉皇顶东
 https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
-#EXTINF:-1 ,泰山玉皇顶西(回放)
+#EXTINF:-1 ,泰山玉皇顶西
 https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
-#EXTINF:-1 ,泰山玉皇顶西(回放)
+#EXTINF:-1 ,泰山玉皇顶西
 https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
 #EXTINF:-1 ,张家界武陵源景区水绕四门
 https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -285,31 +285,31 @@ https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
 #EXTINF:-1 ,四川阿坝州松潘县黄龙景区望乡台
 https://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
-#EXTINF:-1 ,乐山大佛全景(回放)
+#EXTINF:-1 ,乐山大佛全景
 https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
-#EXTINF:-1 ,乐山大佛全景(回放)
+#EXTINF:-1 ,乐山大佛全景
 https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
-#EXTINF:-1 ,江西龙虎山中间水泡(回放)
+#EXTINF:-1 ,江西龙虎山中间水泡
 https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
-#EXTINF:-1 ,江西龙虎山中间水泡(回放)
+#EXTINF:-1 ,江西龙虎山中间水泡
 https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
-#EXTINF:-1 ,江西龙虎山山涧栈道(回放)
+#EXTINF:-1 ,江西龙虎山山涧栈道
 https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
-#EXTINF:-1 ,江西龙虎山山涧栈道(回放)
+#EXTINF:-1 ,江西龙虎山山涧栈道
 https://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
-#EXTINF:-1 ,丹霞山丹梯铁锁(回放)
+#EXTINF:-1 ,丹霞山丹梯铁锁
 https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
-#EXTINF:-1 ,丹霞山丹梯铁锁(回放)
+#EXTINF:-1 ,丹霞山丹梯铁锁
 https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
-#EXTINF:-1 ,丹霞山韶音亭(回放)
+#EXTINF:-1 ,丹霞山韶音亭
 https://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
 #EXTINF:-1 ,云南红河哈尼梯田普高老寨
 https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
-#EXTINF:-1 ,云南红河哈尼梯田老虎嘴(回放)
+#EXTINF:-1 ,云南红河哈尼梯田老虎嘴
 https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
-#EXTINF:-1 ,云南红河哈尼梯田多依树景点(回放)
+#EXTINF:-1 ,云南红河哈尼梯田多依树景点
 https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-#EXTINF:-1 ,云南红河哈尼梯田坝达景点观景台(回放)
+#EXTINF:-1 ,云南红河哈尼梯田坝达景点观景台
 https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
 #EXTINF:-1 ,峨眉山云海日出
 https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
@@ -317,11 +317,11 @@ https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
 #EXTINF:-1 ,峨眉山远眺贡嘎雪山
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 ,峨眉山普贤菩萨铜像(回放)
+#EXTINF:-1 ,峨眉山普贤菩萨铜像
 https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
-#EXTINF:-1 ,峨眉山远眺万佛顶(回放)
+#EXTINF:-1 ,峨眉山远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-#EXTINF:-1 ,峨眉山远眺万佛顶(回放)
+#EXTINF:-1 ,峨眉山远眺万佛顶
 https://gccncc.v.wscdns.com/gc/emswfs_1/index.m3u8
 #EXTINF:-1 ,鸣沙山
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
@@ -329,17 +329,17 @@ https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
 #EXTINF:-1 ,鸣沙山山门
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1 ,都江堰鱼嘴(回放)
+#EXTINF:-1 ,都江堰鱼嘴
 https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1 ,都江堰鱼嘴(回放)
+#EXTINF:-1 ,都江堰鱼嘴
 https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
-#EXTINF:-1 ,都江堰鱼嘴(回放)
+#EXTINF:-1 ,都江堰鱼嘴
 https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1 ,都江堰飞沙堰(回放)
+#EXTINF:-1 ,都江堰飞沙堰
 https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
-#EXTINF:-1 ,都江堰秦堰楼(回放)
+#EXTINF:-1 ,都江堰秦堰楼
 https://gcalic.v.myalicdn.com/gc/djyqyl2_1/index.m3u8
-#EXTINF:-1 ,都江堰秦堰楼(回放)
+#EXTINF:-1 ,都江堰秦堰楼
 https://gccncc.v.wscdns.com/gc/djyqyl2_1/index.m3u8
 #EXTINF:-1 ,黄花城水长城01
 https://gccncc.v.wscdns.com/gc/wgw01_1/index.m3u8
@@ -359,73 +359,71 @@ https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 #EXTINF:-1 ,安徽黟县宏村西递半山亭
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
-#EXTINF:-1 ,安徽黟县宏村西递牌坊(回放)
+#EXTINF:-1 ,安徽黟县宏村西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 ,安徽黟县宏村西递牌坊(回放)
+#EXTINF:-1 ,安徽黟县宏村西递牌坊
 https://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 ,安徽黟县宏村月沼(回放)
+#EXTINF:-1 ,安徽黟县宏村月沼
 https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
 #EXTINF:-1 ,安徽黟县宏村南湖
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
-#EXTINF:-1 ,嘉峪关01(回放)
+#EXTINF:-1 ,嘉峪关01
 https://gccncc.v.wscdns.com/gc/jyg01_1/index.m3u8
-#EXTINF:-1 ,嘉峪关02(回放)
+#EXTINF:-1 ,嘉峪关02
 https://gccncc.v.wscdns.com/gc/jyg02_1/index.m3u8
-#EXTINF:-1 ,嘉峪关02(回放)
+#EXTINF:-1 ,嘉峪关02
 https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-#EXTINF:-1 ,嘉峪关03(回放)
+#EXTINF:-1 ,嘉峪关03
 https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
 #EXTINF:-1 ,浙江乌镇蓝印花布
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
 #EXTINF:-1 ,浙江乌镇蓝印花布
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 ,浙江乌镇全景(回放)
+#EXTINF:-1 ,浙江乌镇全景
 https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1 ,浙江乌镇西市河(回放)
+#EXTINF:-1 ,浙江乌镇西市河
 https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
 #EXTINF:-1 ,浙江乌镇龙形田
 https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-#EXTINF:-1 ,牡丹江雪乡梦幻家园观景台(回放)
+#EXTINF:-1 ,牡丹江雪乡梦幻家园观景台
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
 #EXTINF:-1 ,牡丹江雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1_md.m3u8
 #EXTINF:-1 ,牡丹江雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1 ,牡丹江雪乡大石碑(回放)
+#EXTINF:-1 ,牡丹江雪乡大石碑
 https://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
-#EXTINF:-1 ,神农架金丝猴01(回放)
+#EXTINF:-1 ,神农架金丝猴01
 https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
-#EXTINF:-1 ,神农架金丝猴02(回放)
+#EXTINF:-1 ,神农架金丝猴02
 https://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
-#EXTINF:-1 ,神农架金丝猴06(回放)
+#EXTINF:-1 ,神农架金丝猴06
 https://gccncc.v.wscdns.com/gc/jsh06_1/index.m3u8
-#EXTINF:-1 ,八达岭长城南七楼(回放)
+#EXTINF:-1 ,八达岭长城南七楼
 https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-#EXTINF:-1 ,八达岭长城北十楼(回放)
+#EXTINF:-1 ,八达岭长城北十楼
 https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
-#EXTINF:-1 ,中央电视塔中塔东(回放)
+#EXTINF:-1 ,中央电视塔中塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-#EXTINF:-1 ,中央电视塔中塔南(回放)
+#EXTINF:-1 ,中央电视塔中塔南
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-#EXTINF:-1 ,中央电视塔中塔西(回放)
+#EXTINF:-1 ,中央电视塔中塔西
 https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
-#EXTINF:-1 ,中央电视塔中塔西(回放)
+#EXTINF:-1 ,中央电视塔中塔西
 https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
-#EXTINF:-1 ,中央电视塔中塔西(回放)
+#EXTINF:-1 ,中央电视塔中塔西
 https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
-#EXTINF:-1 ,中央电视塔中塔北(回放)
+#EXTINF:-1 ,中央电视塔中塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
-#EXTINF:-1 ,恒山悬空寺全景(回放)
-https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1_md.m3u8
-#EXTINF:-1 ,恒山悬空寺全景(回放)
+#EXTINF:-1 ,恒山悬空寺全景
 https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1 ,恒山悬空寺恒宗(回放)
+#EXTINF:-1 ,恒山悬空寺恒宗
 https://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
-#EXTINF:-1 ,恒山悬空寺侧景(回放)
+#EXTINF:-1 ,恒山悬空寺侧景
 https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
-#EXTINF:-1 ,恒山悬空寺侧景(回放)
+#EXTINF:-1 ,恒山悬空寺侧景
 https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
-#EXTINF:-1 ,恒山悬空寺侧景(回放)
+#EXTINF:-1 ,恒山悬空寺侧景
 https://gccncc.v.wscdns.com/gc/hsxkscj_1/index.m3u8
 #EXTINF:-1 ,黄果树瀑布银链坠潭瀑布
 https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
@@ -441,25 +439,25 @@ https://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
 https://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
 #EXTINF:-1 ,天涯海角の天涯石
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1 ,天涯海角の南天一柱(回放)
+#EXTINF:-1 ,天涯海角の南天一柱
 https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
-#EXTINF:-1 ,天涯海角の日月石(回放)
+#EXTINF:-1 ,天涯海角の日月石
 https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
-#EXTINF:-1 ,嵩山少林寺广场(回放)
+#EXTINF:-1 ,嵩山少林寺广场
 https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
-#EXTINF:-1 ,嵩山少林寺峻极峰(回放)
+#EXTINF:-1 ,嵩山少林寺峻极峰
 https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
-#EXTINF:-1 ,嵩山少林寺峻极峰(回放)
+#EXTINF:-1 ,嵩山少林寺峻极峰
 https://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
-#EXTINF:-1 ,嵩山少林寺胜观峰(回放)
+#EXTINF:-1 ,嵩山少林寺胜观峰
 https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8
-#EXTINF:-1 ,嵩山少林寺胜观峰(回放)
+#EXTINF:-1 ,嵩山少林寺胜观峰
 https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
-#EXTINF:-1 ,江西婺源01(回放)
+#EXTINF:-1 ,江西婺源01
 https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
-#EXTINF:-1 ,江西婺源02(回放)
+#EXTINF:-1 ,江西婺源02
 https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1 ,江西婺源02(回放)
+#EXTINF:-1 ,江西婺源02
 https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
 #EXTINF:-1 ,陕西洋县国宝朱鹮01
 https://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
@@ -521,8 +519,6 @@ https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=28201805160
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,普贤菩萨像
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,悬空寺全景
-https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,恒宗
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,悬空寺侧景
