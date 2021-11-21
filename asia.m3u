@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/k7xcwkietqse40uo/playlist.m3u8
+#EXTINF:-1 ,NHK华语视界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 ,凤凰中文台
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+#EXTINF:-1 ,凤凰卫视蓝光1
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,凤凰香港蓝光1
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰香港蓝光2
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰资讯蓝光2
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 ,香港電台RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,香港電台RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8
+#EXTINF:-1 ,香港電台RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8
+#EXTINF:-1 ,香港電台RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-p.m3u8
+#EXTINF:-1 ,香港電台RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,香港卫视 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,香港C+蓝光
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,TVB翡翠台
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 ,翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+#EXTINF:-1 ,翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,明珠台 / TVB Pearl
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,明珠台 / TVB Pearl
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,明珠台 / TVB Pearl
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+#EXTINF:-1 ,明珠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,香港開电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,香港開电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,热血时报TV
+http://ptmirror3.passiontimes.hk/hls3/stream.m3u8
+#EXTINF:-1 ,热血时报TV 360P
+http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,阳光卫视
+https://stream.isuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,香港创世电视1080P
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+#EXTINF:-1 ,香港创世电视720P
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+#EXTINF:-1 ,香港创世电视480P
+https://cdn.deepcore.online/hlsme/ctv_hk_480.m3u8
+#EXTINF:-1 ,澳门卫星频道
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳亞衛視
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 ,澳视MACAU衛視
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳门资讯
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/chunklist_w2017936374.m3u8
+#EXTINF:-1 ,澳门综艺
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/chunklist_w331893723.m3u8
+#EXTINF:-1 ,澳视葡文RTP
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳视葡文RTP
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 ,台湾全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,希望电视台
+https://hcchinese.mmdlive.lldns.net/hcchinese/fffb5ed60dbd4960a7f8b2b58db31964/manifest.m3u8
+#EXTINF:-1 ,大爱一台HD
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,大爱二台HD
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 ,大爱海外台HD
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 ,生命电视台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 ,人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 ,佛卫慈悲台
+https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
+#EXTINF:-1 ,佛卫慈悲台
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
+#EXTINF:-1 ,佛卫慈悲台
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
+#EXTINF:-1 ,华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 ,华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w119159473.m3u8
+#EXTINF:-1 ,华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
+#EXTINF:-1 ,唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,唯心頻道
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 ,上德电视台
+https://streamak0118.akamaized.net/live0118lh-b32n/_definst_/live/playlist.m3u8
+#EXTINF:-1 ,上德电视台
+https://streamak0118.akamaized.net/live0118lh-b32n/_definst_/live/chunklist.m3u8
+#EXTINF:-1 ,孝廉电视台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 ,孝廉电视台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
+#EXTINF:-1 ,GOODTV好消息1综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 ,GOODTV好消息1综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 ,GOODTV好消息1综合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 ,GOODTV好消息2真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 ,GOODTV好消息2真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 ,GOODTV好消息2真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1 ,GOODTV好消息2真理台
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 ,GOODTV好消息3真情部落格短版
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 ,GOODTV好消息5共享观点短版
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 ,GOODTV好消息6亲近神诗歌音乐
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 ,GOODTV好消息7祷告大军信息
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 ,GOODTV好消息8幸福学堂短版
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 ,GOODTV好消息9爱+好医生
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 ,GOOD TV好消息10烤箱讀書會 短版
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 ,GOODTV好消息13健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 ,GOODTV好消息12生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 ,GOODTV好消息14美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 ,GOODTV好消息40卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 ,GOODTV好消息44烤箱读书会
+http://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1 ,净宗学院
+http://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+#EXTINF:-1 ,佛陀教育
+http://m3u8.ciguang.tv/360p/19/19-012/19-012-0105/19-012-0105.m3u8
+#EXTINF:-1 ,大经专修
+http://m3u8.ciguang.tv/360p/02/02-041/02-041-0216/02-041-0216.m3u8
+#EXTINF:-1 ,华严讲席
+http://m3u8.ciguang.tv/360p/12/12-047/12-047-0033/12-047-0033.m3u8
+#EXTINF:-1 ,传统文化
+http://m3u8.ciguang.tv/360p/CT/CT-005/CT-005-0001/CT-005-0001.m3u8
+#EXTINF:-1 ,群书治要
+http://m3u8.ciguang.tv/360p/55/55-057/55-057-0022/55-057-0022.m3u8
+#EXTINF:-1 ,文言书院
+http://m3u8.ciguang.tv/360p/56/56-181/56-181-0003/56-181-0003.m3u8
+#EXTINF:-1 ,德育动画
+http://m3u8.ciguang.tv/360p/DH/DH-004/DH-004-0001_3/DH-004-0001_3.m3u8
+#EXTINF:-1 ,香港佛陀教育协会(大陆线路)
+http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,香港佛陀教育协会(欧美线路)
+http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,净空老法师讲经直播台(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,净空老法师讲经直播台(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,净空老法师讲经直播台(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,净空老法师讲经直播台(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,净空老法师讲经
+http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
+#EXTINF:-1 ,净空老法师讲经
+http://amtbsg.cloudapp.net/redirect/liveedge/_definst_/livetv/chunklist_w872255516.m3u8
+#EXTINF:-1 ,净空老法师讲经
+http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
+#EXTINF:-1 ,悟道法师讲经(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 ,悟道法师讲经(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 ,悟道法师讲经(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 ,悟道法师讲经(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 ,繫念法會(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 ,繫念法會(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 ,繫念法會(欧美线路)
+https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 ,繫念法會(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 ,繫念法會(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 ,网络念佛堂(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 ,网络念佛堂(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 ,网络念佛堂(欧美线路)
+https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 ,网络念佛堂(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 ,网络念佛堂(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 ,番薯卫星电视台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 ,VOA中文
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+#EXTINF:-1 ,新唐人亚太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 ,新唐人美东台
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/sflive220/playlist.m3u8
+#EXTINF:-1 ,新唐人加东台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 ,新唐人加东台
+https://live.ntdimg.com/mllive220/playlist.m3u8
+#EXTINF:-1 ,新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 ,新唐人旧金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 ,优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+#EXTINF:-1 ,优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 ,全美电视台AAT TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,亞美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,澳大利亚天和电视台
+http://rtvcdn.com.au:8082/TV_GG.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
