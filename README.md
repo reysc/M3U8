@@ -30,7 +30,7 @@ Free版只支持单链接，Pro版支持多链接。
 https://play.google.com/store/apps/details?id=ar.tvplayer.tv  
 https://t.me/tivimate  
 	
-GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告) 
+GSE SMART IPTV(支持订阅,功能全面，有TV模式，操作稍繁琐，支持rtsp、rtmp，有内购去广告)  
 https://play.google.com/store/apps/details?id=com.gsetech.smartiptv
 
 IPTV(遥控器非完美支持，无内置播放器，需加载第三方播放器播放，如MX Player)  
