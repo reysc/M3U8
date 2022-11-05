@@ -1,13 +1,41 @@
 #EXTM3U
-#EXTINF:-1 ,【NewTV】愛情喜劇
-http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 ,【NewTV】动画王国
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 ,SiTV动漫秀场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 ,SiTV都市剧场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 ,SiTV欢笑剧场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,SiTV极速汽车FHD
-http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="groupName=轮播",生活在地下-张佺
+https://files.catbox.moe/fgl83u.mp4
+#EXTINF:-1 group-title="groupName=轮播",生活在地下-野孩子乐队
+https://files.catbox.moe/g22qkg.mp4
+#EXTINF:-1 group-title="groupName=轮播",生活在地下-谢天笑
+https://files.catbox.moe/kx0asu.mp4
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】動作電影HD[1280*720]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】驚悚懸疑HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】海外劇場[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】武博世界[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】动画[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】愛情喜劇[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】精品大劇HD[1280*720]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】中國功夫[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】金牌綜藝HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】軍事評論[720*404]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】農業致富[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】精品紀錄HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】精品體育HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=7951969344462313166
+#EXTINF:-1 group-title="groupName=轮播",【NewTV】潮媽辣婆[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
+#EXTINF:-1 group-title="groupName=轮播",黑莓电影HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
+#EXTINF:-1 group-title="groupName=轮播",黑莓动画HD[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
+#EXTINF:-1 group-title="groupName=轮播",黑莓电竞[1920*1080]
+http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
