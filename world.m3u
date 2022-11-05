@@ -1,613 +1,501 @@
 #EXTM3U
-#EXTINF:-1 ,CBS News
+#EXTINF:-1 group-title="groupName=国际",NASA TV(Public Auto)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="groupName=国际",NASA TV(Public High)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="groupName=国际",NASA TV(Media Auto)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="groupName=国际",NASA TV(Media High)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="groupName=国际",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="groupName=国际",天主教电视网CatholicTV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(英文,Auto)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(英文,1080P)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(英文,720P)
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(阿拉伯,Auto)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(阿拉伯,1080P)
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="groupName=国际",半岛新闻频道Al Jazeera(阿拉伯,720P)
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="groupName=国际",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="groupName=国际",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="groupName=国际",CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 ,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 ,CBS News
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
-#EXTINF:-1 ,CBN
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 ,CNA(Channel NewsAsia)
+#EXTINF:-1 group-title="groupName=国际",CNA(Channel NewsAsia)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,CNN Indonesia
+#EXTINF:-1 group-title="groupName=国际",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 ,Arirang
+#EXTINF:-1 group-title="groupName=国际",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 ,VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 ,Bloomberg TV
+#EXTINF:-1 group-title="groupName=国际",Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg USA
+#EXTINF:-1 group-title="groupName=国际",Bloomberg USA
 http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg Asia
+#EXTINF:-1 group-title="groupName=国际",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg Australia
+#EXTINF:-1 group-title="groupName=国际",Bloomberg Australia
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg Europe
+#EXTINF:-1 group-title="groupName=国际",Bloomberg Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg US
+#EXTINF:-1 group-title="groupName=国际",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,NDTV 24X7
+#EXTINF:-1 group-title="groupName=国际",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 ,Fashion TV (SK)
+#EXTINF:-1 group-title="groupName=国际",Fashion TV (SK)
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle (UA)
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 ,Jewelry电视
+#EXTINF:-1 group-title="groupName=国际",Jewelry电视
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,KPRF
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 ,LOVE NATURE 4K
+#EXTINF:-1 group-title="groupName=国际",LOVE NATURE 4K
 http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
-#EXTINF:-1 ,Luxury
+#EXTINF:-1 group-title="groupName=国际",Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 ,MEDIACORP
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 group-title="groupName=国际",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 group-title="groupName=国际",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 ,CGTN Documentary
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 ,CGTN Documentary
+#EXTINF:-1 group-title="groupName=国际",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 ,CGNTV韩国
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
-#EXTINF:-1 ,CGNTV日本
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
-#EXTINF:-1 ,CGTN Русский
+#EXTINF:-1 group-title="groupName=国际",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,俄罗斯 Ⅰ HD 时尚频道
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,俄罗斯IGITV蓝光
+#EXTINF:-1 group-title="groupName=国际",俄罗斯IGITV蓝光
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,俄罗斯ТВTV蓝光
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 ,法国 Ⅰ 第五世界台
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 ,法国24台英语
+#EXTINF:-1 group-title="groupName=国际",法国24台英语
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,法国时尚
+#EXTINF:-1 group-title="groupName=国际",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 ,ABC News (540p) [Not 24/7]
+#EXTINF:-1 group-title="groupName=国际",ABC News (540p) [Not 24/7]
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:-1 ,ABC Kids (720p) [Not 24/7]
+#EXTINF:-1 group-title="groupName=国际",ABC Kids (720p) [Not 24/7]
 https://c.mjh.nz/101002210222/
-#EXTINF:-1 ,ABC News (720p)
+#EXTINF:-1 group-title="groupName=国际",ABC News (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ,ABC News (720p) [Geo-blocked]
+#EXTINF:-1 group-title="groupName=国际",ABC News (720p) [Geo-blocked]
 https://c.mjh.nz/101002210220/
-#EXTINF:-1 ,澳大利亚天和电视
-http://www.rtvcdn.com.au:8082/TV0002.m3u8
-#EXTINF:-1 ,NDTV Profit
+#EXTINF:-1 group-title="groupName=国际",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
-#EXTINF:-1 ,DD Sports
+#EXTINF:-1 group-title="groupName=国际",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 ,MySports 1
+#EXTINF:-1 group-title="groupName=国际",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 ,Stadium
+#EXTINF:-1 group-title="groupName=国际",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,One Golf
+#EXTINF:-1 group-title="groupName=国际",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,ATG
+#EXTINF:-1 group-title="groupName=国际",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 ,Dubai Racing 2
+#EXTINF:-1 group-title="groupName=国际",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Red Bull TV
+#EXTINF:-1 group-title="groupName=国际",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Red Bull TV
+#EXTINF:-1 group-title="groupName=国际",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 ,FTV-巴黎
+#EXTINF:-1 group-title="groupName=国际",FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 ,FTV-巴黎
+#EXTINF:-1 group-title="groupName=国际",FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 ,FTV-巴黎
+#EXTINF:-1 group-title="groupName=国际",FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
-#EXTINF:-1 ,FTV-巴黎
+#EXTINF:-1 group-title="groupName=国际",FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-#EXTINF:-1 ,FTV-巴黎
+#EXTINF:-1 group-title="groupName=国际",FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 ,FTV-捷克&斯洛伐克
+#EXTINF:-1 group-title="groupName=国际",FTV-捷克&斯洛伐克
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 ,FTV-捷克&斯洛伐克
+#EXTINF:-1 group-title="groupName=国际",FTV-捷克&斯洛伐克
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 ,FTV-PG13
+#EXTINF:-1 group-title="groupName=国际",FTV-PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:-1 ,FTV-PG16
+#EXTINF:-1 group-title="groupName=国际",FTV-PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 ,美国 | 狗狗宠物
+#EXTINF:-1 group-title="groupName=国际",美国 | 狗狗宠物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,美国舒缓频道Silence HD TV
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 ,美国Retro TV(戏剧)
+#EXTINF:-1 group-title="groupName=国际",美国Retro TV(戏剧)
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1 ,美国Retro TV(戏剧)
+#EXTINF:-1 group-title="groupName=国际",美国Retro TV(戏剧)
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
-#EXTINF:-1 ,美国Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 ,美国Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 ,美国Beach TV HD
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1824157812.m3u8
-#EXTINF:-1 ,美国加州大学电视台UCTV
+#EXTINF:-1 group-title="groupName=国际",美国加州大学电视台UCTV
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 ,美国CBN News
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 ,美国亚特兰大Atlanta Channel
+#EXTINF:-1 group-title="groupName=国际",美国亚特兰大Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 ,美国亚特兰大Atlanta Channel
+#EXTINF:-1 group-title="groupName=国际",美国亚特兰大Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chunklist_w1753767985.m3u8
-#EXTINF:-1 ,美国Beach 30A TV
+#EXTINF:-1 group-title="groupName=国际",美国Beach 30A TV
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,美国Beach 30A TV
+#EXTINF:-1 group-title="groupName=国际",美国Beach 30A TV
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/chunklist_w1161018953.m3u8
-#EXTINF:-1 ,美国Beach TV Panama City
+#EXTINF:-1 group-title="groupName=国际",美国Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w97349464.m3u8
-#EXTINF:-1 ,美国Beach TV Panama City
+#EXTINF:-1 group-title="groupName=国际",美国Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1124538585.m3u8
-#EXTINF:-1 ,美国Newsmax TV
+#EXTINF:-1 group-title="groupName=国际",美国Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,美国Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1 ,美国Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 ,美国Fox News Talk Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 ,美国Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,美国Cheddar电视
-https://live.chdrstatic.com/cheddar/primary/4.m3u8
-#EXTINF:-1 ,美国Cheddar电视
-https://live.chdrstatic.com/cheddar/primary/5.m3u8
-#EXTINF:-1 ,美国Cheddar电视
-https://live.chdrstatic.com/cheddar/primary/6.m3u8
-#EXTINF:-1 ,美国CSBN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1 ,美国CSBN
+#EXTINF:-1 group-title="groupName=国际",美国CSBN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 ,美国东南路易斯安那大学教育有线电视频道Southeastern Channel
+#EXTINF:-1 group-title="groupName=国际",美国东南路易斯安那大学教育有线电视频道Southeastern Channel
 http://147.174.13.196/live/live.m3u8
-#EXTINF:-1 ,美国东南路易斯安那大学教育有线电视频道Southeastern Channel
+#EXTINF:-1 group-title="groupName=国际",美国东南路易斯安那大学教育有线电视频道Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 ,美国哥伦比亚特区网络电视District of Columbia Network
+#EXTINF:-1 group-title="groupName=国际",美国哥伦比亚特区网络电视District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 ,美国德克萨斯大学奥斯汀分校学生电视台TSTV
+#EXTINF:-1 group-title="groupName=国际",美国德克萨斯大学奥斯汀分校学生电视台TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 ,美国佛罗里达州Key TV
+#EXTINF:-1 group-title="groupName=国际",美国佛罗里达州Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 ,美国路易斯安那州新奥尔良New Orleans TV
+#EXTINF:-1 group-title="groupName=国际",美国路易斯安那州新奥尔良New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 ,美国Newsmax TV
+#EXTINF:-1 group-title="groupName=国际",美国Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,美国新罕布什尔州罗金厄姆县拉伊镇RyeTV
+#EXTINF:-1 group-title="groupName=国际",美国新罕布什尔州罗金厄姆县拉伊镇RyeTV
 http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,美国纽约州威彻斯特郡哈得孙河畔黑斯廷斯村WHOH TV
+#EXTINF:-1 group-title="groupName=国际",美国纽约州威彻斯特郡哈得孙河畔黑斯廷斯村WHOH TV
 http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,美国LifevisionTV
+#EXTINF:-1 group-title="groupName=国际",美国LifevisionTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 ,美国SIDEWALKS HD娱乐频道
+#EXTINF:-1 group-title="groupName=国际",美国SIDEWALKS HD娱乐频道
 http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 ,美国福音派基督教电视频道RadiantTV
+#EXTINF:-1 group-title="groupName=国际",美国福音派基督教电视频道RadiantTV
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,美国购物QVC TV HD UK
+#EXTINF:-1 group-title="groupName=国际",美国购物QVC TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 ,美国购物QVC Beauty TV HD UK
+#EXTINF:-1 group-title="groupName=国际",美国购物QVC Beauty TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 ,美国30A TV Music
+#EXTINF:-1 group-title="groupName=国际",美国30A TV Music
 http://30a-tv.com/music.m3u8
-#EXTINF:-1 ,美国30A TV Darcizzle
+#EXTINF:-1 group-title="groupName=国际",美国30A TV Darcizzle
 http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,美国CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
-#EXTINF:-1 ,美国AKC TV
+#EXTINF:-1 group-title="groupName=国际",美国AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,美国Akaku 53 Hawaii
+#EXTINF:-1 group-title="groupName=国际",美国Akaku 53 Hawaii
 https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 ,美国Akaku 54 Hawaii
+#EXTINF:-1 group-title="groupName=国际",美国Akaku 54 Hawaii
 https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 ,美国Akaku 55 Hawaii
+#EXTINF:-1 group-title="groupName=国际",美国Akaku 55 Hawaii
 https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 ,美国American Horrors
+#EXTINF:-1 group-title="groupName=国际",美国American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 ,美国Comet TV (Geo)
+#EXTINF:-1 group-title="groupName=国际",美国Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 ,美国Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 ,美国DC Council Channel
+#EXTINF:-1 group-title="groupName=国际",美国DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 ,美国Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 ,美国Fairfax Public Access
-http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国Globesville – New York Institute of Technology
+#EXTINF:-1 group-title="groupName=国际",美国Globesville – New York Institute of Technology
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
-#EXTINF:-1 ,美国Leominster TV Government
+#EXTINF:-1 group-title="groupName=国际",美国Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Government
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国Leominster TV Educational
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Educational
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国Leominster TV Public
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Public
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国LNKTV City
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV City
 http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国LNKTV Health
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Health
 http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国LNKTV Education
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Education
 http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,美国PBS Kids Live TV
+#EXTINF:-1 group-title="groupName=国际",美国PBS Kids Live TV
 https://kids.video.cdn.pbs.org/videos/pbs-kids/6acb2fe1-c8c2-435c-8c7b-f2c9dcbc7754/2000021937/hd-16x9-mezzanine-1080p/x3wa6y4o_livetv_bumper_microscope_v2-16x9-720p-720p-3000k.m3u8
-#EXTINF:-1 ,美国Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 ,美国TBD
+#EXTINF:-1 group-title="groupName=国际",美国TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 ,美国Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 ,美国狗狗宠物
-http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,美国布兰奇电视
+#EXTINF:-1 group-title="groupName=国际",美国布兰奇电视
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 ,中国环球 (美国)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,加拿大CBC News (VOD)
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 ,加拿大The Shopping Channel
+#EXTINF:-1 group-title="groupName=国际",加拿大The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 ,加拿大BBC Toronto印第安频道
+#EXTINF:-1 group-title="groupName=国际",加拿大BBC Toronto印第安频道
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 ,日本Japan News 24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,日本 Ⅰ 全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 ,日本天気予報
+#EXTINF:-1 group-title="groupName=国际",日本天気予報
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 ,日本天気予報
+#EXTINF:-1 group-title="groupName=国际",日本天気予報
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 ,日本成田国际机场
+#EXTINF:-1 group-title="groupName=国际",日本成田国际机场
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1 ,日本A&G声优广播
+#EXTINF:-1 group-title="groupName=国际",日本A&G声优广播
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-#EXTINF:-1 ,日本宝石购物频道GSTV 720P
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-#EXTINF:-1 ,日本宝石购物频道GSTV 720P
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b1628000.m3u8
-#EXTINF:-1 ,日本宝石购物频道GSTV 360P
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
-#EXTINF:-1 ,日本购物频道Japanet DX Channel
+#EXTINF:-1 group-title="groupName=国际",日本购物频道Japanet DX Channel
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 ,日本QVC Japan
+#EXTINF:-1 group-title="groupName=国际",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,日本购物1
+#EXTINF:-1 group-title="groupName=国际",日本购物1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 ,日本购物2
+#EXTINF:-1 group-title="groupName=国际",日本购物2
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1 ,日本购物3
+#EXTINF:-1 group-title="groupName=国际",日本购物3
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1 ,日本购物4
+#EXTINF:-1 group-title="groupName=国际",日本购物4
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-#EXTINF:-1 ,韩国EBS-1
+#EXTINF:-1 group-title="groupName=国际",韩国EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国ESB-1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBS-1
+#EXTINF:-1 group-title="groupName=国际",韩国EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 ,韩国EBS-2
+#EXTINF:-1 group-title="groupName=国际",韩国EBS-2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国ESB-2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBS-E
+#EXTINF:-1 group-title="groupName=国际",韩国EBS-E
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBS-E
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBSi
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,韩国EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,YTN DMB
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,韩国CBS
+#EXTINF:-1 group-title="groupName=国际",韩国CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 ,韩国CBS
+#EXTINF:-1 group-title="groupName=国际",韩国CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w224983120.m3u8
-#EXTINF:-1 ,韩国CBS
+#EXTINF:-1 group-title="groupName=国际",韩国CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1226916721.m3u8
-#EXTINF:-1 ,韩国GoodTV
+#EXTINF:-1 group-title="groupName=国际",韩国GoodTV
 http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 ,韩国购物GS Shop
-https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 ,印尼Berita Satu News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 ,印尼Berita Satu News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 ,印尼Berita Satu News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 ,印尼ANTV
+#EXTINF:-1 group-title="groupName=国际",印尼ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 ,印尼ANTV
+#EXTINF:-1 group-title="groupName=国际",印尼ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 ,印尼BeritaSatu NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 ,Vibee音乐频道
+#EXTINF:-1 group-title="groupName=国际",Vibee音乐频道
 http://de1se01.v2beat.live/chunks.m3u8
-#EXTINF:-1 ,法国France 24(英语)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,法国France 24
+#EXTINF:-1 group-title="groupName=国际",法国France 24
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,法国国家24频道Francophonie 24
+#EXTINF:-1 group-title="groupName=国际",法国国家24频道Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 ,法国法语天主教电视频道KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 ,法国notélé
+#EXTINF:-1 group-title="groupName=国际",法国notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 ,法国Djing E-Music HD
+#EXTINF:-1 group-title="groupName=国际",法国Djing E-Music HD
 http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 ,德国pop10
+#EXTINF:-1 group-title="groupName=国际",德国pop10
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国MDF.1
+#EXTINF:-1 group-title="groupName=国际",德国MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 ,德国Offener Kanal Magdeburg
+#EXTINF:-1 group-title="groupName=国际",德国Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国pop10
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国QVC
-http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 ,德国音乐MVzx
+#EXTINF:-1 group-title="groupName=国际",德国音乐MVzx
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 ,德国MDF1
+#EXTINF:-1 group-title="groupName=国际",德国MDF1
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
-#EXTINF:-1 ,德国MDF1
+#EXTINF:-1 group-title="groupName=国际",德国MDF1
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 ,德国kulturmd
+#EXTINF:-1 group-title="groupName=国际",德国kulturmd
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:-1 ,德国ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1 ,德国Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv.m3u8
-#EXTINF:-1 ,德国Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 ,德国1-2-3 TV
+#EXTINF:-1 group-title="groupName=国际",德国1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 ,西班牙穆尔西亚自治电视频道7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 ,西班牙Aliento Vision
+#EXTINF:-1 group-title="groupName=国际",西班牙Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 ,西班牙Aliento Vision
+#EXTINF:-1 group-title="groupName=国际",西班牙Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w544350465.m3u8
-#EXTINF:-1 ,西班牙PortalFoxMix Tv音乐台
+#EXTINF:-1 group-title="groupName=国际",西班牙PortalFoxMix Tv音乐台
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-#EXTINF:-1 ,西班牙PortalFoxMix Tv音乐台
+#EXTINF:-1 group-title="groupName=国际",西班牙PortalFoxMix Tv音乐台
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w611787622.m3u8
-#EXTINF:-1 ,西班牙中国环球电视网CGTN
+#EXTINF:-1 group-title="groupName=国际",西班牙中国环球电视网CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,西班牙Canal Parlamento (Updated)
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 ,西班牙TV Galicia Europa
+#EXTINF:-1 group-title="groupName=国际",西班牙TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙Extrema Tv-Movies
+#EXTINF:-1 group-title="groupName=国际",西班牙Extrema Tv-Movies
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 ,西班牙Redbull TV HD(体育)
+#EXTINF:-1 group-title="groupName=国际",西班牙Redbull TV HD(体育)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,西班牙Canal Málaga
+#EXTINF:-1 group-title="groupName=国际",西班牙Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙Televisión Municipal de Córdoba
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-#EXTINF:-1 ,西班牙Alternativa TV
+#EXTINF:-1 group-title="groupName=国际",西班牙Alternativa TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 ,西班牙Alcarria TV
+#EXTINF:-1 group-title="groupName=国际",西班牙Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 ,西班牙Canal 4 Mancha Centro HD
+#EXTINF:-1 group-title="groupName=国际",西班牙Canal 4 Mancha Centro HD
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8
-#EXTINF:-1 ,西班牙Telearanda
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 ,西班牙Mola TV
+#EXTINF:-1 group-title="groupName=国际",西班牙Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 ,西班牙TVG América
+#EXTINF:-1 group-title="groupName=国际",西班牙TVG América
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙TVG Infantil
+#EXTINF:-1 group-title="groupName=国际",西班牙TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙TVG Musigal HD
+#EXTINF:-1 group-title="groupName=国际",西班牙TVG Musigal HD
 http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙TVG Cultura HD
+#EXTINF:-1 group-title="groupName=国际",西班牙TVG Cultura HD
 http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙Distrito TV
+#EXTINF:-1 group-title="groupName=国际",西班牙Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 ,西班牙Logos TV
+#EXTINF:-1 group-title="groupName=国际",西班牙Logos TV
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 ,西班牙ETB 1 HD
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 ,西班牙ETB 2 HD
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 ,西班牙Erlo Telebista
+#EXTINF:-1 group-title="groupName=国际",西班牙Erlo Telebista
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
-#EXTINF:-1 ,西班牙ETB SAT Canal Vasco
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 ,意大利Brescia Punto TV
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 ,意大利Brescia Punto TV
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/chunklist_w585038599.m3u8
-#EXTINF:-1 ,意大利DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 ,意大利Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 ,意大利SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 ,意大利teleMonteneve
+#EXTINF:-1 group-title="groupName=国际",意大利teleMonteneve
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1 ,意大利telePAVIA
+#EXTINF:-1 group-title="groupName=国际",意大利telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 ,意大利TVRS
+#EXTINF:-1 group-title="groupName=国际",意大利TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 ,意大利Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1 ,意大利Canale 7
+#EXTINF:-1 group-title="groupName=国际",意大利Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 ,意大利Canale 10
+#EXTINF:-1 group-title="groupName=国际",意大利Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 ,意大利Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 ,意大利m2o电子音乐频道
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ,意大利m2o电子音乐频道
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 ,意大利M2OTV音乐电视频道
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 ,意大利教育电视频道UniNettuno University TV
+#EXTINF:-1 group-title="groupName=国际",意大利教育电视频道UniNettuno University TV
 http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 ,意大利Deejay TV音乐频道
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 ,意大利Radio Norba TV
+#EXTINF:-1 group-title="groupName=国际",意大利Radio Norba TV
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1 ,波兰TV Kujawy (Opt-1)
+#EXTINF:-1 group-title="groupName=国际",波兰TV Kujawy (Opt-1)
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 ,波兰TV Torun
+#EXTINF:-1 group-title="groupName=国际",波兰TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 ,荷兰Omroep Ede
+#EXTINF:-1 group-title="groupName=国际",荷兰Omroep Ede
 http://ms2.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 ,荷兰Omroep West
+#EXTINF:-1 group-title="groupName=国际",荷兰Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 ,丹麦博恩霍尔姆电视台TV2 Bornholm
+#EXTINF:-1 group-title="groupName=国际",丹麦博恩霍尔姆电视台TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 ,丹麦TV2 Lorry
+#EXTINF:-1 group-title="groupName=国际",丹麦TV2 Lorry
 http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
-#EXTINF:-1 ,丹麦TV2 Fyn
+#EXTINF:-1 group-title="groupName=国际",丹麦TV2 Fyn
 http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
-#EXTINF:-1 ,爱尔兰TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 ,比利时Radio Contact 102.2 FM Brussels
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 ,比利时RTL-TVI
-http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 ,乌克兰Lale kids’ TV
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 ,乌克兰100%News
+#EXTINF:-1 group-title="groupName=国际",乌克兰100%News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 ,乌克兰M2-Ukraina音乐频道
+#EXTINF:-1 group-title="groupName=国际",乌克兰M2-Ukraina音乐频道
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 ,洪都拉斯USAP大学CampusTV
-http://st2.worldkast.com/8004/8004/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mirtv
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Mirtv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mir
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mir
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
-#EXTINF:-1 ,俄罗斯HTM HD
+#EXTINF:-1 group-title="groupName=国际",俄罗斯HTM HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Новое Радио ТВ音乐电视频道
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 ,俄罗斯Astrakhan 24 (Opt-2)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Astrakhan 24 (Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 ,俄罗斯HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,俄罗斯Krasnaja Linija
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mir 24 (Opt-1)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Mir 24 (Opt-1)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,俄罗斯MostVideo TV 1
+#EXTINF:-1 group-title="groupName=国际",俄罗斯MostVideo TV 1
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,俄罗斯Muz Sojuz
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Muz Sojuz
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 ,俄罗斯Nastoyashcheye Vremya
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-1)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯RBC (Opt-1)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-2)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯RBC (Opt-2)
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-3)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯RBC (Opt-3)
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 ,俄罗斯Shanson TV (Opt-2)
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Shanson TV (Opt-2)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 ,俄罗斯Tivikom Ulan-Udje
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 ,俄罗斯Tjumenskoe Vremja
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 ,俄罗斯TRO Soyuz
+#EXTINF:-1 group-title="groupName=国际",俄罗斯TRO Soyuz
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Ugra TV
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Radio Kanal HIT-R
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Radio Kanal HIT-R
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 ,俄罗斯Actpaxahb 24
+#EXTINF:-1 group-title="groupName=国际",俄罗斯Actpaxahb 24
 http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ,墨西哥Capital 21 Mexico City
+#EXTINF:-1 group-title="groupName=国际",墨西哥Capital 21 Mexico City
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,墨西哥Uno TV (VOD)
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-#EXTINF:-1 ,希腊LYXNOC
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 ,希腊Ionian Channel
+#EXTINF:-1 group-title="groupName=国际",希腊Ionian Channel
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 ,捷克Retro (Opt-1)
+#EXTINF:-1 group-title="groupName=国际",捷克Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,斯洛伐克TV 8
+#EXTINF:-1 group-title="groupName=国际",斯洛伐克TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 ,斯洛伐克TVNZ
+#EXTINF:-1 group-title="groupName=国际",斯洛伐克TVNZ
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 ,阿根廷Canal Provincial San Miguel
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 ,阿根廷Garage TV
+#EXTINF:-1 group-title="groupName=国际",阿根廷Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 ,阿根廷Radio TV Neuquen
+#EXTINF:-1 group-title="groupName=国际",阿根廷Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 ,科威特KUWAIT ONE
+#EXTINF:-1 group-title="groupName=国际",科威特KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1 ,阿尔巴尼亚TVSH Albania
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 ,拉脱维亚TV Net
+#EXTINF:-1 group-title="groupName=国际",拉脱维亚TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 ,克罗地亚HRT2
+#EXTINF:-1 group-title="groupName=国际",克罗地亚HRT2
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 ,哥斯达黎加 Telesur
+#EXTINF:-1 group-title="groupName=国际",哥斯达黎加 Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 ,罗马尼亚TV Kit
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 ,摩尔多瓦Pro TV
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1 ,摩尔多瓦Publika TV
+#EXTINF:-1 group-title="groupName=国际",摩尔多瓦Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 ,摩尔多瓦Publika TV
+#EXTINF:-1 group-title="groupName=国际",摩尔多瓦Publika TV
 http://livebeta.publika.md/LIVE/P/2000.m3u8
-#EXTINF:-1 ,拉丁美洲TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 ,喀麦隆 Vision 4
+#EXTINF:-1 group-title="groupName=国际",喀麦隆 Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 ,伊拉克 Al Sharqiya
+#EXTINF:-1 group-title="groupName=国际",伊拉克 Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 ,伊拉克Alsharqiya News
+#EXTINF:-1 group-title="groupName=国际",伊拉克Alsharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 ,伊拉克Alsharqiya News
+#EXTINF:-1 group-title="groupName=国际",伊拉克Alsharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w426198404.m3u8
-#EXTINF:-1 ,摩洛哥Al Aoula International
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 ,摩洛哥Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 ,摩洛哥Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 ,加纳TV Africa (Ghana)
+#EXTINF:-1 group-title="groupName=国际",加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 ,加纳TV Africa (Ghana)
+#EXTINF:-1 group-title="groupName=国际",加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/chunklist_w388697139.m3u8
-#EXTINF:-1 ,伊朗PBC Tapesh TV
+#EXTINF:-1 group-title="groupName=国际",伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 ,伊朗Rangarang TV
-http://iptv.rangarang.us/live/playlist.m3u8
-#EXTINF:-1 ,巴基斯坦Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 ,印度ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 ,土耳其Cay TV
+#EXTINF:-1 group-title="groupName=国际",土耳其Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 ,CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 ,Fashion TV Paris
+#EXTINF:-1 group-title="groupName=国际",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Afrobeats 24/7
+#EXTINF:-1 group-title="groupName=国际",Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 ,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 group-title="groupName=国际",Dragon TV International
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",Toonmax TV
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",Xing Kong International
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国狗狗宠物
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1 group-title="groupName=国际",NewTV超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国CSBN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title="groupName=国际",美国Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 group-title="groupName=国际",美国Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV City
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Health
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Education
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="groupName=国际",德国pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="groupName=国际",德国Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="groupName=国际",墨西哥Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1 group-title="groupName=国际",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国CSBN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title="groupName=国际",美国Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 group-title="groupName=国际",美国Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV City
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Health
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国LNKTV Education
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="groupName=国际",美国TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="groupName=国际",德国pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="groupName=国际",德国Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="groupName=国际",墨西哥Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
