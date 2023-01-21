@@ -589,11 +589,11 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 ,澳门葡语
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 ,澳门葡语
+#EXTINF:-1 group-title="groupName=华语",澳门葡语
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,澳门卫视
+#EXTINF:-1 group-title="groupName=华语",澳门卫视
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 ,澳门卫视
+#EXTINF:-1 group-title="groupName=华语",澳门卫视
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="groupName=RTHK香港電台",19970630香港回歸慶典1 (Hong Kong Handover Ceremony1)
 http://app4.rthk.hk/podcast/media/rthkmemory/c_v20.mp4
