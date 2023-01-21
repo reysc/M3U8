@@ -1387,47 +1387,47 @@ http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channe
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
 #EXTINF:-1 group-title="groupName=轮播",黑莓电竞[1920*1080]
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
-#EXTINF:-1 ,VOA美国之音
+#EXTINF:-1 group-title="groupName=电台",VOA美国之音
 http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
-#EXTINF:-1 ,VOA美国之音
+#EXTINF:-1 group-title="groupName=电台",VOA美国之音
 http://stream.radiojar.com/7thwu53r92quv
-#EXTINF:-1 ,VOA美国之音
+#EXTINF:-1 group-title="groupName=电台",VOA美国之音
 https://n01.radiojar.com/7thwu53r92quv
-#EXTINF:-1 ,RFA自由亚洲电台
+#EXTINF:-1 group-title="groupName=电台",RFA自由亚洲电台
 https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-#EXTINF:-1 ,RFI法国国际广播电台
+#EXTINF:-1 group-title="groupName=电台",RFI法国国际广播电台
 http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
-#EXTINF:-1 ,RFI法国国际广播电台
+#EXTINF:-1 group-title="groupName=电台",RFI法国国际广播电台
 http://live02.rfi.fr/rfienchinois-64.mp3
-#EXTINF:-1 ,VOI印尼之声华语广播
+#EXTINF:-1 group-title="groupName=电台",VOI印尼之声华语广播
 http://streaming.rri.co.id:9125/voi.mp3
-#EXTINF:-1 ,罗马尼亚国际广播电台
+#EXTINF:-1 group-title="groupName=电台",罗马尼亚国际广播电台
 http://stream2.srr.ro:8054/stream.mp3
-#EXTINF:-1 ,RTI中央廣播電臺
+#EXTINF:-1 group-title="groupName=电台",RTI中央廣播電臺
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
-#EXTINF:-1 ,凤凰优悦广播电台
+#EXTINF:-1 group-title="groupName=电台",凤凰优悦广播电台
 http://uradio-streamer0.ifengus.com:8000/ulive.mp3
-#EXTINF:-1 ,香港电台第一台
+#EXTINF:-1 group-title="groupName=电台",香港电台第一台
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-#EXTINF:-1 ,香港电台第一台
+#EXTINF:-1 group-title="groupName=电台",香港电台第一台
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
-#EXTINF:-1 ,香港电台第二台
+#EXTINF:-1 group-title="groupName=电台",香港电台第二台
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-#EXTINF:-1 ,香港电台第三台
+#EXTINF:-1 group-title="groupName=电台",香港电台第三台
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1 ,香港电台第四台·音乐
+#EXTINF:-1 group-title="groupName=电台",香港电台第四台·音乐
 https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1 ,香港电台第五台
+#EXTINF:-1 group-title="groupName=电台",香港电台第五台
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1 ,香港电台普通话台
+#EXTINF:-1 group-title="groupName=电台",香港电台普通话台
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 ,香港D100 PBS台
+#EXTINF:-1 group-title="groupName=电台",香港D100 PBS台
 http://59.152.232.107:8000/Channel1-128MP3
-#EXTINF:-1 ,講台
+#EXTINF:-1 group-title="groupName=电台",講台
 http://103.11.102.62:8000/talkonly.mp3
-#EXTINF:-1 ,热血时报电台
+#EXTINF:-1 group-title="groupName=电台",热血时报电台
 http://mpegts2.passiontimes.hk/stream
-#EXTINF:-1 ,希望之声
+#EXTINF:-1 group-title="groupName=电台",希望之声
 http://radio.soundofhope.org:8880/SOH_32K
 #EXTINF:-1 ,基督教福音良友电台
 http://listen.txly1.net:8000/ly729_a
