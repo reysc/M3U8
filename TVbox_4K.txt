@@ -1,111 +1,127 @@
 4K,#genre#
-CCTV_4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8#http://159.75.85.63:5679/cctv4k.php#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000#http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV16_4K,https://live.v1.mk/aishang/cctv164k#http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8#http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8#https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
-4K超高清电影,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000#http://182.150.115.26:8091/custom28.m3u8#http://159.75.85.63:5681/sxg.php
-CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV4 8M,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5 8M,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-CCTV5+ 8M,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6 8M,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7 8M,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8 8M,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9 8M,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10 8M,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11 8M,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12 8M,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13 8M,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14 8M,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15 8M,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16 8M,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-江苏卫视 8M,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-广西卫视 8M,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
-四川卫视 8M,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-湖南卫视 8M,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视 8M,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-东方卫视 8M,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-北京卫视 8M,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-天津卫视 8M,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视 8M,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视 8M,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视 8M,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-广东卫视 8M,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视 8M,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
-湖北卫视 8M,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
-吉林卫视 8M,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-山东卫视 8M,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
-江西卫视 8M,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
-河北卫视 8M,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视 8M,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
-重庆卫视 8M,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-东南卫视 8M,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
-云南卫视 8M,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视 8M,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
-海南卫视 8M,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-欢笑剧场 8M,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8#http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8#https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-劲爆体育 8M,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-快乐垂钓 8M,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
-金鹰纪实 8M,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
-戏曲精选 8M,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
-上海第一财经 8M,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-上视新闻 8M,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-上海都市 8M,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
-上海纪实 8M,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
-东方影视 8M,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-五星体育 8M,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-上视外语 8M,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-七彩戏剧 8M,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-上海教育 8M,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
-全纪实 8M,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
-生活时尚 8M,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
-新视觉 8M,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-游戏风云 8M,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
-热门综艺 8M,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
-超级体育 8M,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-健康养生 8M,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-百变课堂 8M,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
-看天下精选 8M,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-华语影院 8M,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-电竞天堂 8M,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-青春动漫 8M,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-宝宝动画 8M,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-星光影院 8M,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-谍战剧场 8M,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-全球大片 8M,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-陶瓷高清 8M,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
-中国教育-1 8M,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
-中国教育-4 8M,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
-卡酷少儿 8M,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-纪实科教 8M,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
-茶频道 8M,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
-足球高清 8M,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-炫动卡通 8M,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-东方财经 8M,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-都市剧场 8M,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
-动漫秀场 8M,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
-金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
-魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
-广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
-咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8#http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8#http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+CCTV_4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000#https://epg.pw/stream/d927980725ee233b8b989e637788d4f9551c5f841300d015a8afb274aaf80ab4.ctv#http://159.75.85.63:5679/cctv4k.php#http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8#https://epg.pw/stream/b44e4515b1326987d183c6ec4f8ef4247fb4d5cfd621442f6714c0bf46a40dc8.m3u8#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8#http://159.75.85.63:5679/cctv4k.php#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000#http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000#http://74.119.193.113:8280/live/cctv8k/hls.m3u8
+CCTV16_4K,https://live.v1.mk/aishang/cctv164k#http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8#http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv164k#https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8#https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8#http://159.75.85.63:5681/sxg.php?id=CCTV16-4K_8000
+CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8#https://live.v1.mk/aishang/as4k
-纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.134.115.163:8080/TVOD/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.134.115.163:8080/TVOD/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8#http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8#http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1#http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1#http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
-CCTV-4K 超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D#https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
+咪咕体育4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8#http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8#http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+BTV纪实科教4K,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+北京IPTV_4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+上海第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+上视新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+上视外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
+广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
+湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
+浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
+东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
+北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
+天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
+辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
+安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
+湖北卫视,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
+吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
+山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
+河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
+甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
+东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
+云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
+海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000#http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
+宁夏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
+山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
+新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
+西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
+青海卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
+三沙卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
+教育卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
+兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
+重庆新闻高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
+重庆科教高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
+重庆影视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
+重庆文体娱乐高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
+重庆少儿高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
+重庆时尚生活高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
+重庆新农村高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+热门综艺,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+纪实科教,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
+茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+法治天地,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+金色学堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
+魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+4K超高清电影,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000#http://182.150.115.26:8091/custom28.m3u8#http://159.75.85.63:5681/sxg.php
+4K影视,http://159.75.85.63:5828/4kys.php
 影院4k,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8#http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8#https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000#https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000#https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000#http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
+虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
+虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
+斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
+斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE_4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D#https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
@@ -120,77 +136,6 @@ ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
 Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL#http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm#http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
-欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-4K影视,http://159.75.85.63:5828/4kys.php
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-CCTV-1 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV5+ 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV-6 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV-7 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV-8 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV-9 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV-10 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV-13 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV-15 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV-16 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV-17 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-东南卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
-东方卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
-云南卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-北京卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
-吉林卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
-四川卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
-天津卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
-宁夏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
-安徽卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
-山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
-广东卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-广西卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
-新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
-江苏卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
-江西卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-河北卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
-河南卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-浙江卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
-海南卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
-深圳卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
-湖北卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-湖南卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
-西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
-贵州卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
-辽宁卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
-重庆卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
-青海卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
-黑龙江卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
-三沙卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
-教育卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
-兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
-重庆新闻高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-重庆科教高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
-重庆影视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
-重庆文体娱乐高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
-重庆少儿高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-重庆时尚生活高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
-重庆新农村高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
 Astro Super Sport 4K-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
 Astro Super Sport 4K-3,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
@@ -238,450 +183,3 @@ Vip Nox Sinema 4k,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/21341.m3u8
 4K Sinema 8,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65405.m3u8#http://nox.nox102.xyz:80/live/mert924bn/231020.ft/65405.m3u8#http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123212.m3u8#http://nx4545.xyz:80/mert924bn/231020.ft/65405
 4K Sinema 9,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65407.m3u8#http://nox.nox102.xyz:80/live/mert924bn/231020.ft/65407.m3u8#http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123214.m3u8#http://nx4545.xyz:80/mert924bn/231020.ft/65407
 4K Sinema 10,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65408.m3u8#http://nox.nox102.xyz:80/live/mert924bn/231020.ft/65408.m3u8#http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123215.m3u8#http://nx4545.xyz:80/mert924bn/231020.ft/65408
-8K | ✦●✦●      AMAZON PRIME KABEL      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/214742.m3u8
-✦●✦●      GENERAL      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/215649.m3u8
-4K | DAS ERSTE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27105.m3u8
-4K | ZDF,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27109.m3u8
-4K | ZDF INFO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27108.m3u8
-4K | ZDF NEO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27110.m3u8
-4K | RTL NITRO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27114.m3u8
-4K | ✦●✦●      DOKU      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180799.m3u8
-4K | CRIME INVESTIGATION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115153.m3u8
-4K | RTL LIVING,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27163.m3u8
-4K | RTL UP,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/120740.m3u8
-4K | RTL PASSION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27115.m3u8
-4K | RTL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27111.m3u8
-4K | RTL II,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27112.m3u8
-4K | VOX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27123.m3u8
-4K | SAT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27121.m3u8
-4K | SAT 1 GOLD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27122.m3u8
-4K | SAT 1 EMOTIONS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115130.m3u8
-4K | PRO7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27119.m3u8
-4K | PRO7 MAXX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27120.m3u8
-4K | PRO7 FUN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27118.m3u8
-4K | KABEL EINS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27127.m3u8
-4K | KABEL EINS DOKU,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27125.m3u8
-4K | KABEL EINS CLASSICS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27126.m3u8
-4K | ONE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/120739.m3u8
-4K | TLC,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27162.m3u8
-4K | ANIXE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115139.m3u8
-4K | TAGESSCHAU24,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27203.m3u8
-4K | WELT DER WUNDER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115154.m3u8
-4K | WELT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115150.m3u8
-4K | ALPHA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/184229.m3u8
-4K | ARTE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27106.m3u8
-4K | 3SAT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27107.m3u8
-4K | TELE 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27167.m3u8
-4K | PHOENIX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27124.m3u8
-4K | N24 DOKU,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27202.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189650.m3u8
-4K | N-TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123573.m3u8
-4K | DMAX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27128.m3u8
-4K | SIXX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27117.m3u8
-4K | PLANET,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115149.m3u8
-4K | ANIMAL PLANET,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27180.m3u8
-4K | SERVUSTV DEUTSCHLAND,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115138.m3u8
-4K | WDR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/2851.m3u8
-4K | WDR Bonn,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27168.m3u8
-4K | MDR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115182.m3u8
-4K | NDR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27165.m3u8
-4K | HR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115185.m3u8
-4K | RBB HD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115183.m3u8
-4K | BR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115184.m3u8
-4K | ✦●✦●      CINEMA      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/214743.m3u8
-4K | SKY CINEMA FAMILY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27188.m3u8
-4K | SKY CINEMA FAMILY (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115385.m3u8
-4K | SKY CINEMA THRILLER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115392.m3u8
-4K | SKY CINEMA PREMIEREN (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115390.m3u8
-4K | SKY CINEMA PREMIEREN FSD (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115391.m3u8
-4K | SKY CINEMA PREMIEREN 24 (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115388.m3u8
-4K | SKY CINEMA BEST OF (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115382.m3u8
-4K | SKY CINEMA CLASSICS FSD (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115384.m3u8
-4K | SKY CINEMA ACTION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27186.m3u8
-4K | SKY CINEMA FUN FSD (LOCAL),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115386.m3u8
-4K | SKY ATLANTIC,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27183.m3u8
-4K | HEIMAT KANAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27173.m3u8
-4K | KINOWELT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27179.m3u8
-4K | UNIVERSAL CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27200.m3u8
-4K | RTL CRIME,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27113.m3u8
-4K | SKY KRIMI,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27190.m3u8
-4K | SONY AXN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115169.m3u8
-4K | FOX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27169.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84649.m3u8
-4K | SYFY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27199.m3u8
-4K | 13TH STREET,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27171.m3u8
-4K | TNT SERIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115167.m3u8
-4K | TNT FILM,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27198.m3u8
-4K | TNT COMEDY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27197.m3u8
-4K | SONY CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115168.m3u8
-4K | NAT GEO WILD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27161.m3u8
-4K | NAT GEO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27160.m3u8
-4K | HISTORY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27159.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189637.m3u8
-4K | DISCOVERY CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27157.m3u8
-4K | SPIEGEL TV WISSEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115155.m3u8
-4K | SPIEGEL GESCHICHTE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27164.m3u8
-4K | ✦●✦●      SKY SELECT      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180809.m3u8
-4K | SKY SELECT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27192.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123574.m3u8
-4K | SKY SELECT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27193.m3u8
-4K | SKY SELECT 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123575.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27194.m3u8
-4K | SKY SELECT 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27195.m3u8
-4K | SKY SELECT 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27196.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123576.m3u8
-4K | SKY SELECT 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101889.m3u8
-4K | SKY SELECT 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101890.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123577.m3u8
-4K | SKY SELECT 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101891.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123578.m3u8
-4K | SKY SELECT 9,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101892.m3u8
-4K | SKY SELECT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123579.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123580.m3u8
-4K | SKY SELECT 10,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101893.m3u8
-4K | AXN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27172.m3u8
-4K | ORF 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115135.m3u8
-4K | ORF 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115136.m3u8
-4K | ORF III,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115137.m3u8
-4K | ✦●✦●      SP⚽RT      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/214745.m3u8
-4K | DAZN 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27140.m3u8
-4K | DAZN 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27141.m3u8
-4K | ✦●✦●      SKY SP⚽RT      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180811.m3u8
-4K | SKY SPORT NEWS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27130.m3u8
-4K | SKY FORMULE 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/170987.m3u8
-4K | SKY SPORT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135126.m3u8
-4K | SKY BUNDESLIGA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123582.m3u8
-4K | SKY BUNDESLIGA 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27142.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123583.m3u8
-4K | SKY BUNDESLIGA 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/175966.m3u8
-4K | SKY BUNDESLIGA 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27144.m3u8
-4K | SKY BUNDESLIGA 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27145.m3u8
-4K | SKY BUNDESLIGA 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27146.m3u8
-4K | SKY BUNDESLIGA 5 (MATCHDAYS ONLY),http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123584.m3u8
-4K | SKY BUNDESLIGA 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27147.m3u8
-4K | SKY BUNDESLIGA 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27148.m3u8
-4K | SKY BUNDESLIGA 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27149.m3u8
-4K | SKY BUNDESLIGA 9,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27150.m3u8
-4K | SKY BUNDESLIGA 10,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27151.m3u8
-4K | SKY SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27131.m3u8
-4K | SKY SPORT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27132.m3u8
-4K | SKY SPORT 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27133.m3u8
-4K | SKY SPORT 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27134.m3u8
-4K | SKY SPORT 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27135.m3u8
-4K | SKY SPORT 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27136.m3u8
-4K | SKY SPORT 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27137.m3u8
-4K | SKY SPORT 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27138.m3u8
-4K | SKY SPORT 9,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115394.m3u8
-4K | SKY SPORT TENNIS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/255364.m3u8
-4K | SKY SPORT TOP EVENT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/255365.m3u8
-4K | SKY SPORT MIX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/255366.m3u8
-4K | SKY SPORT GOLF,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/255367.m3u8
-4K | EURO SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27152.m3u8
-4K | EURO SPORT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27153.m3u8
-4K | EURO SPORT 2 XTRA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27154.m3u8
-4K | SPORT1+,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123585.m3u8
-4K | ORF SPORT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115178.m3u8
-4K | SPORT DIGITAL FUSSBALL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115179.m3u8
-4K | MOTORVISION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27155.m3u8
-4K | FC BAYERN TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115177.m3u8
-4K | AUTO MOTOR SPORT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115180.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189667.m3u8
-4K | ✦●✦●      TELEKOM SP⚽RT      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180810.m3u8
-4K | TELEKOM BASKETBALL (BBL) 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123964.m3u8
-4K | TELEKOM BASKETBALL (BBL) 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123965.m3u8
-4K | TELEKOM BASKETBALL (BBL) 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123966.m3u8
-4K | TELEKOM EISHOCKEY (DEL) 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123968.m3u8
-4K | TELEKOM EISHOCKEY (DEL) 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123974.m3u8
-4K | TELEKOM DEL SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115171.m3u8
-4K | TELEKOM DEL SPORT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115172.m3u8
-4K | TELEKOM DEL SPORT 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115173.m3u8
-4K | TELEKOM DEL SPORT 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115174.m3u8
-4K | TELEKOM DEL SPORT 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115175.m3u8
-4K | TELEKOM DEL SPORT 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115176.m3u8
-4K | ✦●✦●      MUZIK      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180805.m3u8
-4K | JUKEBOX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115158.m3u8
-4K | CLASSICA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115140.m3u8
-4K | MTV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115157.m3u8
-4K | DELUXE MUSIC,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27206.m3u8
-4K | E! ENTERTAINMENT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27158.m3u8
-4K | WAIDWERK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115151.m3u8
-4K | ✦●✦●      REGIONALEN      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180806.m3u8
-4K | SONNENKLAR TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115144.m3u8
-4K | ✦●✦●      KIDS      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180800.m3u8
-4K | CARTOON NETWORK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27175.m3u8
-4K | DISNEY JUNIOR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115186.m3u8
-4K | COMEDY CENTRAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115156.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189625.m3u8
-4K | NICKELODEON,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/120748.m3u8
-4K | SUPER RTL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27116.m3u8
-4K | ✦●✦●      NACHRICHTEN      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180807.m3u8
-4K | EURONEWS GERMANY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115142.m3u8
-4K | ✦●✦●      UNTERHALTUNG      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180808.m3u8
-4K | ✦●✦●      EAGLE CINEMA      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180797.m3u8
-4K | EAGLE CINEMA ABENTEUER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130420.m3u8
-4K | EAGLE CINEMA AKTION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130421.m3u8
-4K | EAGLE CINEMA ANIMATION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130422.m3u8
-4K | EAGLE CINEMA DRAMA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130424.m3u8
-4K | EAGLE CINEMA HORROR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130428.m3u8
-4K | EAGLE CINEMA KOMODIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130430.m3u8
-4K | EAGLE CINEMA LÄCHELN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130431.m3u8
-4K | EAGLE CINEMA PREMIERE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130433.m3u8
-4K | EAGLE CINEMA SCI-FI,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130436.m3u8
-4K | EAGLE CINEMA THRILLER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/130438.m3u8
-4K | SKY PREMIEREN 24,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115161.m3u8
-4K | SKY SPECIAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115163.m3u8
-4K | SKY FUN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115164.m3u8
-4K | SKY SERIEN&SHOWS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115165.m3u8
-4K | SKY CLASSICS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115166.m3u8
-4K | SKY SERIEN & SHOWS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/123975.m3u8
-4K | ATV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115133.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84647.m3u8
-4K | ATV 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115134.m3u8
-4K | SILVERLINE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115170.m3u8
-4K | MAX SELECT 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/115421.m3u8
-4K | SKY 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/27182.m3u8
-4K | TOGGO PLUS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/186496.m3u8
-4K | SKY NOSTALGIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/186500.m3u8
-4K | BOOMERANG,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/186503.m3u8
-4K | DISNEY CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/186504.m3u8
-4K | JUNIOR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/190350.m3u8
-8K | DAS ERSTE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135154.m3u8
-8K | ZDF,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135166.m3u8
-8K | ZDFINFO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194110.m3u8
-8K | ZDF NEO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135168.m3u8
-8K | SUPER RTL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135160.m3u8
-8K | NITRO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135156.m3u8
-8K | RTL LIVING,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194068.m3u8
-8K | RTL PASSION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194071.m3u8
-8K | RTL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135174.m3u8
-8K | RTL 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135158.m3u8
-8K | VOX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135165.m3u8
-8K | SAT.1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135138.m3u8
-8K | SAT.1 GOLD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135137.m3u8
-8K | SAT.1 EMOTIONS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194072.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194075.m3u8
-8K | PRO SIEBEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135136.m3u8
-8K | PRO7 MAXX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135135.m3u8
-8K | PROSIEBEN FUN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194073.m3u8
-8K | KABEL EINS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135153.m3u8
-8K | KABEL EINS DOKU,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135177.m3u8
-8K | KABEL EINS CLASSICS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194074.m3u8#http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194076.m3u8
-8K | ONE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194109.m3u8
-8K | TAGESSCHAU24,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194108.m3u8
-8K | ARD-ALPHA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194111.m3u8
-8K | ARTE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194097.m3u8
-8K | 3SAT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194096.m3u8
-8K | PHOENIX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194098.m3u8
-8K | N-TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135167.m3u8
-8K | DMAX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135189.m3u8
-8K | SIXX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135139.m3u8
-8K | MDR SACHSEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194100.m3u8
-8K | NDR FERNSEHEN NIEDERSACHSEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194099.m3u8
-8K | SWR BADEN-W,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194103.m3u8
-8K | SR FERNSEHEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194106.m3u8
-8K | HR-FERNSEHEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194104.m3u8
-8K | RBB BERLIN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194105.m3u8
-8K | BR FERNSEHEN NORD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194115.m3u8
-8K | MDR SACHSEN-ANHALT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194116.m3u8
-8K | MDR TH,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194117.m3u8
-8K | NDR FERNSEHEN HAMBURG,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194118.m3u8
-8K | NDR FERNSEHEN SCHLESWIG-HOLSTEIN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194120.m3u8
-8K | RBB BRANDENBURG,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194121.m3u8
-8K | SWR RHEINLAND-PFALZ,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194122.m3u8
-8K | WDR FERNSEHEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194101.m3u8
-8K | WDR FERNSEHEN AACHEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194123.m3u8
-8K | WDR FERNSEHEN BIELEFELD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194124.m3u8
-8K | WDR FERNSEHEN DORTMUND,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194126.m3u8
-8K | WDR FERNSEHEN DUSSELDORF,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194127.m3u8
-8K | WDR FERNSEHEN DUISBURG,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194128.m3u8
-8K | WDR FERNSEHEN ESSEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194129.m3u8
-8K | WDR FERNSEHEN MUNSTER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194130.m3u8
-8K | WDR FERNSEHEN SIEGEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194131.m3u8
-8K | WDR FERNSEHEN WUPPERTAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194132.m3u8
-8K | BR FERNSEHEN S,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194102.m3u8
-8K | ✦●✦●      SP⚽RT      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180736.m3u8
-8K | SKY SPORT AUSTRIA 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135149.m3u8
-8K | ORF SPORT+,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135157.m3u8
-8K | SPORT DIGITAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194094.m3u8
-8K | MOTORVISION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194086.m3u8
-8K | EURO SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135130.m3u8
-8K | EURO SPORT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135131.m3u8
-8K | ORF1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135134.m3u8
-8K | SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135159.m3u8
-8K | ESPSPORT RTS1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194078.m3u8
-8K | DAZN 1 BAR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135173.m3u8
-8K | DAZN 2 BAR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135172.m3u8
-8K | SKY 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135141.m3u8
-8K | SKY SPORT BUNDESLIGA 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135169.m3u8
-8K | SKY SPORT BUNDESLIGA 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135181.m3u8
-8K | SKY SPORT BUNDESLIGA 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135182.m3u8
-8K | SKY SPORT BUNDESLIGA 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135183.m3u8
-8K | SKY SPORT BUNDESLIGA 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135184.m3u8
-8K | SKY SPORT BUNDESLIGA 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135185.m3u8
-8K | SKY SPORT BUNDESLIGA 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135186.m3u8
-8K | SKY SPORT BUNDESLIGA 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135187.m3u8
-8K | SKY SPORT BUNDESLIGA 9,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135188.m3u8
-8K | SKY SPORT BUNDESLIGA 10,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135180.m3u8
-8K | SKY SPORT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135171.m3u8
-8K | SKY SPORT 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135170.m3u8
-8K | SKY CINEMA ACTION,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135143.m3u8
-8K | SKY CINEMA SPECIAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135148.m3u8
-8K | SKY CINEMA FAMILY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135145.m3u8
-8K | SKY CINEMA THRILLER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135161.m3u8
-8K | SKY CINEMA PREMIEREN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135147.m3u8
-8K | SKY ATLANTIC,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135142.m3u8
-8K | HEIMATKANAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194080.m3u8
-8K | ROMANCE TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194081.m3u8
-8K | UNIVERSAL TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135152.m3u8
-8K | RTL CRIME,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194069.m3u8
-8K | SKY KRIMI,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135162.m3u8
-8K | SONY AXN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194084.m3u8
-8K | SYFY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135140.m3u8
-8K | 13TH STREET,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135129.m3u8
-8K | TNT SERIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135151.m3u8
-8K | TNT COMEDY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135150.m3u8
-8K | SONY CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194112.m3u8
-8K | GOLDSTAR TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194079.m3u8
-8K | E! ENTERTAINMENT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194083.m3u8
-8K | SILVERLINE TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194085.m3u8
-8K | GUTE LAUNE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194087.m3u8
-8K | MTV+,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194089.m3u8
-8K | TV 1000 RUSSIAN KINO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194090.m3u8
-8K | H&C TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194091.m3u8
-8K | STINGRAY CLASSICA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194092.m3u8
-8K | NAUTICAL CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194093.m3u8
-8K | KIKA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194095.m3u8
-8K | MTV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194113.m3u8
-8K | BR SUD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194114.m3u8
-8K | ✦●✦●      DOKUMENTAR      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/180737.m3u8
-8K | GEO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/194070.m3u8
-8K | NAT GEO,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135179.m3u8
-8K | NAT GEO WILD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135178.m3u8
-8K | HISTORY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135176.m3u8
-8K | DISCOVERY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/135175.m3u8
-4K | ✦●✦●      PLUTO TV      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/214744.m3u8
-4K | ANIMALS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189620.m3u8
-4K | CATS 24/7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189622.m3u8
-4K | CHEFKOCH,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189623.m3u8
-4K | COMEDY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189624.m3u8
-4K | COMEDY CENTRAL MADE IN GERMANY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189626.m3u8
-4K | CRIME,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189627.m3u8
-4K | DARK MATTER,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189628.m3u8
-4K | DOCUMENTARIES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189629.m3u8
-4K | DOGS 24/7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189630.m3u8
-4K | DRAMA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189631.m3u8
-4K | EXPLORE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189632.m3u8
-4K | FAILARMY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189633.m3u8
-4K | FOCUS TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189635.m3u8
-4K | FOOD,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189636.m3u8
-4K | HOME,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189638.m3u8
-4K | ICARLY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189639.m3u8
-4K | ICE PILOTS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189640.m3u8
-4K | INDIES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189641.m3u8
-4K | INSIGHT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189642.m3u8
-4K | LIVES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189645.m3u8
-4K | MOVIES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189647.m3u8
-4K | MOVIES CH,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189648.m3u8
-4K | MST3K,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189649.m3u8
-4K | NATURE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189651.m3u8
-4K | PARANORMAL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189652.m3u8
-4K | RETRO DRAMA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189654.m3u8
-4K | ROMANCE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189655.m3u8
-4K | SAM & CAT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189656.m3u8
-4K | SITCOMS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189658.m3u8
-4K | SLOW TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189659.m3u8
-4K | THE ASYLUM CHANNEL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189661.m3u8
-4K | THE PET COLLECTIVE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189662.m3u8
-4K | THE STORY OF BEATCLUB,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189663.m3u8
-4K | THRILLERS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189664.m3u8
-4K | VICTORIOUS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189665.m3u8
-4K | ACTION SPORTS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189666.m3u8
-4K | GLORY KICKBOXING,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189668.m3u8
-4K | IGN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189669.m3u8
-4K | MINECRAFTV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189670.m3u8
-4K | PLUTO TV FIGHT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189671.m3u8
-4K | PLUTO TV FITNESS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189672.m3u8
-4K | PLUTO TV LIVE IN CONCERT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189673.m3u8
-4K | PLUTO TV SPORTS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189674.m3u8
-4K | PLUTO TV SURF,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189675.m3u8
-4K | PLUTO TV YOGA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189676.m3u8
-4K | RIFFTRAX,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189677.m3u8
-4K | STRONGMAN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189678.m3u8
-4K | TAKESHI'S CASTLE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189679.m3u8
-4K | UNBEATEN ESPORTS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189680.m3u8
-4K | WIPEOUT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189681.m3u8
-4K | WORLD POKER TOUR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189682.m3u8
-4K | MTV CATFISH,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189684.m3u8
-4K | MTV CRIBS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189685.m3u8
-4K | MTV PLUTO.TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189686.m3u8
-4K | MTV DATING,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189687.m3u8
-4K | MTV RIDICULOUSNESS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189688.m3u8
-4K | MTV TEEN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189689.m3u8
-4K | MTV THE HILLS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189691.m3u8
-4K | MTV THE SHORES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189692.m3u8
-4K | MTV UNPLUGGED,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189693.m3u8
-4K | AVATAR,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189694.m3u8
-4K | BEYBLADE BURST NICK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189695.m3u8
-4K | BLAZE NICK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189696.m3u8
-4K | BLUE'S CLUES NICK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189697.m3u8
-4K | BUBBLE GUPPIES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189698.m3u8
-4K | INSPECTOR GADGET,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189700.m3u8
-4K | KIDS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189701.m3u8
-4K | RETRO TOONS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189704.m3u8
-4K | NICK EMMA EINFACH MAGISCH!,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189705.m3u8
-4K | NICK JR. PLUTO TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189706.m3u8
-4K | NICK PLUTO TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189707.m3u8
-4K | NICKREWIND,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189708.m3u8
-4K | SABRINA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189709.m3u8
-4K | TEEN NICK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189711.m3u8
-4K | TOTALLY TURTLES NICK,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/189712.m3u8
-4K | SKY DOCUMENTARIES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/209876.m3u8
-4K | SKY NATURE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/209877.m3u8
-4K | SKY CRIME,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/209878.m3u8
-4K | HGTV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/209879.m3u8
-4K | WARNER TV COMEDY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/275652.m3u8
-4K | WARNER TV FILM,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/275653.m3u8
-4K | WARNER TV SERIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/275654.m3u8
-4K | ✦●✦●      AMAZON PRIME SPORTS      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/214741.m3u8
-4K | PRIME 1 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192323.m3u8
-4K | PRIME 1 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192324.m3u8
-4K | PRIME 2 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192325.m3u8
-4K | PRIME 2 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192326.m3u8
-4K | PRIME 3 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192327.m3u8
-4K | PRIME 3 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192328.m3u8
-4K | PRIME 4 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192329.m3u8
-4K | PRIME 4 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192330.m3u8
-4K | PRIME 5 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192331.m3u8
-4K | PRIME 5 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192332.m3u8
-4K | PRIME 6 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192333.m3u8
-4K | PRIME 6 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192334.m3u8
-4K | PRIME 7 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192335.m3u8
-4K | PRIME 7 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192336.m3u8
-4K | PRIME 8 4K [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192337.m3u8
-4K | PRIME 8 HD [LIVE-EVENT],http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192338.m3u8
-4K | EURO SPORT 360 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192371.m3u8
-4K | EURO SPORT 360 2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192372.m3u8
-4K | EURO SPORT 360 3,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192373.m3u8
-4K | EURO SPORT 360 4,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192374.m3u8
-4K | EURO SPORT 360 5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192375.m3u8
-4K | EURO SPORT 360 6,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192376.m3u8
-4K | EURO SPORT 360 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192377.m3u8
-4K | EURO SPORT 360 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192378.m3u8
-4K | EURO SPORT 360 9,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192379.m3u8
-4K | EURO SPORT 360 10,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192380.m3u8
-4K | EURO SPORT 360 11,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192381.m3u8
-4K | EURO SPORT 360 12,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192382.m3u8
-4K | EURO SPORT 360 13,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192383.m3u8
-4K | EURO SPORT 360 14,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192384.m3u8
-4K | EURO SPORT 360 15,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192385.m3u8
-4K | EURO SPORT 360 16,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/192386.m3u8
-4K | KIDS-TV | DIE DALTONS,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196879.m3u8
-4K | KIDS-TV | MR BEAN,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196880.m3u8
-4K | KIDS-TV | LARV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196881.m3u8
-4K | KIDS-TV | BOOBA,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196882.m3u8
-4K | KIDS-TV | TOM AND JERRY,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196883.m3u8
-4K | KIDS-TV | PEPPA PIG,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196884.m3u8
-4K | KIDS-TV | LOONEY TUNES,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196885.m3u8
-4K | KIDS-TV | SESAMSTRASSE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196886.m3u8
-4K | KIDS-TV | FEUERWEHRMANN SAM,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196887.m3u8
-4K | KIDS-TV | BARBIE,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/196888.m3u8
-4K | ✦●✦●      ULUSAL      ✦●✦●,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/181531.m3u8
-4K | TRT 4K,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/176158.m3u8
-4K | TRT 1,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84644.m3u8
-4K | SHOW TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84645.m3u8
-4K | KANAL D,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84646.m3u8
-4K | STAR TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84648.m3u8
-4K | BEYAZ TV,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84650.m3u8
-4K | TV 8,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84651.m3u8
-4K | TV 8.5,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84652.m3u8
-4K | TV 8 INT,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101930.m3u8
-4K | KANAL 7,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84653.m3u8
-4K | A2,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/84654.m3u8
-4K | TRT EBATV ORTAOKUL,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101928.m3u8
-4K | TV 4+,http://bedhdkwbdhdkdk.team-tv.link:80/live/Emilio/Emilio/101931.m3u8
