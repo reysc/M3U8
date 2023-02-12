@@ -2953,11 +2953,9 @@ SCTV-7hd,http://139.9.188.172:5678/sxg.php?id=SCTV-7-_4000
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-脑力大胆君,http://111.62.156.15/tx.flv.huya.com/src/1099531739765-1099531739765-86380335012511744-2199063602986-10057-A-0-1.flv?wsSecret=b327f671a997e87558d61e626418fe6f&wsTime=6283b053&u=0&seqid=16527111235678930&ctype=tars_mp&fs=bgct&t=102
 星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-热播精选,http://39.137.49.76:8080/PLTV/88888888/224/3221225712/index.m3u8?
+热播精选,http://39.137.49.76:8080/PLTV/88888888/224/3221225712/index.m3u8
 热播精选,http://111.40.196.25/PLTV/88888888/224/3221225624/index.m3u8
 热播精选,http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 早期教育 标清,https://live.v1.mk/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
@@ -2994,7 +2992,7 @@ SCTV-7hd,http://139.9.188.172:5678/sxg.php?id=SCTV-7-_4000
 陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
-咪咕•体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 北京海洋馆,http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 北京纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 北京IPTV淘电影,http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
@@ -3080,7 +3078,7 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Spankin,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-斗鱼&虎牙&埋堆堆,#genre#
+斗鱼&虎牙&埋堆堆
 斗鱼云旅行1,http://epg.112114.xyz/douyu/9257160
 斗鱼云旅行2,http://epg.112114.xyz/douyu/9358196
 斗鱼云旅游3,http://epg.112114.xyz/douyu/6563725
@@ -3094,18 +3092,18 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 小品2,http://epg.112114.xyz/douyu/1486165
 宋小宝,http://epg.112114.xyz/douyu/9817729
 赵本山,http://epg.112114.xyz/douyu/9817716
-绝地求生•PGC,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+绝地求生PGC,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-梦幻西游•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+梦幻西游手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 英雄联盟,http://tc-tct.douyucdn2.cn/dyliveflv1a/9128222rt7NBHJIq_2000.flv?wsAuth=d317a15fb8514c6d11bbc5848fcd6aa2&token=cpn-androidmpro-0-9128222-114891ee596d2037b2f67b107cd98197aaaf48e0cd5c0c58&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-英雄联盟•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/10982710rOBbNjCh.flv?wsAuth=4fe85fbb8954b9209ad62a6a15277e95&token=cpn-androidmpro-0-10982710-125adce98aed74bad15925c865fb2bc5d91b96ac65ad1ad5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+英雄联盟手游,http://tc-tct.douyucdn2.cn/dyliveflv1/10982710rOBbNjCh.flv?wsAuth=4fe85fbb8954b9209ad62a6a15277e95&token=cpn-androidmpro-0-10982710-125adce98aed74bad15925c865fb2bc5d91b96ac65ad1ad5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-QQ飞车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+LOL云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+QQ飞车手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 狼人杀官方赛事,http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 王者荣耀官方赛事,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -3167,9 +3165,9 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 虎牙电影27,http://epg.112114.xyz/huya/11352886
 虎牙电影28,http://epg.112114.xyz/huya/11602044
 音乐石榴,http://live.aptvapp.com/huya.php?id=17091681
-治愈•放松,http://live.aptvapp.com/huya.php?id=21241811
+治愈放松,http://live.aptvapp.com/huya.php?id=21241811
 新歌速递,http://live.aptvapp.com/huya.php?id=19439762
-阅读•学习,http://live.aptvapp.com/huya.php?id=21241813
+阅读学习,http://live.aptvapp.com/huya.php?id=21241813
 「动画」茶啊二中,https://epg.112114.xyz/huya/11213191
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
@@ -3229,16 +3227,16 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 「动画」王者峡谷生活,http://epg.112114.xyz/douyu/9360149
-「录播」 RunningMan•韩综,http://epg.112114.xyz/douyu/131977
-「录播」 RunningMan•韩综,http://epg.112114.xyz/douyu/7298973
+「录播」 RunningMan韩综,http://epg.112114.xyz/douyu/131977
+「录播」 RunningMan韩综,http://epg.112114.xyz/douyu/7298973
 「解说」大象放映室,http://live.aptvapp.com/huya.php?id=21277391
 「解说」电视剧,http://live.aptvapp.com/huya.php?id=25018873
-「解说」电影•1,http://live.aptvapp.com/huya.php?id=20289754
-「解说」电影•2,http://live.aptvapp.com/huya.php?id=24983280
-「解说」电影•3,http://live.aptvapp.com/huya.php?id=24396428
-「解说」动漫•1,https://epg.112114.xyz/huya/19757963
-「解说」动漫•2,http://epg.112114.xyz/douyu/9716515
-「解说」动漫•3,http://epg.112114.xyz/douyu/9455567
+「解说」电影1,http://live.aptvapp.com/huya.php?id=20289754
+「解说」电影2,http://live.aptvapp.com/huya.php?id=24983280
+「解说」电影3,http://live.aptvapp.com/huya.php?id=24396428
+「解说」动漫1,https://epg.112114.xyz/huya/19757963
+「解说」动漫2,http://epg.112114.xyz/douyu/9716515
+「解说」动漫3,http://epg.112114.xyz/douyu/9455567
 「解说」科幻Fans,http://epg.112114.xyz/douyu/3508304
 「解说」恐怖电影,http://live.aptvapp.com/huya.php?id=23419131
 「解说」漫威,http://live.aptvapp.com/huya.php?id=17089779
@@ -3247,22 +3245,22 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 「解说」七龙珠,http://live.aptvapp.com/huya.php?id=25650806
 「解说」奇幻电影,http://epg.112114.xyz/douyu/3194372
 「解说」止戈电影,http://live.aptvapp.com/huya.php?id=19863777
-「录播」 斯诺克•1,http://live.aptvapp.com/huya.php?id=880214
-「录播」 斯诺克•2,http://live.aptvapp.com/huya.php?id=880625
-「录像」 挨饿德•1,http://live.aptvapp.com/huya.php?id=20985858
-「录像」 挨饿德•2,http://live.aptvapp.com/huya.php?id=17693860
+「录播」 斯诺克1,http://live.aptvapp.com/huya.php?id=880214
+「录播」 斯诺克2,http://live.aptvapp.com/huya.php?id=880625
+「录像」 挨饿德1,http://live.aptvapp.com/huya.php?id=20985858
+「录像」 挨饿德2,http://live.aptvapp.com/huya.php?id=17693860
 「录像」 互扇巴掌大赛,http://live.aptvapp.com/huya.php?id=20072873
 「录像」 荒野求生,http://live.aptvapp.com/huya.php?id=593667
 「录像」 赛车系列,http://live.aptvapp.com/huya.php?id=18152408
 「录像」 野行者,http://live.aptvapp.com/huya.php?id=20072663
-「录像」 WWE•1,http://live.aptvapp.com/huya.php?id=18386768
-「录像」 WWE•2,http://live.aptvapp.com/huya.php?id=19197452d
+「录像」 WWE1,http://live.aptvapp.com/huya.php?id=18386768
+「录像」 WWE2,http://live.aptvapp.com/huya.php?id=19197452d
 「轮播」跳舞,http://live.aptvapp.com/huya.php?id=24634408
 「轮播」乐高大师赛,https://epg.112114.xyz/huya/26355776
-「轮播」手办•日配,https://epg.112114.xyz/huya/26355832
+「轮播」手办日配,https://epg.112114.xyz/huya/26355832
 「轮播」国产悬疑,http://live.aptvapp.com/huya.php?id=11342395
 「轮播」名侦探柯南,http://epg.112114.xyz/douyu/7050342
-「轮播」 Hunter•动漫,http://epg.112114.xyz/douyu/6610883
+「轮播」 Hunter动漫,http://epg.112114.xyz/douyu/6610883
 「轮播」蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
 奥特曼,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key
 奥特曼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
@@ -3275,8 +3273,8 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 成龙,http://106.53.212.251/daili/yy.php?id=1354888751
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 「动画」宠物小精灵,http://epg.112114.xyz/douyu/9765742
-「轮播」电影•1,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-「轮播」电影•2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+「轮播」电影1,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+「轮播」电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 「轮播」经典动漫,http://tc-tct.douyucdn2.cn/dyliveflv3a/1174353rvfDfBUMa.flv?wsAuth=5e4b0650aeea0049fc0ee71f70daea58&token=cpn-androidmpro-0-1174353-4620877bf9ebd8e891d0159ae8dd3ee8092d33042c3557d1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 动漫轮播,http://epg.112114.xyz/douyu/206858
 「轮播」动漫推荐,http://epg.112114.xyz/douyu/5187099
@@ -3303,7 +3301,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 「轮播」华语经典,http://epg.112114.xyz/douyu/434971
 「轮播」怀旧90,http://epg.112114.xyz/douyu/9275635
 怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-「轮播」环球纪录片•我去看世界,http://tc-tct.douyucdn2.cn/dyliveflv3/601930rwicFHJGB8.flv?wsAuth=525cd3b43141e4320868639b8b61060e&token=cpn-androidmpro-0-601930-ca6364825deedd44363bca70c28ae01dde0dce181b5bd5b6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+「轮播」环球纪录片我去看世界,http://tc-tct.douyucdn2.cn/dyliveflv3/601930rwicFHJGB8.flv?wsAuth=525cd3b43141e4320868639b8b61060e&token=cpn-androidmpro-0-601930-ca6364825deedd44363bca70c28ae01dde0dce181b5bd5b6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 「动漫」假面骑士,http://epg.112114.xyz/douyu/1218414
 经典神剧,http://epg.112114.xyz/douyu/3700024
 「广播」经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
@@ -3319,12 +3317,12 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 蜡笔小新「中配」,http://zzy789.xyz/bili.php?id=21570935
 蜡笔小新「中配」,http://zzy789.xyz/bili.php?id=1895574
 莱山影视,https://jsylivealone302.iqilu.com/laishan/laishan_tv02.m3u8
-「轮播」李老鼠•说车,http://tc-tct.douyucdn2.cn/dyliveflv3a/643871rqTOExUKgU.flv?wsAuth=4bb092e3d726e389cd2eee4d1421ffad&token=cpn-androidmpro-0-643871-dfcf0f69723de17a1266556be6e7b6d6688c8c4deae03bf5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+「轮播」李老鼠说车,http://tc-tct.douyucdn2.cn/dyliveflv3a/643871rqTOExUKgU.flv?wsAuth=4bb092e3d726e389cd2eee4d1421ffad&token=cpn-androidmpro-0-643871-dfcf0f69723de17a1266556be6e7b6d6688c8c4deae03bf5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
 溧水影视,https://live.lsrmw.cn/ysyl/sd/live.m3u8
-林正英•1,http://epg.112114.xyz/douyu/7356023
-林正英•2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-林正英•3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
+林正英1,http://epg.112114.xyz/douyu/7356023
+林正英2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
 柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
@@ -3334,7 +3332,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 猫和老鼠,http://epg.112114.xyz/douyu/7888428
 猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 猫和老鼠,https://cn-hbcd-cu-02-24.bilivideo.com/live-bvc/573662/live_8244646_5219019.m3u8?expires=1665747968&len=0&oi=1860501032&pt=h5&qn=10000&trid=1003c56a1b0fb80340c5a79e549215a4979e&sigparams=cdn
-「轮播」冒险•雷探长,http://tc-tct.douyucdn2.cn/dyliveflv1a/5028934rycTKS10z.flv?wsAuth=fca419aee212ec16d1a4a16a222fe17a&token=cpn-androidmpro-0-5028934-6f2c979be2bac93e305af1e33b2ebe68ba4dd328d626c87a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+「轮播」冒险雷探长,http://tc-tct.douyucdn2.cn/dyliveflv1a/5028934rycTKS10z.flv?wsAuth=fca419aee212ec16d1a4a16a222fe17a&token=cpn-androidmpro-0-5028934-6f2c979be2bac93e305af1e33b2ebe68ba4dd328d626c87a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 「轮播」每日影院,http://182.151.211.171:808/hls/128/index.m3u8
 「轮播」米娅电影,http://epg.112114.xyz/douyu/6537888
 名侦探柯南,http://epg.112114.xyz/douyu/6484910
@@ -3344,8 +3342,8 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 名侦探柯南,http://epg.112114.xyz/douyu/7620081
 名侦探柯南,http://epg.112114.xyz/douyu/5377297
 「轮播」恐怖电影,http://epg.112114.xyz/douyu/263824
-「欧美」电影•1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-「欧美」电影•2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+「欧美」电影1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+「欧美」电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 七龙珠改,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
 七龙珠改,https://epg.112114.xyz/huya/11601966
 热播大片,http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
@@ -3380,11 +3378,11 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 NBA精彩集锦,http://tc-tct.douyucdn2.cn/dyliveflv3/9406897rUF0gfqY7.flv?wsAuth=a9db96853b608e82e5aa50fb0bebbf0f&token=cpn-androidmpro-0-9406897-fdbec4da1cffa1c371d022f9ea3c2742985575b7558c895f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 「电影」棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-「电影」熊出没•变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-「电影」熊出没•过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-「电影」猪猪侠•英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-「电影」大卫贝肯•倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-「电影」昆塔•反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+「电影」熊出没变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+「电影」熊出没过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+「电影」猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+「电影」大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+「电影」昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 宝宝巴士,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
 宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
