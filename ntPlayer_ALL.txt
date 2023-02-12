@@ -1,4 +1,4 @@
-4K&HD,#genre#
+4K&HD
 CCTV_4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV_4K,https://epg.pw/stream/d927980725ee233b8b989e637788d4f9551c5f841300d015a8afb274aaf80ab4.ctv
 CCTV_4K,http://159.75.85.63:5679/cctv4k.php
@@ -267,8 +267,7 @@ Vip Nox Sinema 4k,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/21341.m3u8
 4K Sinema 10,http://nox.nox102.xyz:80/live/mert924bn/231020.ft/65408.m3u8
 4K Sinema 10,http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123215.m3u8
 4K Sinema 10,http://nx4545.xyz:80/mert924bn/231020.ft/65408
-
-CCTV&央媒,#genre#
+CCTV&央媒
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
@@ -1160,8 +1159,7 @@ CNC英文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index
 中国教育4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
 中国教育4,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cnr/cetv4/600/index.m3u8?ProgramID=&encrypt=
 中国教育4,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
-
-华语,#genre#
+华语
 NHK华语视界,https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
@@ -1595,8 +1593,7 @@ XTR旧金山台,https://live.ntdtv.com/sflive990/playlist.m3u8
 XTR休斯顿台,https://live.ntdtv.com/htlive480/playlist.m3u8
 XTR亚太台,https://live.ntdtv.com/aplive200/playlist.m3u8
 XTR中国台,https://live.ntdtv.com/cnlive900/playlist.m3u8
-
-地方台,#genre#
+地方台
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 山东体育,http://222.132.191.125:9901/tsfile/live/1005_1.m3u8
 京视剧场 标清,https://live.v1.mk/api/ghyx.php?id=JinShiJuChangHD_2000
