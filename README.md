@@ -22,10 +22,11 @@ http://0.0.0.0/0.m3u8
 # ***Android端APP***  
 
 ## *TVbox*  
-https://github.com/CatVodTVOfficial/TVBoxOSC
-https://github.com/takagen99/Box
-https://github.com/q215613905/TVBoxOS
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
+支持节目源自动合并  
+https://github.com/CatVodTVOfficial/TVBoxOSC  
+https://github.com/takagen99/Box  
+https://github.com/q215613905/TVBoxOS  
+https://github.com/o0HalfLife0o/TVBoxOSC/releases  
 https://t.me/TVBoxOSC  
 
 ## ***利器***
