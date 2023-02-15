@@ -4,10 +4,10 @@ https://apps.apple.com/app/ntplayer/id1613758141
 https://apps.apple.com/cn/app/ntplayer/id1613758141
 
 TVbox_A3.txt为Android平台***TVbox***的订阅链接。   
-https://github.com/CatVodTVOfficial/TVBoxOSC
-https://github.com/takagen99/Box
-https://github.com/q215613905/TVBoxOS
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
+https://github.com/CatVodTVOfficial/TVBoxOSC  
+https://github.com/takagen99/Box  
+https://github.com/q215613905/TVBoxOS  
+https://github.com/o0HalfLife0o/TVBoxOSC/releases  
 https://t.me/TVBoxOSC
 
 ## ***订阅格式***  
