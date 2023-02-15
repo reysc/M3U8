@@ -1,6 +1,6 @@
 ## 更新说明：   
 ntPlayer_A3.m3u为iOS平台***ntPlayer*** 的订阅链接。  
-https://apps.apple.com/app/ntplayer/id1613758141
+https://apps.apple.com/app/ntplayer/id1613758141  
 https://apps.apple.com/cn/app/ntplayer/id1613758141
 
 TVbox_A3.txt为Android平台***TVbox***的订阅链接。   
