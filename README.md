@@ -8,18 +8,18 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 https://github.com/takagen99/Box  
 https://github.com/q215613905/TVBoxOS  
 https://github.com/o0HalfLife0o/TVBoxOSC/releases  
-https://t.me/TVBoxOSC~~
-
-## ***订阅格式***  
-## iOS: ntPlayer、APTV
-标准M3U，支持节目源自动合并
+https://t.me/TVBoxOSC~~  
+## ***订阅格式*** 
 ## M3U分组  
 #EXTM3U  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://a.a.com/a.png" tvg-country="CN" tvg-url="" group-title="国内",东方卫视  
 http://0.0.0.0/0.m3u8
 
-
-# ***Android端APP***  
+# ***iOS: 标准M3U***
+ntPlayer:支持预览及节目源自动合并  
+APTV:支持预览  
+- - - - 
+# ***Android端APP：标准M3U***  
 影视TV  
 https://xhdwc.tk/
 
@@ -35,10 +35,10 @@ https://t.me/TVBoxOSC~~
 ~~Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）  
 https://apps.apple.com/cn/app/id1210562295~~
 
-PlaylistEditorTV v1.8.1
+PlaylistEditorTV v1.8.1  
 https://github.com/Isayso/PlaylistEditorTV
 
-N_m3u8DL-CLI&N_m3u8DL-RE
+N_m3u8DL-CLI&N_m3u8DL-RE  
 https://github.com/nilaoda/N_m3u8DL-CLI
 https://github.com/nilaoda/N_m3u8DL-RE
 
