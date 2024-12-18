@@ -1,17 +1,17 @@
 ## Readme：   
-ntPlayer_A3.m3u为iOS平台***ntPlayer*** 的订阅链接。  
+~~ntPlayer_A3.m3u为iOS平台***ntPlayer*** 的订阅链接。  
 https://apps.apple.com/app/ntplayer/id1613758141  
-https://apps.apple.com/cn/app/ntplayer/id1613758141
+https://apps.apple.com/cn/app/ntplayer/id1613758141~~
 
-TVbox_A3.txt为Android平台***TVbox***的订阅链接。   
+~~TVbox_A3.txt为Android平台***TVbox***的订阅链接。   
 https://github.com/CatVodTVOfficial/TVBoxOSC  
 https://github.com/takagen99/Box  
 https://github.com/q215613905/TVBoxOS  
 https://github.com/o0HalfLife0o/TVBoxOSC/releases  
-https://t.me/TVBoxOSC
+https://t.me/TVBoxOSC~~
 
 ## ***订阅格式***  
-## iOS ntPlayer 
+## iOS: ntPlayer、APTV
 标准M3U，支持节目源自动合并
 ## M3U分组  
 #EXTM3U  
@@ -20,18 +20,23 @@ http://0.0.0.0/0.m3u8
 
 
 # ***Android端APP***  
+影视TV  
+https://xhdwc.tk/
 
-## *TVbox*  
+~~## *TVbox*  
 支持节目源自动合并  
 https://github.com/CatVodTVOfficial/TVBoxOSC  
 https://github.com/takagen99/Box  
 https://github.com/q215613905/TVBoxOS  
 https://github.com/o0HalfLife0o/TVBoxOSC/releases  
-https://t.me/TVBoxOSC  
+https://t.me/TVBoxOSC~~  
 
 ## ***利器***
-Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）  
-https://apps.apple.com/cn/app/id1210562295
+~~Thor HTTP 抓包嗅探分析&接口调试&网络协议（除了抓包，更可以在抓取普通链接仍无法播放的情况下，生成包含认证信息的“shu链接”供MK播放器上播放）  
+https://apps.apple.com/cn/app/id1210562295~~
+
+PlaylistEditorTV v1.8.1
+https://github.com/Isayso/PlaylistEditorTV
 
 N_m3u8DL-CLI&N_m3u8DL-RE
 https://github.com/nilaoda/N_m3u8DL-CLI
