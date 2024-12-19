@@ -12,7 +12,7 @@ https://t.me/TVBoxOSC~~
 ## ***订阅格式*** 
 ## M3U分组  
 #EXTM3U  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://a.a.com/a.png" tvg-country="CN" tvg-url="" group-title="国内",东方卫视  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.a.com/a.png" tvg-country="CN" tvg-url="" group-title="国内",东方卫视  
 http://0.0.0.0/0.m3u8
 
 # ***iOS: 标准M3U***
