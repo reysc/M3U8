@@ -83,6 +83,8 @@ https://antares.dribbcast.com/proxy/cpop?mp=/s
 https://antares.dribbcast.com/proxy/jpop?mp=/s
 #EXTINF:-1  tvg-name="Big B Radio #Kpop" tvg-id="Big B Radio #Kpop" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" tvg-chno="6" group-title="1-Radio#Music",Big B Radio #Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1  tvg-chno="16" group-title="1-Radio#Music",AniSonFM动漫广播
+https://pool.anison.fm/AniSonFM(320)?nocache=0.2534947959430853
 #EXTINF:-1  tvg-chno="16" group-title="1-Radio#Music",AsiaFM HD音乐台
 http://lhttp.qingting.fm/live/5022405/64k.mp3
 #EXTINF:-1  tvg-chno="17" group-title="1-Radio#Music",AsiaFM亚洲经典台
