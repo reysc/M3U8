@@ -3,16 +3,6 @@
 http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
 #EXTINF:-1  tvg-name="法国国际广播电台" tvg-id="法国国际广播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" tvg-chno="1" group-title="0-Radio#华语",法国国际广播电台
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1  tvg-name="VOA美国之音" tvg-id="VOA美国之音" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/34/9a/80349aca-0fd6-0502-34c9-c1f5ad180d86/AppIcon-VOA_Mandarin-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png" tvg-chno="5" group-title="0-Radio#华语",VOA美国之音
-http://stream.radiojar.com/7thwu53r92quv
-#EXTINF:-1  tvg-name="VOA美国之音" tvg-id="VOA美国之音" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/34/9a/80349aca-0fd6-0502-34c9-c1f5ad180d86/AppIcon-VOA_Mandarin-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png" tvg-chno="4" group-title="0-Radio#华语",VOA美国之音
-http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
-#EXTINF:-1  tvg-name="VOA美国之音" tvg-id="VOA美国之音" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/34/9a/80349aca-0fd6-0502-34c9-c1f5ad180d86/AppIcon-VOA_Mandarin-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png" tvg-chno="3" group-title="0-Radio#华语",VOA美国之音
-https://n01.radiojar.com/7thwu53r92quv
-#EXTINF:-1  tvg-name="RFA自由亚洲电台" tvg-id="RFA自由亚洲电台" tvg-logo="https://i.ytimg.com/vi/j7bUdVD5tEY/hqdefault.jpg" tvg-chno="7" group-title="0-Radio#华语",RFA自由亚洲电台
-https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-#EXTINF:-1  tvg-name="RFA自由亚洲电台" tvg-id="RFA自由亚洲电台" tvg-logo="https://i.ytimg.com/vi/j7bUdVD5tEY/hqdefault.jpg" tvg-chno="6" group-title="0-Radio#华语",RFA自由亚洲电台
-https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1  tvg-name="RTI中央廣播电台" tvg-id="RTI中央廣播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Radio_Taiwan_International_logo_%282024%29.png" tvg-chno="8" group-title="0-Radio#华语",RTI中央廣播电台
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
 #EXTINF:-1  tvg-name="中广新闻网" tvg-id="中广新闻网" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gavyHENFSD.jpg" group-title="0-Radio#华语",中广新闻网
@@ -31,18 +21,8 @@ https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
 https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 #EXTINF:-1  tvg-name="香港电台香港之声" tvg-id="香港电台香港之声" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/640px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="0-Radio#华语",香港电台香港之声
 https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
-#EXTINF:-1  group-title="0-Radio#华语",美国KAZN中文广播
-http://mobilewzrc.serverroom.us:6914/;stream.nsv
-#EXTINF:-1  group-title="0-Radio#华语",美国加州帕萨迪纳KMRB 1430 AM华语
-http://mobilekmrb.serverroom.us:6916/;stream.nsv
 #EXTINF:-1  group-title="0-Radio#华语",美国中文电台
 http://radiokest.serverroom.us:6670/;stream.mp3
-#EXTINF:-1  group-title="0-Radio#华语",纽约WKDM华语广播国语台
-http://mobilewkdm.serverroom.us:6912/;14481715552093544stream.nsv
-#EXTINF:-1  group-title="0-Radio#华语",新西兰华人之声AM936新超凡
-http://radio.936.nz:8000/am936
-#EXTINF:-1  group-title="0-Radio#华语",新西兰华人之声FM104.2音乐台
-http://radio.936.nz:8000/fm994
 #EXTINF:-1  group-title="0-Radio#华语",正义电台
 http://211.20.119.103:8081
 #EXTINF:-1  tvg-name="CityFM|城市广播" tvg-id="CityFM|城市广播" group-title="0-Radio#华语",CityFM|城市广播
@@ -50,7 +30,9 @@ http://fm929.cityfm.tw:8080/929.mp3
 #EXTINF:-1  tvg-chno="11" group-title="0-Radio#华语",Eight FM
 https://n16.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/love972.png" tvg-chno="10" group-title="0-Radio#华语",LOVE 972
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+https://28453.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/love972.png" tvg-chno="10" group-title="0-Radio#华语",LOVE 972
+https://22403.live.streamtheworld.com/LOVE972FMAAC.aac
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/全国广播.png" tvg-chno="9" group-title="0-Radio#华语",M-Radio全国广播
 http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1  group-title="0-Radio#华语",News98 新闻台
@@ -58,7 +40,9 @@ http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1  group-title="0-Radio#华语",News98 新闻台
 http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
 #EXTINF:-1  group-title="0-Radio#华语",YES 933
-https://22393.live.streamtheworld.com/YES933_PREM.aac
+https://22903.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1  group-title="0-Radio#华语",YES 933
+https://22403.live.streamtheworld.com/YES933_SC?dist=radiosingapore
 #EXTINF:-1  group-title="0-Radio#华语",国立教育广播电台台北总台AM台
 https://cast.ner.gov.tw/2
 #EXTINF:-1  group-title="0-Radio#华语",国立教育广播电台台北总台FM台
@@ -69,8 +53,6 @@ http://s2.voscast.com:9530/;
 http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
 #EXTINF:-1  group-title="0-Radio#华语",佳音罗东宜兰FM90.3
 http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/chunklist.m3u8
-#EXTINF:-1  group-title="0-Radio#华语",講台
-http://103.11.102.62:8000/talkonly.mp3
 #EXTINF:-1  group-title="0-Radio#华语",热血时报电台
 http://mpegts2.passiontimes.hk/stream
 #EXTINF:-1  group-title="0-Radio#华语",台北广播电台AM1134
@@ -107,16 +89,12 @@ https://lhttp.qingting.fm/live/20071/64k.mp3
 https://lhttp.qingting.fm/live/4581/64k.mp3
 #EXTINF:-1  tvg-chno="15" group-title="1-Radio#Music",飛碟電台 FM92.1
 https://n02a-eu.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1  tvg-name="佳音经典音乐网" tvg-id="佳音经典音乐网" tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/334095995_942450503780634_8542400642587270124_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W3-iPXt6zM4Q7kNvgHKwiA_&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=A2JLxVsEaNmWNHPysHV7ZoQ&oh=00_AYB2JAmBAk8HdNYcgLs1qCNvaFFn2FHWOeHLu6g8PNXUmA&oe=67685337" tvg-chno="11" group-title="1-Radio#Music",佳音经典音乐网
-http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/chunklist.m3u8
-#EXTINF:-1  tvg-name="佳音经典音乐网" tvg-id="佳音经典音乐网" tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/334095995_942450503780634_8542400642587270124_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W3-iPXt6zM4Q7kNvgHKwiA_&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=A2JLxVsEaNmWNHPysHV7ZoQ&oh=00_AYB2JAmBAk8HdNYcgLs1qCNvaFFn2FHWOeHLu6g8PNXUmA&oe=67685337" tvg-chno="10" group-title="1-Radio#Music",佳音经典音乐网
-http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
-#EXTINF:-1  tvg-name="佳音现代音乐网" tvg-id="佳音现代音乐网" tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/334095995_942450503780634_8542400642587270124_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W3-iPXt6zM4Q7kNvgHKwiA_&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=A2JLxVsEaNmWNHPysHV7ZoQ&oh=00_AYB2JAmBAk8HdNYcgLs1qCNvaFFn2FHWOeHLu6g8PNXUmA&oe=67685337" tvg-chno="12" group-title="1-Radio#Music",佳音现代音乐网
-http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+#EXTINF:-1  tvg-chno="13" group-title="1-Radio#Music",佳音电台FM90.9
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8
+#EXTINF:-1  tvg-name="佳音经典音乐网" tvg-id="佳音音乐网" tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/334095995_942450503780634_8542400642587270124_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W3-iPXt6zM4Q7kNvgHKwiA_&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=A2JLxVsEaNmWNHPysHV7ZoQ&oh=00_AYB2JAmBAk8HdNYcgLs1qCNvaFFn2FHWOeHLu6g8PNXUmA&oe=67685337" tvg-chno="11" group-title="1-Radio#Music",佳音经典音乐网
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",纽约WABH-AM 1380(Country)
 https://ice24.securenetsystems.net/WABH
-#EXTINF:-1  tvg-chno="13" group-title="1-Radio#Music",台湾Lounge •Radio音乐电台
-http://streaming.•Radionomy.com/JamendoLounge
 #EXTINF:-1  tvg-chno="14" group-title="1-Radio#Music",台湾Lounge Radio音乐电台
 https://fr1.streamhosting.ch/lounge128.mp3
 #EXTINF:-1  tvg-chno="1" group-title="1-Radio#Music",台湾古典音乐台Classical FM 97.7
@@ -129,6 +107,8 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 https://n14.rcs.revma.com/ndk05tyy2tzuv
 #EXTINF:-1  tvg-name="中广音乐网" tvg-id="中广音乐网" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/7/41377.v2.png" tvg-chno="3" group-title="1-Radio#Music",中广音乐网
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="2-Radio#Music",eight无限
+https://n08.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",24/7 Blues Radio -London
 https://ec3.yesstreaming.net:3685/stream
 #EXTINF:-1  group-title="1-Radio#Music",24/7 Jazz Radio -London
@@ -176,7 +156,9 @@ https://brokenbeats.net/stream/aac
 #EXTINF:-1  group-title="1-Radio#Music",CADA
 https://23203.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8
 #EXTINF:-1  tvg-name="CAPITAL 958" tvg-id="CAPITAL 958" tvg-logo="https://live.fanmingming.com/radio/capital958.png" tvg-chno="20" group-title="1-Radio#Music",CAPITAL 958
-https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+https://28323.live.streamtheworld.com/CAPITAL958FMAAC_SC
+#EXTINF:-1  tvg-name="CAPITAL 958" tvg-id="CAPITAL 958" tvg-logo="https://live.fanmingming.com/radio/capital958.png" tvg-chno="20" group-title="1-Radio#Music",CAPITAL 958
+https://28373.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1  group-title="1-Radio#Music",Cashmere Radio*
 https://cashmereradio.out.airtime.pro/cashmereradio_a
 #EXTINF:-1  tvg-name="Chercán Radio*" tvg-id="Chercán Radio*" group-title="1-Radio#Music",Chercán Radio*
@@ -192,25 +174,25 @@ https://edm.streeemer.com/listen/edm/radio.aac
 #EXTINF:-1  group-title="1-Radio#Music",Darkwave Radomir*
 https://dwrstream.eu/
 #EXTINF:-1  group-title="1-Radio#Music",DFM DISCO
-https://dfm-disco.hosting•Radio.ru/disco96.aacp?n=0309045f83f0330abd88
+https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",Disco •Radio
-https://www.live•Radio.es/http://kiyi.•Radioca.st:8108/stream?n=bf9cf64604f771af5516
+https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",Disco by Mix iHeart •Radio
-https://27153.live.streamtheworld.com/ACIR14_S01AAC.aac?n=c6c1f50467d139838c0c
+https://19273.live.streamtheworld.com/ACIR14_S01AAC.aac
 #EXTINF:-1  group-title="1-Radio#Music",Disco Cafe
-https://azuracast.streams.ovh:8260/•Radio.mp3?n=7081e0b431e66124dca7
+https://azuracast.streams.ovh:8260/radio.mp3
 #EXTINF:-1  group-title="1-Radio#Music",Disco Diamond •Radio
-https://ddr2020.•Radioca.st/stream?n=9ddc166c60fde2394549
+https://ddr2020.radioca.st/stream
 #EXTINF:-1  group-title="1-Radio#Music",Disco Net
 https://stream1.468.gr/8004/stream?n=82a0a222b1f88d838f4e
 #EXTINF:-1  group-title="1-Radio#Music",Disruptarian
-https://s12.ssl-stream.com/8068/stream
+https://sonic24.instainternet.com/8416/stream
 #EXTINF:-1  group-title="1-Radio#Music",Dr Dick's Dub Shack
 https://streamer.radio.co/s0635c8b0d/listen
 #EXTINF:-1  group-title="1-Radio#Music",Dublab.de
 https://dublabde.out.airtime.pro/dublabde_a
 #EXTINF:-1  group-title="1-Radio#Music",Dublin Digital Radio*
-https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+https://dublin-digital-radio.radiocult.fm/stream?nocache=0.8xdux6nk09
 #EXTINF:-1  group-title="1-Radio#Music",Electric Radio
 https://stream-168.zeno.fm/gocfnmkdsmttv
 #EXTINF:-1  group-title="1-Radio#Music",Enigmatic Bar RadioSpinner
@@ -226,13 +208,15 @@ https://s3.myradiostream.com:4717/;
 #EXTINF:-1  group-title="1-Radio#Music",Hechos de Tango Radio Online
 https://argentina.republicahosting.com:1376/live
 #EXTINF:-1  group-title="1-Radio#Music",iHeartCountry Australia
-https://21333.live.streamtheworld.com/ARN_IHRT9AAC/HLS/playlist.m3u8
+https://23203.live.streamtheworld.com/ARN_IHRT9.mp3
 #EXTINF:-1  group-title="1-Radio#Music",Kenya*
 https://pegasus.nucast.co.uk:8064/stream
 #EXTINF:-1  group-title="1-Radio#Music",Kiosk Radio*
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1  group-title="1-Radio#Music",Youth Radio DJ
+https://tls6.coastdev.net/test?_=692110
 #EXTINF:-1  group-title="1-Radio#Music",KIX Country South West
-https://tls5.coastdev.net/kix-high
+https://25003.live.streamtheworld.com/KIXCOUNTRYAAC_SC?csegid=888&dist=triton-web&pname=StandardPlayerV4
 #EXTINF:-1  group-title="1-Radio#Music",Lagos Jump Radio
 https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3
 #EXTINF:-1  group-title="1-Radio#Music",Latina Bandida!
@@ -252,7 +236,7 @@ https://shoutcast.prixa.live/annapurna
 #EXTINF:-1  group-title="1-Radio#Music",Nigeria)*
 https://wazobiafmph941-atunwadigital.streamguys1.com/wazobiafmph941
 #EXTINF:-1  group-title="1-Radio#Music",Noods Radio
-https://noodsradio.out.airtime.pro/noodsradio_a
+https://noods-radio.radiocult.fm/stream
 #EXTINF:-1  group-title="1-Radio#Music",NTS 1*
 https://stream-relay-geo.ntslive.net/stream
 #EXTINF:-1  group-title="1-Radio#Music",one FM 91.3
@@ -260,7 +244,7 @@ https://28093.live.streamtheworld.com/ONE_FM_913AAC.aac
 #EXTINF:-1  group-title="1-Radio#Music",One Radio - Christmas
 https://us1.amfmph.com/ssl/christmasradio?mp=/stream
 #EXTINF:-1  group-title="1-Radio#Music",OpenFM - Disco Polo
-https://www.live•Radio.es/http://stream.open.fm/21?n=87b61828accd7e5d978b
+https://stream-cdn-1.open.fm/OFM151/ngrp:standard/playlist.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",Operator Radio
 https://origin.streamnerd.nl/operator/operator/icecast.audio
 #EXTINF:-1  group-title="1-Radio#Music",Pan African Space Station*
@@ -286,7 +270,7 @@ https://cast1.torontocast.com:1635/stream
 #EXTINF:-1  group-title="1-Radio#Music",Rádio Viva o Samba
 https://servidor33-3.brlogic.com:8020/live
 #EXTINF:-1  group-title="1-Radio#Music",Radio Worm*
-https://s2.radio.co/sde6c7b42e/listen
+https://origin.streamnerd.nl/worm/worm/icecast.audio
 #EXTINF:-1  group-title="1-Radio#Music",Rádio Yandê*
 https://cloud.cdnseguro.com:2611/stream
 #EXTINF:-1  group-title="1-Radio#Music",Radio.D59B
@@ -328,11 +312,9 @@ https://streaming.radio.co/s25a6afba9/listen
 #EXTINF:-1  group-title="1-Radio#Music",WGTS Christian Music 91.9 FM
 https://das-edge09-live365-dal03.cdnstream.com/a97875_2?dt=1734074623758
 #EXTINF:-1  group-title="1-Radio#Music",WKYS 93.9 Kiss FM
-https://26363.live.streamtheworld.com/WKYSFMAAC.aac
+https://18063.live.streamtheworld.com/WKYSFMAAC.aac
 #EXTINF:-1  group-title="1-Radio#Music",Worldwide FM*
 https://worldwidefm.out.airtime.pro/worldwidefm_c
-#EXTINF:-1  group-title="1-Radio#Music",WPFW 89.3 FM - Jazz & Justice
-https://stream-168.zeno.fm/8f6paeeu1ceuv
 #EXTINF:-1  group-title="1-Radio#Music",WWOZ FM 90.7
 https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
 #EXTINF:-1  group-title="1-Radio#Music",Yumi FM 93.0 - Papua New Guinea*
@@ -350,15 +332,19 @@ https://23093.live.streamtheworld.com/FIVEAA_AAC48.aac
 #EXTINF:-1  group-title="2-Radio#E",Horror Radio 24/7/365
 https://eu1.fastcast4u.com/proxy/stevende1?mp=/1
 #EXTINF:-1  tvg-name="Nova 919" tvg-id="Nova 919" tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2018/12/Nova-919-Adelaide.png" group-title="2-Radio#E",Nova 919
-https://21363.live.streamtheworld.com/NOVA_919_AAC48.aac
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="2-Radio#E",one FM
-https://mediaprima.rastream.com/mediaprima-onefm
+https://28893.live.streamtheworld.com/NOVA_919_AAC48/HLS/playlist.m3u8
+#EXTINF:-1  tvg-name="Nova 919" tvg-id="Nova 919" tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2018/12/Nova-919-Adelaide.png" group-title="2-Radio#E",Nova 919
+https://23193.live.streamtheworld.com/NOVA_919_AAC48/HLS/playlist.m3u8
 #EXTINF:-1  group-title="2-Radio#E",Radio Adelaide 101.5
-https://21423.live.streamtheworld.com/RADIO_ADEAAC.aac
+https://23193.live.streamtheworld.com/RADIO_ADEAAC_SC
+#EXTINF:-1  group-title="2-Radio#E",Radio Adelaide 101.5
+https://28853.live.streamtheworld.com/RADIO_ADEAAC.aac
 #EXTINF:-1  group-title="2-Radio#E",SAFM Adelaide
 https://wz5drp.scahw.com.au/live/5ssa_32.stream/playlist.m3u8
 #EXTINF:-1  group-title="2-Radio#E",Triple M Adelaide 104.7
 https://wz5drp.scahw.com.au/live/5mmm_32.stream/playlist.m3u8
+#EXTINF:-1  tvg-name="WFMT" tvg-id="WFMT" tvg-logo="https://cdn-profiles.tunein.com/s28807/images/logog.png" tvg-chno="1" group-title="3-Radio#Chicago",WFMT | Chicago's Classical & Folk Music
+https://wfmt.streamguys1.com/main-mp3
 #EXTINF:-1  group-title="3-Radio#Chicago",103.5 KISS FM
 https://n22b-e2.revma.ihrhls.com/zc849/hls.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",107.5 WGCI Chicago
@@ -374,9 +360,9 @@ https://n12b-e2.revma.ihrhls.com/zc9553/hls.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",Inspiration 1390 AM WGRB | Music Of Power & Praise: Chicago
 https://n31b-e2.revma.ihrhls.com/zc845/hls.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",MeTV FM
-https://prod-54-164-138-156.amperwave.net/audacy-wmyxhd2aac-hlsc.m3u8
+https://prod-13-222-152-184.amperwave.net/audacy-wmyxhd2aac-hlsc.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",Moody Radio Chicago | WMBI-FM 90.1 FM
-https://14203.live.streamtheworld.com/WMBIFM.mp3
+https://29223.live.streamtheworld.com/WMBIFM.mp3
 #EXTINF:-1  group-title="3-Radio#Chicago",NewsNation
 https://prod-3-222-116-19.amperwave.net/wgnam-newsnationaac-hlsc.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",ROCK 95.5 | CHICAGO'S ROCK STATION
@@ -393,10 +379,8 @@ https://wcrx.streamguys1.com/live
 https://wdcb-ice.streamguys1.com/mobile-AAC
 #EXTINF:-1  tvg-chno="2" group-title="3-Radio#Chicago",WDCB Jazz 90.9 FM
 https://wdcb-ice.streamguys1.com/wdcb128
-#EXTINF:-1  tvg-name="WFMT" tvg-id="WFMT" tvg-logo="https://cdn-profiles.tunein.com/s28807/images/logog.png" tvg-chno="1" group-title="3-Radio#Chicago",WFMT | Chicago's Classical & Folk Music
-https://wfmt.streamguys1.com/main-mp3
 #EXTINF:-1  group-title="3-Radio#Chicago",WGN Extra
-https://prod-3-95-251-45.amperwave.net/wgnam-wgnplusaac-hlsc2.m3u8
+https://prod-54-211-235-91.amperwave.net/wgnam-wgnplusaac-hlsc2.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",WGN Radio 720
 https://prod-44-204-218-223.amperwave.net/wgnam-wgnamaac-hlsc2.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",WKKC-FM/HD1 Chicago
@@ -404,13 +388,13 @@ https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1
 #EXTINF:-1  group-title="3-Radio#Chicago",WKKC-HD2 Chicago
 https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast2
 #EXTINF:-1  tvg-name="CNR 音乐之声" tvg-id="CNR 音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" tvg-chno="3" group-title="4-Radio#音乐",CNR 音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+https://ytcast2.radio.cn/110/radios/40641/index_40641.m3u8
+#EXTINF:-1  tvg-name="CNR 音乐之声" tvg-id="CNR 音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" tvg-chno="3" group-title="4-Radio#音乐",CNR 音乐之声
+https://so.zuiai.tv/radio/cnr/yyzs.m3u8
 #EXTINF:-1  tvg-chno="4" group-title="4-Radio#音乐",CRI怀旧金曲频道
 https://lhttp.qingting.fm/live/5022038/64k.mp3
 #EXTINF:-1  tvg-chno="5" group-title="4-Radio#音乐",FM97.7古典音樂台
 http://onair.family977.com.tw:8000/live.mp3
-#EXTINF:-1  group-title="4-Radio#音乐",北京房山经典音乐 FM96.9
-http://ls.qingting.fm/live/68746.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",北京好音乐 FM95.9
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",潮流音乐台
@@ -419,8 +403,6 @@ http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 http://play-•Radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",楚天音乐广播 FM105.8
 http://ls.qingting.fm/live/1289.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",东莞FM104音乐广播
-http://ls.qingting.fm/live/93619.m3u8
 #EXTINF:-1  tvg-chno="7" group-title="4-Radio#音乐",动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1  tvg-chno="6" group-title="4-Radio#音乐",格莱美音乐台
@@ -447,8 +429,6 @@ http://ls.qingting.fm/live/4878.m3u8
 http://ls.qingting.fm/live/1649.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",河南音乐广播
 http://stream.hndt.com/live/yinyue/playlist.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",河南音乐广播 魅力881 FM88.1
-http://ls.qingting.fm/live/1208.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",黑龙江音乐广播
 http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",华语金曲500首
@@ -457,8 +437,6 @@ http://ls.qingting.fm/live/3412131.m3u8
 http://live.xmcdn.com:80/live/966/64.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",怀集音乐之声
 http://ls.qingting.fm/live/4804.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",惠州音乐广播 FM90.7
-http://ls.qingting.fm/live/2212959.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",吉林音乐广播 FM92.7
 http://ls.qingting.fm/live/1831.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",济南音乐广播(MUSIC887)
@@ -475,10 +453,8 @@ http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",龙广音乐广播 FM95.8
 http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
-#EXTINF:-1  tvg-chno="9" group-title="4-Radio#音乐",民谣 蓝调
-http://play-•Radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-#EXTINF:-1  tvg-chno="8" group-title="4-Radio#音乐",民谣 蓝调
-http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1  tvg-chno="9" group-title="4-Radio#音乐",河南广播网 民谣蓝调
+https://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
 #EXTINF:-1  tvg-chno="11" group-title="4-Radio#音乐",民谣音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
 #EXTINF:-1  tvg-chno="10" group-title="4-Radio#音乐",民谣音乐台
@@ -523,20 +499,18 @@ https://lhttp.qingting.fm/live/1654/64k.mp3
 http://ls.qingting.fm/live/1110.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",苏州音乐广播
 https://lhttp.qingting.fm/live/2803/64k.mp3
-#EXTINF:-1  group-title="4-Radio#音乐",苏州音乐广播 动听948 FM94.8
-http://live.xmcdn.com/live/65/64.m3u8
+#EXTINF:-1  group-title="4-Radio#音乐",苏州音乐广播
+https://lhttp-hw.qtfm.cn/live/2803/64k.mp3
 #EXTINF:-1  group-title="4-Radio#音乐",太原音乐广播 FM102.6
 http://ls.qingting.fm/live/1185.m3u8
 #EXTINF:-1  tvg-chno="14" group-title="4-Radio#音乐",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1  tvg-chno="15" group-title="4-Radio#音乐",天籁之音 Hi-Fi •Radio
-http://play-•Radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1  tvg-chno="16" group-title="4-Radio#音乐",天籁之音 Hi-Fi Radio
-http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1  tvg-chno="18" group-title="4-Radio#音乐",天籁之音-国风
-http://play-•Radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-#EXTINF:-1  tvg-chno="17" group-title="4-Radio#音乐",天籁之音-国风
-http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1  tvg-chno="15" group-title="4-Radio#音乐",河南广播网天籁之音 Hi-Fi
+https://play-radio-stream3.hndt.com/now/JxkyN5mR/chunklist.m3u8
+#EXTINF:-1  tvg-chno="18" group-title="4-Radio#音乐",河南广播网天籁之音-国风
+https://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8
+#EXTINF:-1  tvg-chno="20" group-title="4-Radio#音乐",河南广播网心灵音乐馆
+https://play-radio-stream3.hndt.com/now/AFqvb0VX/chunklist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",无锡汽车音乐广播 FM91.4
 http://ls.qingting.fm/live/2779.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",武汉音乐广播
@@ -547,12 +521,6 @@ http://stream3.xiancity.cn/4/sd/live.m3u8
 http://ls.qingting.fm/live/1612.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",襄阳音乐广播
 http://ls.qingting.fm/live/5057.m3u8
-#EXTINF:-1  tvg-chno="20" group-title="4-Radio#音乐",心灵音乐馆
-http://play-•Radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-#EXTINF:-1  tvg-chno="19" group-title="4-Radio#音乐",心灵音乐馆
-http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",新疆音乐广播MYFM103.9
-https://lhttp.qingting.fm/live/4029/64k.mp3
 #EXTINF:-1  tvg-chno="21" group-title="4-Radio#音乐",亚洲经典音乐台
 http://live.xmcdn.com:80/live/1005/64.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",扬州流行音乐广播
@@ -565,12 +533,10 @@ http://live.xmcdn.com/live/904/64.m3u8
 https://lhttp.qingting.fm/live/1223/64k.mp3
 #EXTINF:-1  group-title="4-Radio#音乐",重庆文艺广播
 http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",重庆音乐广播
+#EXTINF:-1  group-title="4-Radio#音乐",重庆音乐广播 FM88.1
 http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",重庆音乐广播 FM88.1
 http://ls.qingting.fm/live/647.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",周口音乐广播
-http://tv.zkxww.com:1935/broadcast/1004.stream_aac/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",珠海电台交通音乐875
 http://ls.qingting.fm/live/1275.m3u8
 #EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://daairadio.tw/UploadFile/IMG_1511539469137.png" group-title="5-Radio#宗教",大爱网络电台
@@ -581,8 +547,6 @@ https://n01.radiojar.com/eme6n6k3rxhvv?rj-ttl=5&rj-tok=AAABk9iu9bQAEjKzHJ8dxP4DN
 https://ly729.out.airtime.pro/ly729_a
 #EXTINF:-1  tvg-name="良友电台同行频道" tvg-id="良友电台同行频道" tvg-logo="https://729ly.net/images/platform/logo_tx.png" group-title="5-Radio#宗教",良友电台同行频道
 https://c23.radioboss.fm/stream/194
-#EXTINF:-1  tvg-name="良友电台同行频道" tvg-id="良友电台同行频道" tvg-logo="https://729ly.net/images/platform/logo_tx.png" group-title="5-Radio#宗教",良友电台同行频道
-https://listen.lyapp2.net:8001/ly729_a
 #EXTINF:-1  tvg-name="良友电台友音乐频道" tvg-id="良友电台友音乐频道" tvg-logo="https://729ly.net/images/platform/logo_YouMusic_800h.png" group-title="5-Radio#宗教",良友电台友音乐频道
 https://c25.radioboss.fm:8334/stream
 #EXTINF:-1  tvg-name="圣经广播网BBN Chinese" tvg-id="圣经广播网BBN Chinese" tvg-logo="https://bbn1.bbnradio.org/schinese/wp-content/uploads/sites/3/2017/10/SChinesebbnlogo-green.png" group-title="5-Radio#宗教",圣经广播网BBN Chinese
@@ -595,38 +559,24 @@ https://livecast1.soundofhope.org/SF969
 https://livecast1.soundofhope.org/bayvoice
 #EXTINF:-1  group-title="5-Radio#宗教",希望之声_中国广播台
 https://livecast2.soundofhope.org/soh-live
+
 #EXTINF:-1  tvg-name="CNR 大湾区之声" tvg-id="CNR 大湾区之声" tvg-logo="https://live.fanmingming.com/•Radio/大湾区之声.png" group-title="6-Radio#中国",CNR 大湾区之声
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 经典广播" tvg-id="CNR 经典广播" tvg-logo="https://live.fanmingming.com/radio/经典广播.png" group-title="6-Radio#中国",CNR 经典广播
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+https://ytcast2.radio.cn/110/radios/40645/index_40645.m3u8?type=1&key=aefebc52403562c9375874d5b2b20aa4&time=69136f08
 #EXTINF:-1  tvg-name="CNR 经济之声" tvg-id="CNR 经济之声" tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="6-Radio#中国",CNR 经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 老年之声" tvg-id="CNR 老年之声" tvg-logo="https://live.fanmingming.com/radio/老年之声.png" group-title="6-Radio#中国",CNR 老年之声
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 神州之声" tvg-id="CNR 神州之声" tvg-logo="https://live.fanmingming.com/radio/cnr神州之声.png" group-title="6-Radio#中国",CNR 神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 台海之声" tvg-id="CNR 台海之声" tvg-logo="https://live.fanmingming.com/radio/台海之声.png" group-title="6-Radio#中国",CNR 台海之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1  tvg-name="CNR 文艺之声" tvg-id="CNR 文艺之声" tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="6-Radio#中国",CNR 文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
-#EXTINF:-1  tvg-name="CNR 乡村之声" tvg-id="CNR 乡村之声" tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="6-Radio#中国",CNR 乡村之声
-http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 香港之声" tvg-id="CNR 香港之声" tvg-logo="https://live.fanmingming.com/radio/cnr香港之声.png" group-title="6-Radio#中国",CNR 香港之声
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR 阅读之声" tvg-id="CNR 阅读之声" tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="6-Radio#中国",CNR 阅读之声
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1  tvg-name="CNR 中国交通广播" tvg-id="CNR 中国交通广播" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="6-Radio#中国",CNR 中国交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1  tvg-name="CNR 中国之声" tvg-id="CNR 中国之声" tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="6-Radio#中国",CNR 中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1  tvg-name="CNR民族之声" tvg-id="CNR民族之声" tvg-logo="https://live.fanmingming.com/radio/cnr民族之声.png" group-title="6-Radio#中国",CNR民族之声
-http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="6-Radio#中国",CRI HIT FM (北京)
+#EXTINF:-1  tvg-name="CNR 中国之声" tvg-id="CNR 中国之声" tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="6-Radio#中国",CNR 中国之声
+https://lhttp.qtfm.cn/live/15318317/64k.mp3
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="6-Radio#中国",CRI Hit FM FM88.7
 https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="6-Radio#中国",CRI Hit FM FM88.7
+http://sk.cri.cn/887.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="6-Radio#中国",CRI HIT FM (广州)
 https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",CRI Hit FM FM88.7
-http://sk.cri.cn/887.m3u8
+
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="6-Radio#中国",CRI 华语环球广播
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",CRI 环球信息广播 FM90.5
@@ -637,9 +587,9 @@ https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="6-Radio#中国",CRI 轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="6-Radio#中国",CRI 外语教学广播 China Plus Radio
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="6-Radio#中国",CRI电台英语教学广播AM1008
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="6-Radio#中国",CRI 英语环球广播 China Plus Radio
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="6-Radio#中国",CRI电台英语新闻广播AM846
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1  tvg-logo="https://cdn-radiotime-logos.tunein.com/p38821d.png" group-title="6-Radio#中国",CRI 粤语国际
 http://sk.cri.cn/hxfh.m3u8
@@ -665,8 +615,6 @@ https://stream.hndt.com/live/nongcun/playlist.m3u8
 http://ls.qingting.fm/live/276.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",第一财经 FM97.7
 http://live.xmcdn.com/live/56/64.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",东莞畅享1075交通广播
-http://ls.qingting.fm/live/1288.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",东广新闻台 FM90.9
 http://ls.qingting.fm/live/275.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",甘肃黄河之声
@@ -723,8 +671,6 @@ http://ls.qingting.fm/live/4944.m3u8
 http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",江苏新闻综合广播 AM702
 http://ls.qingting.fm/live/5055.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",金鹰955电台
-http://ls.qingting.fm/live/4937.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",龙广青苹果之声 FM104.6
 http://ls.qingting.fm/live/4976.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",宁波动感105 FM105.2
@@ -755,28 +701,20 @@ http://ls.qingting.fm/live/33446.m3u8
 http://ls.qingting.fm/live/1673.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",青海经济广播 FM07.5
 http://ls.qingting.fm/live/5008.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",青海生活广播 花儿调频 FM90.3
-http://ls.qingting.fm/live/2163891.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",三亚天涯之声 FM104.6
 http://ls.qingting.fm/live/68236.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",厦门广播闽南之声
 http://ls.qingting.fm/live/1740.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",厦门经济交通广播
 http://ls.qingting.fm/live/1738.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",厦门私家车广播
-http://ls.qingting.fm/live/1741.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",厦门新闻广播
 http://ls.qingting.fm/live/1737.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",山东交通广播 FM101.1
-http://ls.qingting.fm/live/60262.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",山东经济广播 FM98.6
 http://ls.qingting.fm/live/60198.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",山东女主播电台 FM97.5
 http://ls.qingting.fm/live/60258.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",山东生活广播 MyFM FM105
 http://ls.qingting.fm/live/60260.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",山东体育广播 FM102.1
-http://ls.qingting.fm/live/60266.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",山东新闻广播 FM95
 http://ls.qingting.fm/live/60180.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",陕西戏曲广播
@@ -785,26 +723,16 @@ http://radio.sxtvs.com/radio/opera.mp3
 http://radio.sxtvs.com/radio/news.mp3
 #EXTINF:-1  group-title="6-Radio#中国",陕西新闻广播 FM106.6
 http://ls.qingting.fm/live/1600.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",上海KFM981
-http://ls.qingting.fm/live/2963035.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",上海城市沸点 FM100.1
-http://live.xmcdn.com/live/1236/64.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",上海动感101 FM101.7
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",上海故事广播 FM107.2
-http://ls.qingting.fm/live/268.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",上海交通台 FM105.7
 http://ls.qingting.fm/live/266.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",上海经典947 FM94.7
 http://ls.qingting.fm/live/267.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",上海闵行电台 FM102.7
-http://ls.qingting.fm/live/58826.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",上海浦东广播 FM106.5
 http://ls.qingting.fm/live/1794199.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",上海长三角之声
 https://lhttp.qtfm.cn/live/275/64k.mp3
-#EXTINF:-1  group-title="6-Radio#中国",深圳缤纷 FM104.3
-http://live.xmcdn.com/live/267/64.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",深圳快乐1062(交通广播)
 http://ls.qingting.fm/live/1272.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",深圳私家车广播 FM94.2
@@ -825,10 +753,6 @@ http://ls.qingting.fm/live/1111.m3u8
 http://ls.qingting.fm/live/4886.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",四川民族广播 AM954
 http://ls.qingting.fm/live/1115.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",四川私家车广播 FM92.5
-http://ls.qingting.fm/live/4939.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",四川文艺广播 快乐900 FM90.0
-http://ls.qingting.fm/live/4887.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",四川新闻综合广播 FM98.1
 http://ls.qingting.fm/live/4906.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",无锡都市生活广播 FM98.7
@@ -843,8 +767,6 @@ http://ls.qingting.fm/live/2782.m3u8
 http://ls.qingting.fm/live/2777.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",无锡综合广播 AM1116
 http://ls.qingting.fm/live/2776.m3u8
-#EXTINF:-1  group-title="6-Radio#中国",五星体育 FM94.0
-http://ls.qingting.fm/live/4928.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",五邑旅游频道 FM90.4
 http://ls.qingting.fm/live/3047974.m3u8
 #EXTINF:-1  group-title="6-Radio#中国",西安交通广播 FM104.3
