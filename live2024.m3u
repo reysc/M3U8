@@ -5,6 +5,10 @@ http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1  tvg-name="RTI中央廣播电台" tvg-id="RTI中央廣播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Radio_Taiwan_International_logo_%282024%29.png" tvg-chno="8" group-title="0-Radio#华语",RTI中央廣播电台
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1  group-title="0-Radio#华语",2CR澳洲中文广播电台
+https://streaming.shoutcast.com/2cr-chinese-radio
+#EXTINF:-1  group-title="0-Radio#华语",A1中文电台
+https://s1.voscast.com:10451/stream
 #EXTINF:-1  tvg-name="中广新闻网" tvg-id="中广新闻网" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gavyHENFSD.jpg" group-title="0-Radio#华语",中广新闻网
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1  tvg-name="飞碟电台" tvg-id="飞碟电台" tvg-logo="https://cdn-profiles.tunein.com/s7208/images/logog.jpg" group-title="0-Radio#华语",飞碟电台
@@ -2165,6 +2169,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1  tvg-name="大爱二台" tvg-id="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="TV#宗教",大爱2台
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1  group-title="TV#宗教",安琪TV
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1  group-title="TV#宗教",佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1  group-title="TV#宗教",佛陀
