@@ -75,6 +75,14 @@ http://fm983.cityfm.tw:8080/983.mp3
 http://fm901.cityfm.tw:8080/901.mp3
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="0-Radio#华语",CityFM|台南之音
 http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1  group-title="1-Radio#Music",triple j
+https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8
+#EXTINF:-1  group-title="1-Radio#Music",triple j Hottest
+https://streaming.abc-cdn.net.au/audio/hls/triplejhottest.m3u8
+#EXTINF:-1  group-title="1-Radio#Music",triple j Unearthed
+https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8
+#EXTINF:-1  group-title="1-Radio#Music",Double J
+https://streaming.abc-cdn.net.au/audio/hls/doublejnsw.m3u8
 #EXTINF:-1  tvg-name="Big B Radio #Apop" tvg-id="Big B Radio #Apop" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" tvg-chno="8" group-title="1-Radio#Music",Big B Radio #Apop
 https://antares.dribbcast.com/proxy/apop?mp=/s
 #EXTINF:-1  tvg-name="Big B Radio #Cpop" tvg-id="Big B Radio #Cpop" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" tvg-chno="9" group-title="1-Radio#Music",Big B Radio #Cpop
