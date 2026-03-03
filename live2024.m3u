@@ -121,7 +121,7 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 https://n14.rcs.revma.com/ndk05tyy2tzuv
 #EXTINF:-1  tvg-name="中广音乐网" tvg-id="中广音乐网" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/7/41377.v2.png" tvg-chno="3" group-title="1-Radio#Music",中广音乐网
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="2-Radio#Music",eight无限
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="1-Radio#Music",eight无限
 https://n08.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",24/7 Blues Radio -London
 https://ec3.yesstreaming.net:3685/stream
