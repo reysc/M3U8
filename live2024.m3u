@@ -75,11 +75,9 @@ http://fm983.cityfm.tw:8080/983.mp3
 http://fm901.cityfm.tw:8080/901.mp3
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="0-Radio#华语",CityFM|台南之音
 http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1  group-title="1-Radio#Music",triple j
-https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8
 #EXTINF:-1  tvg-name="triple j" tvg-id="triple j" tvg-logo="https://cdn.shopify.com/s/files/1/0049/2607/9074/files/NEW_TRIPLEJ_REBRAND_LOGO_TEE_ART_copy_480x480.png"  group-title="1-Radio#Music",triple j
 https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8
-#EXTINF:-1  group-title="1-Radio#Music",triple j Hottest
+#EXTINF:-1  tvg-name="triple j Hottest" tvg-id="triple j Hottest" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TriplejHottest_2023.svg/revision/latest?cb=20230714040116"  group-title="1-Radio#Music",triple j Hottest
 https://streaming.abc-cdn.net.au/audio/hls/triplejhottest.m3u8
 #EXTINF:-1  group-title="1-Radio#Music",triple j Unearthed
 https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8
