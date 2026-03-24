@@ -360,46 +360,44 @@ https://wz5drp.scahw.com.au/live/5mmm_32.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="WFMT" tvg-id="WFMT" tvg-logo="https://cdn-profiles.tunein.com/s28807/images/logog.png" tvg-chno="1" group-title="3-Radio#Chicago",WFMT | Chicago's Classical & Folk Music
 https://wfmt.streamguys1.com/main-mp3
 #EXTINF:-1  tvg-name="103.5 KISS FM" tvg-id="103.5 KISS FM" tvg-logo="https://i.iheart.com/v3/re/assets.brands/6040110a9538edc2d6937e84"  group-title="3-Radio#Chicago",103.5 KISS FM
-https://n22b-e2.revma.ihrhls.com/zc849/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",107.5 WGCI Chicago
-https://n2cb-e2.revma.ihrhls.com/zc841/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",93.9 Lite FM | Chicago’s Relaxing Favorites
-https://n0eb-e2.revma.ihrhls.com/zc853/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",B107.3
+https://n0ca-e2.revma.ihrhls.com/zc849/hls.m3u8
+#EXTINF:-1  tvg-name="107.5 WGCI Chicago" tvg-id="107.5 WGCI Chicago" tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4affde66c5274866b3ff"  group-title="3-Radio#Chicago",107.5 WGCI Chicago
+https://n41a-e2.revma.ihrhls.com/zc841/hls.m3u8
+#EXTINF:-1  tvg-name="93.9 Lite FM | Chicago’s Relaxing Favorites" tvg-id="93.9 Lite FM | Chicago’s Relaxing Favorites" tvg-logo="https://i.iheart.com/v3/re/assets.brands/69654f871a69f85e3a14f06b"  group-title="3-Radio#Chicago",93.9 Lite FM | Chicago’s Relaxing Favorites
+https://n44a-e2.revma.ihrhls.com/zc853/hls.m3u8
+#EXTINF:-1  tvg-name="B107.3" tvg-id="B107.3" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2744/files/2021/03/b1073-logo.png"  group-title="3-Radio#Chicago",B107.3
 https://15693.live.streamtheworld.com/KBBKFMAAC.aac
-#EXTINF:-1  group-title="3-Radio#Chicago",BIG 95.5 | Chicago's Country
-https://n28b-e2.revma.ihrhls.com/zc8731/hls.m3u8
-#EXTINF:-1  tvg-name="Chicago's BIN 640" tvg-id="Chicago's BIN 640" group-title="3-Radio#Chicago",Chicago's BIN 640
-https://n12b-e2.revma.ihrhls.com/zc9553/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",Inspiration 1390 AM WGRB | Music Of Power & Praise: Chicago
-https://n31b-e2.revma.ihrhls.com/zc845/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",MeTV FM
-https://prod-13-222-152-184.amperwave.net/audacy-wmyxhd2aac-hlsc.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",Moody Radio Chicago | WMBI-FM 90.1 FM
+#EXTINF:-1  tvg-name="BIG 95.5 | Chicago's Country" tvg-id="BIG 95.5 | Chicago's Country" tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4a9ade66c5274866b3fc"  group-title="3-Radio#Chicago",BIG 95.5 | Chicago's Country
+https://n32a-e2.revma.ihrhls.com/zc8731/hls.m3u8
+#EXTINF:-1  tvg-name="Chicago's BIN 640" tvg-id="Chicago's BIN 640" tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f57fa341b8aceca3cd59d86"  group-title="3-Radio#Chicago",Chicago's BIN 640
+https://n1ba-e2.revma.ihrhls.com/zc9553/hls.m3u8
+#EXTINF:-1  tvg-name="Inspiration 1390 AM WGRB | Music Of Power & Praise: Chicago" tvg-id="Inspiration 1390 AM WGRB | Music Of Power & Praise: Chicago" tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4bc6de66c5274866b402"  group-title="3-Radio#Chicago",Inspiration 1390 AM WGRB | Music Of Power & Praise: Chicago
+https://n22a-e2.revma.ihrhls.com/zc845/hls.m3u8
+#EXTINF:-1  tvg-name="MeTV FM" tvg-id="MeTV FM" tvg-logo="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/logos/WMYXHD2.jpg"  group-title="3-Radio#Chicago",MeTV FM
+https://prod-44-204-197-96.amperwave.net/audacy-wmyxhd2aac-hlsc.m3u8
+#EXTINF:-1  tvg-name="Moody Radio Chicago | WMBI-FM 90.1 FM" tvg-id="Moody Radio Chicago | WMBI-FM 90.1 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/WMBI-FM_Moody_Radio_90.1_logo.png"  group-title="3-Radio#Chicago",Moody Radio Chicago | WMBI-FM 90.1 FM
 https://29223.live.streamtheworld.com/WMBIFM.mp3
-#EXTINF:-1  group-title="3-Radio#Chicago",NewsNation
-https://prod-3-222-116-19.amperwave.net/wgnam-newsnationaac-hlsc.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",ROCK 95.5 | CHICAGO'S ROCK STATION
-https://n1db-e2.revma.ihrhls.com/zc857/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",V103 | Today's R&B and Throwbacks
-https://n2eb-e2.revma.ihrhls.com/zc865/hls.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",Vocalo Radio 91.1FM
+#EXTINF:-1  tvg-name="WGN Radio 720" tvg-id="WGN Radio 720" tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/cropped-Logo-800x340-1-1.png"  group-title="3-Radio#Chicago",WGN Radio 720
+https://prod-54-227-167-196.amperwave.net/wgnam-wgnamaac-hlsc2.m3u8
+#EXTINF:-1  tvg-name="WGN Radio 720" tvg-id="WGN Radio 720" tvg-logo="https://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1689366509/22481/900/900/PlayerDefaultAlbumArt.jpg"  group-title="3-Radio#Chicago",WGN Radio 720
+https://prod-44-195-61-138.amperwave.net/wgnam-wgnamaac-hlsc2.m3u8
+#EXTINF:-1  tvg-name="ROCK 95.5 | CHICAGO'S ROCK STATION" tvg-id="ROCK 95.5 | CHICAGO'S ROCK STATION" tvg-logo="https://i.iheart.com/v3/re/assets.brands/5f516d4c49b601caea48161f"  group-title="3-Radio#Chicago",ROCK 95.5 | CHICAGO'S ROCK STATION
+https://n40a-e2.revma.ihrhls.com/zc857/hls.m3u8
+#EXTINF:-1  tvg-name="V103 | Today's R&B and Throwbacks" tvg-id="V103 | Today's R&B and Throwbacks" tvg-logo="https://i.iheart.com/v3/re/assets.brands/641b4a49de66c5274866b3f9"  group-title="3-Radio#Chicago",V103 | Today's R&B and Throwbacks
+https://n3aa-e2.revma.ihrhls.com/zc865/hls.m3u8
+#EXTINF:-1  tvg-name="Vocalo Radio 91.1FM" tvg-id="Vocalo Radio 91.1FM" tvg-logo="https://i.ibb.co/99ZjMk0d/252525441-10159927597760921-8151323438560954030-n.png"  group-title="3-Radio#Chicago",Vocalo Radio 91.1FM
 https://stream.wbez.org/vocalo128
-#EXTINF:-1  group-title="3-Radio#Chicago",WBEZ Chicago
+#EXTINF:-1  tvg-name="WBEZ 91.5 FM | WBEZ Chicago" tvg-id="WBEZ 91.5 FM | WBEZ Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/WBEZ_91.5_logo.png"  group-title="3-Radio#Chicago",WBEZ 91.5 FM | WBEZ Chicago
 https://stream.wbez.org/wbez64-web.aac
-#EXTINF:-1  group-title="3-Radio#Chicago",WCRX 88.1 FM
+#EXTINF:-1  tvg-name="WCRX 88.1 FM" tvg-id="WCRX 88.1 FM" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a9ec0255417fc5100d91a01/1540853422091-9LSO0RL6MK0IKGD4SE1Z/WCRX_logo_black-01.png"  group-title="3-Radio#Chicago",WCRX 88.1 FM
 https://wcrx.streamguys1.com/live
-#EXTINF:-1  tvg-chno="3" group-title="3-Radio#Chicago",WDCB 90.9 FM JAZZ&BLUES
+#EXTINF:-1  tvg-name="WDCB 90.9 FM Jazz" tvg-id="WDCB 90.9 FM Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png"  group-title="3-Radio#Chicago",WDCB 90.9 FM Jazz
 https://wdcb-ice.streamguys1.com/mobile-AAC
-#EXTINF:-1  tvg-chno="2" group-title="3-Radio#Chicago",WDCB Jazz 90.9 FM
+#EXTINF:-1  tvg-name="WDCB 90.9 FM Jazz" tvg-id="WDCB 90.9 FM Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png"  group-title="3-Radio#Chicago",WDCB 90.9 FM Jazz
 https://wdcb-ice.streamguys1.com/wdcb128
-#EXTINF:-1  group-title="3-Radio#Chicago",WGN Extra
-https://prod-54-211-235-91.amperwave.net/wgnam-wgnplusaac-hlsc2.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",WGN Radio 720
-https://prod-44-204-218-223.amperwave.net/wgnam-wgnamaac-hlsc2.m3u8
-#EXTINF:-1  group-title="3-Radio#Chicago",WKKC-FM/HD1 Chicago
+#EXTINF:-1  tvg-name="WKKC-FM/HD1 Chicago" tvg-id="WKKC-FM/HD1 Chicago" tvg-logo="https://wkkc.fm/89.3%20WKKC%20Logo%2025%20-%20On%20White%20Drop%20Shadow%20No%20Bar%20CCC.png"  group-title="3-Radio#Chicago",WKKC-FM/HD1 Chicago
 https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1
-#EXTINF:-1  group-title="3-Radio#Chicago",WKKC-HD2 Chicago
+#EXTINF:-1  tvg-name="WKKC-FM/HD2 Chicago" tvg-id="WKKC-FM/HD2 Chicago" tvg-logo="https://wkkc.fm/89.3%20WKKC%20Logo%2025%20-%20On%20White%20Drop%20Shadow%20No%20Bar%20CCC.png"  group-title="3-Radio#Chicago",WKKC-FM/HD2 Chicago
 https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast2
 #EXTINF:-1  tvg-name="CNR 音乐之声" tvg-id="CNR 音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" tvg-chno="3" group-title="4-Radio#音乐",CNR 音乐之声
 https://ytcast2.radio.cn/110/radios/40641/index_40641.m3u8
