@@ -17,6 +17,8 @@ https://livecast2.soundofhope.org/SYDNEY
 https://streaming.shoutcast.com/2cr-chinese-radio
 #EXTINF:-1  tvg-name="A1中文电台" tvg-id="A1中文电台" tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg"  group-title="0-Radio#华语",A1中文电台
 https://s1.voscast.com:10451/stream
+#EXTINF:-1  tvg-name="A1中文电台" tvg-id="A1中文电台" tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg"  group-title="0-Radio#华语",A1中文电台
+http://s2.voscast.com:9530/;
 #EXTINF:-1  tvg-name="中广新闻网" tvg-id="中广新闻网" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gavyHENFSD.jpg" group-title="0-Radio#华语",中广新闻网
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1  tvg-name="飞碟电台" tvg-id="飞碟电台" tvg-logo="https://cdn-profiles.tunein.com/s7208/images/logog.jpg" group-title="0-Radio#华语",飞碟电台
@@ -59,8 +61,6 @@ https://22403.live.streamtheworld.com/YES933_SC?dist=radiosingapore
 https://cast.ner.gov.tw/2
 #EXTINF:-1  group-title="0-Radio#华语",国立教育广播电台台北总台FM台
 https://cast.ner.gov.tw/1
-#EXTINF:-1  group-title="0-Radio#华语",加拿大A1中文电台粤语
-http://s2.voscast.com:9530/;
 #EXTINF:-1  group-title="0-Radio#华语",佳音罗东宜兰FM90.3
 http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
 #EXTINF:-1  group-title="0-Radio#华语",佳音罗东宜兰FM90.3
