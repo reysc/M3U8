@@ -13,9 +13,9 @@ https://livecast1.soundofhope.org/bayvoice
 https://livecast1.soundofhope.org/SF969
 #EXTINF:-1  tvg-name="希望之声&澳洲台" tvg-id="希望之声&澳洲台" tvg-logo="https://img.soundofhope.org/2019-11/soh_australia.jpg"  group-title="0-Radio#华语",希望之声&澳洲台
 https://livecast2.soundofhope.org/SYDNEY
-#EXTINF:-1  group-title="0-Radio#华语",2CR澳洲中文广播电台
+#EXTINF:-1  tvg-name="2CR澳洲中文广播电台" tvg-id="2CR澳洲中文广播电台" tvg-logo="https://d1cce5idf8ce8i.cloudfront.net/wp-content/uploads/2019/07/audio_bd-1.jpg"  group-title="0-Radio#华语",2CR澳洲中文广播电台
 https://streaming.shoutcast.com/2cr-chinese-radio
-#EXTINF:-1  group-title="0-Radio#华语",A1中文电台
+#EXTINF:-1  tvg-name="A1中文电台" tvg-id="A1中文电台" tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg"  group-title="0-Radio#华语",A1中文电台
 https://s1.voscast.com:10451/stream
 #EXTINF:-1  tvg-name="中广新闻网" tvg-id="中广新闻网" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gavyHENFSD.jpg" group-title="0-Radio#华语",中广新闻网
 http://stream.rcs.revma.com/78fm9wyy2tzuv
