@@ -77,11 +77,11 @@ http://fm901.cityfm.tw:8080/901.mp3
 http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:-1  tvg-name="triple j" tvg-id="triple j" tvg-logo="https://cdn.shopify.com/s/files/1/0049/2607/9074/files/NEW_TRIPLEJ_REBRAND_LOGO_TEE_ART_copy_480x480.png"  group-title="1-Radio#Music",triple j
 https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8
-#EXTINF:-1  tvg-name="triple j Hottest" tvg-id="triple j Hottest" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TriplejHottest_2023.svg"  group-title="1-Radio#Music",triple j Hottest
+#EXTINF:-1  tvg-name="triple j Hottest" tvg-id="triple j Hottest" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/TriplejHottest_2024-stack.svg"  group-title="1-Radio#Music",triple j Hottest
 https://streaming.abc-cdn.net.au/audio/hls/triplejhottest.m3u8
-#EXTINF:-1  group-title="1-Radio#Music",triple j Unearthed
+#EXTINF:-1  tvg-name="triple j Unearthed" tvg-id="triple j Unearthed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/TriplejUnearthed_2024-stack.svg"  group-title="1-Radio#Music",triple j Unearthed
 https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8
-#EXTINF:-1  group-title="1-Radio#Music",Double J
+#EXTINF:-1  tvg-name="Double J" tvg-id="Double J" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/DoubleJ.svg"  group-title="1-Radio#Music",Double J
 https://streaming.abc-cdn.net.au/audio/hls/doublejnsw.m3u8
 #EXTINF:-1  tvg-name="Big B Radio #Apop" tvg-id="Big B Radio #Apop" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" tvg-chno="8" group-title="1-Radio#Music",Big B Radio #Apop
 https://antares.dribbcast.com/proxy/apop?mp=/s
