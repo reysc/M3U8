@@ -359,7 +359,7 @@ https://wz5drp.scahw.com.au/live/5ssa_32.stream/playlist.m3u8
 https://wz5drp.scahw.com.au/live/5mmm_32.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="WFMT" tvg-id="WFMT" tvg-logo="https://cdn-profiles.tunein.com/s28807/images/logog.png" tvg-chno="1" group-title="3-Radio#Chicago",WFMT | Chicago's Classical & Folk Music
 https://wfmt.streamguys1.com/main-mp3
-#EXTINF:-1  group-title="3-Radio#Chicago",103.5 KISS FM
+#EXTINF:-1  tvg-name="103.5 KISS FM" tvg-id="103.5 KISS FM" tvg-logo="https://i.iheart.com/v3/re/assets.brands/6040110a9538edc2d6937e84"  group-title="1-Radio#Music",103.5 KISS FM
 https://n22b-e2.revma.ihrhls.com/zc849/hls.m3u8
 #EXTINF:-1  group-title="3-Radio#Chicago",107.5 WGCI Chicago
 https://n2cb-e2.revma.ihrhls.com/zc841/hls.m3u8
