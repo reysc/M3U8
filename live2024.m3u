@@ -5,6 +5,14 @@ http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1  tvg-name="RTI中央廣播电台" tvg-id="RTI中央廣播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Radio_Taiwan_International_logo_%282024%29.png" tvg-chno="8" group-title="0-Radio#华语",RTI中央廣播电台
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1  tvg-name="希望之声&中国广播台" tvg-id="希望之声&中国广播台" tvg-logo="https://img.soundofhope.org/2019-11/soh_china.jpg"  group-title="0-Radio#华语",希望之声&中国广播台
+https://livecast2.soundofhope.org/soh-live
+#EXTINF:-1  tvg-name="希望之声&全美联播网" tvg-id="希望之声&全美联播网" tvg-logo="https://img.soundofhope.org/2020-07/soh_us_network_logo-1594408478773.jpg"  group-title="0-Radio#华语",希望之声&全美联播网
+https://livecast1.soundofhope.org/bayvoice
+#EXTINF:-1  tvg-name="希望之声&舊金山粵語台" tvg-id="希望之声&舊金山粵語台" tvg-logo="https://img.soundofhope.org/2019-11/soh_sf_yue.jpg"  group-title="0-Radio#华语",希望之声&舊金山粵語台
+https://livecast1.soundofhope.org/SF969
+#EXTINF:-1  tvg-name="希望之声&澳洲台" tvg-id="希望之声&澳洲台" tvg-logo="https://img.soundofhope.org/2019-11/soh_australia.jpg"  group-title="0-Radio#华语",希望之声&澳洲台
+https://livecast2.soundofhope.org/SYDNEY
 #EXTINF:-1  group-title="0-Radio#华语",2CR澳洲中文广播电台
 https://streaming.shoutcast.com/2cr-chinese-radio
 #EXTINF:-1  group-title="0-Radio#华语",A1中文电台
@@ -403,22 +411,22 @@ https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast2
 https://ytcast2.radio.cn/110/radios/40641/index_40641.m3u8
 #EXTINF:-1  tvg-name="CNR 音乐之声" tvg-id="CNR 音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" tvg-chno="3" group-title="4-Radio#音乐",CNR 音乐之声
 https://so.zuiai.tv/radio/cnr/yyzs.m3u8
-#EXTINF:-1  tvg-chno="4" group-title="4-Radio#音乐",CRI怀旧金曲频道
+#EXTINF:-1  tvg-name="CRI怀旧金曲频道" tvg-id="CRI怀旧金曲频道" tvg-logo="https://i.ibb.co/vx6Pfh3b/30adcbef76094b36acafa3466c856bd98d1001e9374c.jpg"  group-title="4-Radio#音乐",CRI怀旧金曲频道
 https://lhttp.qingting.fm/live/5022038/64k.mp3
-#EXTINF:-1  tvg-chno="5" group-title="4-Radio#音乐",FM97.7古典音樂台
+#EXTINF:-1  tvg-name="FM97.7古典音樂台" tvg-id="FM97.7古典音樂台" tvg-logo="https://i.ibb.co/5gY7wSPg/304906261-450562503754982-6919207867882053294-n.jpg"  group-title="4-Radio#音乐",FM97.7古典音樂台
 http://onair.family977.com.tw:8000/live.mp3
+#EXTINF:-1  tvg-name="楚天音乐广播" tvg-id="楚天音乐广播" tvg-logo="https://pic.qtfm.cn/2018/0313/20180313045625.png"  group-title="4-Radio#音乐",楚天音乐广播
+https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+#EXTINF:-1  tvg-name="清晨音乐台" tvg-id="清晨音乐台" tvg-logo="https://pic.qtfm.cn/2022/0211/20220211102019.jpeg"  group-title="4-Radio#音乐",清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1  tvg-name="清晨音乐台" tvg-id="清晨音乐台" tvg-logo="https://pic.qtfm.cn/2022/0211/20220211102019.jpeg"  group-title="4-Radio#音乐",清晨音乐台
+https://lhttp.qingting.fm/live/4915/64k.mp3
+#EXTINF:-1  tvg-name="天籁古典" tvg-id="天籁古典" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/11/17/login.jpg"  group-title="4-Radio#音乐",天籁古典
+https://stream.hndt.com/live/gudian/playlist.m3u8
+#EXTINF:-1  tvg-name="潮流音悦台" tvg-id="潮流音悦台" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241956312964.png"  group-title="4-Radio#音乐",潮流音悦台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",北京好音乐 FM95.9
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",潮流音乐台
-http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",潮流音乐台
-http://play-•Radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1  group-title="4-Radio#音乐",楚天音乐广播 FM105.8
-http://ls.qingting.fm/live/1289.m3u8
-#EXTINF:-1  tvg-chno="7" group-title="4-Radio#音乐",动感音乐台
-http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1  tvg-chno="6" group-title="4-Radio#音乐",格莱美音乐台
-http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",广东音乐之声 FM99.3
 http://ls.qingting.fm/live/1260.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",广西音乐广播 FM95.0
@@ -483,10 +491,6 @@ http://ls.qingting.fm/live/1142.m3u8
 http://ls.qingting.fm/live/1677.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",青海交通音乐广播 FM97.2
 http://ls.qingting.fm/live/5009.m3u8
-#EXTINF:-1  tvg-chno="2" group-title="4-Radio#音乐",清晨音乐台
-http://live.xmcdn.com:80/live/1011/64.m3u8
-#EXTINF:-1  tvg-chno="1" group-title="4-Radio#音乐",清晨音乐台
-https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1  group-title="4-Radio#音乐",厦门音乐广播
 http://ls.qingting.fm/live/1739.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",山东音乐广播 FM99.1
@@ -551,10 +555,12 @@ http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
 http://ls.qingting.fm/live/647.m3u8
 #EXTINF:-1  group-title="4-Radio#音乐",珠海电台交通音乐875
 http://ls.qingting.fm/live/1275.m3u8
-#EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://daairadio.tw/UploadFile/IMG_1511539469137.png" group-title="5-Radio#宗教",大爱网络电台
+#EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://i.ibb.co/wrSPPqdX/daairadio.png" group-title="5-Radio#宗教",大爱网络电台
+https://n08.radiojar.com/eme6n6k3rxhvv
+#EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://i.ibb.co/wrSPPqdX/daairadio.png" group-title="5-Radio#宗教",大爱网络电台
+https://n01.radiojar.com/eme6n6k3rxhvv
+#EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://i.ibb.co/wrSPPqdX/daairadio.png" group-title="5-Radio#宗教",大爱网络电台
 https://sky.doscast.com/proxy/tzuchic1/stream
-#EXTINF:-1  tvg-name="大爱网络电台" tvg-id="大爱网络电台" tvg-logo="https://daairadio.tw/UploadFile/IMG_1511539469137.png" group-title="5-Radio#宗教",大爱网络电台
-https://n01.radiojar.com/eme6n6k3rxhvv?rj-ttl=5&rj-tok=AAABk9iu9bQAEjKzHJ8dxP4DNg
 #EXTINF:-1  tvg-name="良友电台同行频道" tvg-id="良友电台同行频道" tvg-logo="https://729ly.net/images/platform/logo_tx.png" group-title="5-Radio#宗教",良友电台同行频道
 https://ly729.out.airtime.pro/ly729_a
 #EXTINF:-1  tvg-name="良友电台同行频道" tvg-id="良友电台同行频道" tvg-logo="https://729ly.net/images/platform/logo_tx.png" group-title="5-Radio#宗教",良友电台同行频道
@@ -562,16 +568,7 @@ https://c23.radioboss.fm/stream/194
 #EXTINF:-1  tvg-name="良友电台友音乐频道" tvg-id="良友电台友音乐频道" tvg-logo="https://729ly.net/images/platform/logo_YouMusic_800h.png" group-title="5-Radio#宗教",良友电台友音乐频道
 https://c25.radioboss.fm:8334/stream
 #EXTINF:-1  tvg-name="圣经广播网BBN Chinese" tvg-id="圣经广播网BBN Chinese" tvg-logo="https://bbn1.bbnradio.org/schinese/wp-content/uploads/sites/3/2017/10/SChinesebbnlogo-green.png" group-title="5-Radio#宗教",圣经广播网BBN Chinese
-http://stream2.bbnradio.org:8000/chinese
-#EXTINF:-1  group-title="5-Radio#宗教",希望之声_澳洲台
-https://livecast2.soundofhope.org/SYDNEY
-#EXTINF:-1  group-title="5-Radio#宗教",希望之声_旧金山粤语台
-https://livecast1.soundofhope.org/SF969
-#EXTINF:-1  group-title="5-Radio#宗教",希望之声_全美联播网
-https://livecast1.soundofhope.org/bayvoice
-#EXTINF:-1  group-title="5-Radio#宗教",希望之声_中国广播台
-https://livecast2.soundofhope.org/soh-live
-
+https://audio-edge-n9hx8.yul.o.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
 #EXTINF:-1  tvg-name="CNR 大湾区之声" tvg-id="CNR 大湾区之声" tvg-logo="https://live.fanmingming.com/•Radio/大湾区之声.png" group-title="6-Radio#中国",CNR 大湾区之声
 https://ytcast2.radio.cn/110/radios/40645/index_40645.m3u8?type=1&key=aefebc52403562c9375874d5b2b20aa4&time=69136f08
 #EXTINF:-1  tvg-name="CNR 经济之声" tvg-id="CNR 经济之声" tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="6-Radio#中国",CNR 经济之声
